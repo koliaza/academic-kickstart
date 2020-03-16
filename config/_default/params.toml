@@ -97,7 +97,7 @@ address = {street = "25 rue Dareau", city = "Paris", region = "", postcode = "75
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = [I'm generally working on standard US East Coast hours.]
+office_hours = ["I'm generally living on standard US West Coast hours."]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"
