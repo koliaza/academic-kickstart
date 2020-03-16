@@ -14,11 +14,11 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Digitrust Consortium at Université de Lorraine 
+- name: Digitrust Consortium, Université de Lorraine 
   url: "http://lue.univ-lorraine.fr/fr/article/digitrust-consortium-0"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: I am a postdoctoral researcher, recently recruited by the DigiTrust Consortium at the University of Lorraine to create transdisciplinary research projects. 
 
 interests:
 - Human-Computer Interactions
