@@ -24,9 +24,10 @@ interests:
 - Human-Computer Interactions
 - Security and Cryptography
 - Institution Design
-- Graph Theory and Complexity Theory
+- Graph Theory 
+- Complexity Theory
 - Queer and Crip Theory
-- Voting Theory and e-Democracy
+- Voting Theory, e-Democracy
 - History of Political Philosophy
 
 education:
@@ -38,7 +39,7 @@ education:
     institution: Ecole Normale Supérieure de Paris
     year: 2016
   - course: Master of Research in Computer Science
-    institution: Ecole Normale Supérieure de Paris and Paris VII University
+    institution: ENS de Paris and Paris VII University
     year: 2016
   - course: BScs in Computer Science and Mathematics
     institution: Paris VII University
@@ -60,9 +61,9 @@ social:
   link: https://github.com/koliaza
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
- #  link: files/cv-blanchard.pdf
+ - icon: cv
+   icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
