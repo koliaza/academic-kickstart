@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Enka Blanchard
 
 # Username (this should match the folder name)
 authors:
-- admin
+- enka
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,7 +18,7 @@ organizations:
   url: "http://lue.univ-lorraine.fr/fr/article/digitrust-consortium-0"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a postdoctoral researcher.
+bio: Transdisciplinary researcher working at Digitrust, Loria.
 
 interests:
 - Human-Computer Interactions
@@ -40,7 +40,7 @@ education:
     year: 2016
   - course: Master of Research in Computer Science
     institution: ENS de Paris and Paris VII University
-    year: 2016
+    year: 2015
   - course: BScs in Computer Science and Mathematics
     institution: Paris VII University
     year: 2012
@@ -61,7 +61,7 @@ social:
   link: https://github.com/koliaza
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/cv-blanchard.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
@@ -71,9 +71,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 I am a postdoctoral researcher, recently recruited by the DigiTrust Consortium at the University of Lorraine to create transdisciplinary research projects. Before this, I defended my PhD titled "Usability: low tech, high security" at IRIF in the Distributed Algorithms and Graphs Team. I was advised by Nicolas Schabanel and Ted Selker, with whom I worked on human usability of security and its applications to voting systems. I'm currently in the process of publishing a book on the use of randomness in politics. I'm also co-organising a seminar on law and informatics at EHESS.
