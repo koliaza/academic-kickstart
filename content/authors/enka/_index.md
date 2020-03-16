@@ -18,7 +18,7 @@ organizations:
   url: "http://lue.univ-lorraine.fr/fr/article/digitrust-consortium-0"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a postdoctoral researcher, recently recruited by the DigiTrust Consortium at the University of Lorraine to create transdisciplinary research projects. Before this, I defended my PhD titled "Usability: low tech, high security" at IRIF in the Distributed Algorithms and Graphs Team. I was advised by Nicolas Schabanel and Ted Selker, with whom I worked on human usability of security and its applications to voting systems. I'm currently in the process of publishing a book on the use of randomness in politics. I'm also co-organising a seminar on law and informatics at EHESS.
+bio: I am a postdoctoral researcher.
 
 interests:
 - Human-Computer Interactions
@@ -60,9 +60,9 @@ social:
   link: https://github.com/koliaza
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv-blanchard.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
