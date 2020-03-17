@@ -1,5 +1,6 @@
 ---
 title: "Usability: low tech, high security"
+date: 2019-06-21
 publishDate: 2019-06-21T15:00:00
 authors: ["Enka Blanchard"]
 publication_types: ["1"]
