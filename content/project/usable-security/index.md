@@ -2,8 +2,7 @@
 title: Usable security
 subtitle: 
 summary: With Ted Selker
-authors:
-- admin
+
 tags: []
 categories: []
 featured: false
