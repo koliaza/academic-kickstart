@@ -4,13 +4,8 @@ date: 2019-06-21
 publishDate: 2019-06-21T15:00:00
 authors: ["Enka Blanchard"]
 publication_types: ["7"]
-summary: "I defended my thesis Usability: low tech, high security on June 21st, 2019, before the following jury:\n
+summary: "I defended my thesis titled Usability: low tech, high security on June 21st, 2019, before the following jury:\n Nicolas Schabanel and Ted Selker (directors);\n Michelle Mazurek ([report](http://theses.md.univ-paris-diderot.fr/BLANCHARD_Enka_1_va_20190621.pdf)), David Naccache, Peter Y. A. Ryan (reviewers);\n Adrian Kosowski (examiner) and Marine Minier (examiner and president of the jury)."
 
-Nicolas Schabanel and Ted Selker (directors);
-
-Michelle Mazurek ([report](http://theses.md.univ-paris-diderot.fr/BLANCHARD_Enka_1_va_20190621.pdf)), David Naccache, Peter Y. A. Ryan (reviewers);
-
-Adrian Kosowski (examiner) and Marine Minier (examiner and president of the jury)."
 abstract: "This dissertation deals with the field of usable security, particularly in the contexts of online authentication and verifiable voting systems.
 The ever-expanding role of online accounts in our lives, from social networks to banking or online voting, has led to some initially counterproductive solutions. As recent research has shown, the problem is not just technical but has a very real psychosocial component. Password-based authentication, the subject of most of this thesis, is intrinsically linked to the unconscious mechanisms people use when interacting with security systems. Everyday, users face trade-offs between protecting their security and spending valuable mental resources, with a choice made harder by conflicting recommendations, a lack of standards, and the ad-hoc constraints still frequently encountered. Moreover, as recent results from usable security are often ignored, the problem might stem from a fundamental disconnect between the users, the developers and the researchers. 
 We try to address those problems with solutions that are not only simplified for the user's sake but also for the developer's. To this end, we use tools from cryptography and psychology, and report on seven usability experiments.
@@ -25,6 +20,8 @@ featured: false
 url_pdf: "http://theses.md.univ-paris-diderot.fr/BLANCHARD_Enka_1_va_20190621.pdf"
 url_report1: "http://theses.md.univ-paris-diderot.fr/BLANCHARD_Enka_1_va_20190621.pdf"
 url_report2: "http://theses.md.univ-paris-diderot.fr/BLANCHARD_Enka_1_va_20190621.pdf"
+url_video: "https://youtu.be/zmQ0UpDgPvQ"
+url_slides: "handout.pdf"
 
 ---
 
