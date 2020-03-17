@@ -29,6 +29,8 @@ The second part focuses on end-users, starting by a proposed mental password man
 
 In the third part, we focus on voting protocols, and investigate why changing the ones used in practice is an uphill battle. We try to answer a demand for simple paper-based systems by providing low-tech versions of the first paper-based verifiable voting scheme. To conclude, we propose a set of low-tech primitives combined in a protocol that allows usable verifiable voting with no electronic means in small elections.
 
+
+
 Defended at Université Sorbonne Paris Cité on June 21st, 2019, before the following jury ([final report](files/final_report.pdf)):
 
 
