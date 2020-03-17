@@ -1,7 +1,7 @@
 ---
-title: Voting systems
+title: Planetary Science
 subtitle: 
-summary: Humans, institutions and technology.
+summary: Better metaheuristics to map Pluto.
 authors:
 - enka
 tags: []

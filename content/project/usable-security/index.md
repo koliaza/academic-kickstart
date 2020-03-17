@@ -1,7 +1,7 @@
 ---
 title: Usable security
 subtitle: 
-summary: Putting the human at the center of the system
+summary: Improving security by putting the human at the center of the system.
 authors : 
 - enka
 tags: []

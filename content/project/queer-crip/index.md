@@ -1,7 +1,7 @@
 ---
-title: Usable security
+title: Queer and Crip Theory
 subtitle: 
-summary: Putting the human at the center of the system
+summary: Temporalities, spatialities and intersections of identities.
 authors : 
 - enka
 tags: []

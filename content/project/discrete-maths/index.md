@@ -1,7 +1,7 @@
 ---
-title: Voting systems
-subtitle: 
-summary: Humans, institutions and technology.
+title: Discrete Mathematics
+subtitle:
+summary: Formalisation never hurt anyone.
 authors:
 - enka
 tags: []
