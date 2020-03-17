@@ -1,5 +1,5 @@
 ---
-title: "Du hachage c{\^o}t{\'e} client pour l'authentification par mot de passe"
+title: "Du hachage côté client pour l'authentification par mot de passe"
 date: 2020-01-01
 publishDate: 2020-03-17T03:44:16.936373Z
 authors: ["Enka Blanchard", "Xavier Coquand"]
