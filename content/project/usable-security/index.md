@@ -1,7 +1,7 @@
 ---
 title: Usable security
 subtitle: 
-summary: With Ted Selker
+summary: Putting the human at the center of the system
 authors : 
 - enka
 tags: []
@@ -22,11 +22,11 @@ image:
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 ---
-Since August 2018, I have been working on multiple technologies to improve the human side of security, with a focus on authentication and [voting](project/voting/). Most of this work has been with Ted Selker, with occasional assistance from Clément Malaingre, Eli Sennesh, Levi Gabasova, Xavier Coquand and Siargey Kachanovich.
+Since August 2018, I have been working on multiple technologies to improve the human side of security, with a focus on authentication and [voting]({{< ref "project/voting/" >}}). Most of this work has been with Ted Selker, with occasional assistance from Clément Malaingre, Eli Sennesh, Levi Gabasova, Xavier Coquand and Siargey Kachanovich.
 
 Our work so far includes research on 
 
-- [passphrases](project/usable-security/)
+- [passphrases]({{< ref "project/usable-security/" >}})
 
 - mental password managers
 
