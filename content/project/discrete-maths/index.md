@@ -35,10 +35,9 @@ I still try to do some research, mostly with [Siargey Kachanovich](http://perso.
 
 - My first paper, on the [roots of graph polynomials]().
 
+- A second that came shortly after but still isn't published, on [paths in $2$-connected graphs]().
 
-- A second that came shortly after but still isn't published, on [paths in $2$-connected graphs]();
-
-- Our paper with Nicolas Schabanel on Dynamic Clustering (and the corresponding French paper) came shortly after but still isn't published, on [paths in $2$-connected graphs]();
+- Our paper with Nicolas Schabanel on [Dynamic Clustering]() (and the corresponding [French paper]()).
 
 - A paper with Siargey Kachanovich on [counting the number of paths in a constrained control-flow graph]({{< ref "publication/blanchard-2019-countingauthorisedpaths/" >}}).
 
