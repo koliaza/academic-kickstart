@@ -80,4 +80,4 @@ I am a postdoctoral researcher recently recruited by the [Digitrust Consortium](
 
 My research is heavily transdisciplinary and my main interests currently go from usable security to  institution design, empirical psychology and crip theory.  As such, I tend to work with a large set of colleagues from different labs and am a member of multiple research groups, such as the [Random Sample Voting Project](http://rsvoting.org/), where I am responsible for the organization of RSV elections. I'm also a member of [Chôros](https://www.choros.place/) and the [POP Special Exploratory Committee](http://poplatform.org/), a new political party/platform where we seek to implement real-time democracy.
 
-[Here]({{< ref "/post/personal/" >}})'s if you want to know a bit more about me, non-professionally.
+[Click here]({{< ref "/post/personal/" >}}) if you want to know a bit more about me, non-professionally.
