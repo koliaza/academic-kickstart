@@ -6,10 +6,13 @@ authors: ["Enka Blanchard"]
 publication_types: ["7"]
 summary: "I defended my thesis titled Usability: low tech, high security on June 21st, 2019, before the following jury:
 
+
  Nicolas Schabanel and Ted Selker (directors);
 
- Michelle Mazurek ([report](mazurek_report.pdf)), David Naccache, Peter Y. A. Ryan (reviewers);
+ 
+ Michelle Mazurek ([report](files/mazurek_report.pdf)), David Naccache, Peter Y. A. Ryan (reviewers);
 
+ 
  Adrian Kosowski (examiner) and Marine Minier (examiner and president of the jury)."
 
 abstract: "This dissertation deals with the field of usable security, particularly in the contexts of online authentication and verifiable voting systems.
