@@ -23,6 +23,8 @@ In the third part, we focus on voting protocols, and investigate why changing th
 "
 featured: false
 url_pdf: "http://theses.md.univ-paris-diderot.fr/BLANCHARD_Enka_1_va_20190621.pdf"
+url_report1: "http://theses.md.univ-paris-diderot.fr/BLANCHARD_Enka_1_va_20190621.pdf"
+url_report2: "http://theses.md.univ-paris-diderot.fr/BLANCHARD_Enka_1_va_20190621.pdf"
 
 ---
 
