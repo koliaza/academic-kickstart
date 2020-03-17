@@ -28,7 +28,7 @@ I have written a few texts on the subject:
 
 - A paper focused on crip [spatialities]({{< ref "publication/blanchard-2018-improvingsecurityusability/" >}})
 
-- A more creative text on [travelling while crip]({{< ref "publication/blanchard-2019-consonant-vowel-consonants//" >}})
+- A more creative text on [travelling while crip]({{< ref "publication/blanchard-2019-consonant-vowel-consonants/" >}})
 
 - A more formal analysis of the [temporal taxes]() featured in the previous text
 
