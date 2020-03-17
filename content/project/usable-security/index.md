@@ -22,14 +22,19 @@ image:
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 ---
-Since August 2018, Ted Selker and I have been working on multiple technologies to improve the human side of security, with a focus on authentication and [voting](project/voting/).
+Since August 2018, I have been working on multiple technologies to improve the human side of security, with a focus on authentication and [voting](project/voting/). Most of this work has been with Ted Selker, with occasional assistance from Clément Malaingre, Eli Sennesh, Levi Gabasova, Xavier Coquand and Siargey Kachanovich.
 
 Our work so far includes research on 
 
 - [passphrases](project/usable-security/)
 
 - mental password managers
+
+- improved single-used codes for manual transcription
+
+- typo correction for passwords, theoretically and practically
+
+- eye biometrics for authentication
  
+- everlasting cryptography using pornography
 
-
-if not we'll see
