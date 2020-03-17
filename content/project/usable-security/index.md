@@ -2,7 +2,8 @@
 title: Usable security
 subtitle: 
 summary: With Ted Selker
-
+authors : 
+- enka
 tags: []
 categories: []
 featured: false
@@ -21,6 +22,14 @@ image:
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 ---
-Test to see if this thing works
+Since August 2018, Ted Selker and I have been working on multiple technologies to improve the human side of security, with a focus on authentication and [voting](project/voting/).
+
+Our work so far includes research on 
+
+- [passphrases](project/usable-security/)
+
+- mental password managers
+ 
+
 
 if not we'll see
