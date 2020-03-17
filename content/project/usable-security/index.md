@@ -21,6 +21,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
+---
 Test to see if this thing works
 
 if not we'll see
