@@ -68,6 +68,3 @@ subtitle = ""
  css_class = ""
 +++
 
-#{{% alert note %}}
-#[Filter publications]({{< ref "/publication/_index.md" >}}).
-#{{% /alert %}}
