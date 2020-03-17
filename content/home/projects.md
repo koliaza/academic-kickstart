@@ -10,7 +10,7 @@ subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "post"
+  page_type = "project"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -23,7 +23,7 @@ subtitle = ""
   
   [content.filters]
     tag = ""
-    category = "project"
+    category = ""
     publication_type = ""
     author = ""
     exclude_featured = false
