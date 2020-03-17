@@ -26,7 +26,7 @@ Since August 2018, I have been working on multiple technologies to improve the h
 
 Our work so far includes research on 
 
-- [passphrases]({{< ref "publication/blanchard-2018-improvingsecurityusability-copy/" >}})
+- [passphrases]({{< ref "publication/blanchard-2018-improvingsecurityusability/" >}})
 
 - [mental password managers]({{< ref "publication/blanchard-2019-consonant-vowel-consonants//" >}})
 
