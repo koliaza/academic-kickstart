@@ -22,19 +22,19 @@ image:
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 ---
-Since August 2018, I have been working on multiple technologies to improve the human side of security, with a focus on authentication and [voting]({{< ref "project/voting/" >}}). Most of this work has been with Ted Selker, with occasional assistance from Clément Malaingre, Eli Sennesh, Levi Gabasova, Xavier Coquand and Siargey Kachanovich.
+Since August 2018, I have been working on multiple technologies to improve the human side of security, with a focus on authentication and [voting]({{< ref "project/voting/" >}}). Most of this work has been with [Ted Selker](http://ted.selker.com/), with occasional assistance from [Clément Malaingre](https://www.linkedin.com/in/cl%C3%A9ment-malaingre-57b165131/?originalSubdomain=fr), [Eli Sennesh](https://esennesh.github.io/), [Levi Gabasova](http://www.winterhazelly.cloud), [Xavier Coquand](https://www.linkedin.com/in/xavier-coquand-423161b0/?originalSubdomain=fr), [Florentin Waligorski](https://www.researchgate.net/profile/Florentin_Waligorski) and [Siargey Kachanovich](http://perso.eleves.ens-rennes.fr/people/siargey.kachanovich/).
 
 Our work so far includes research on 
 
-- [passphrases]({{< ref "project/usable-security/" >}})
+- [passphrases]({{< ref "publication/blanchard-2018-improvingsecurityusability-copy/" >}})
 
-- mental password managers
+- [mental password managers]({{< ref "publication/blanchard-2019-consonant-vowel-consonants//" >}})
 
-- improved single-used codes for manual transcription
+- [improved single-used codes for manual transcription]({{< ref "publication/blanchard-2019-consonant-vowel-consonants//" >}})
 
-- typo correction for passwords, theoretically and practically
+- typo correction for passwords, [theoretically]({{< ref "publication/blanchard-2019-consonant-vowel-consonants//" >}}) and [practically]({{< ref "publication/publication/blanchard-2019-consonant-vowel-consonants//" >}})
 
-- eye biometrics for authentication
+- [eye biometrics for authentication]({{< ref "publication/blanchard-2019-consonant-vowel-consonants//" >}})
  
-- everlasting cryptography using pornography
+- [everlasting cryptography using pornography]({{< ref "publication/blanchard-2019-consonant-vowel-consonants//" >}})
 
