@@ -27,4 +27,4 @@ projects: []
 ---
 This project is mostly led by my partner Levi Gabasova, and consists in using relatively new metaheuristical methods to do spectrum inversion and compute estimates to map the geological composition of Pluto.
 
-See their [website](http://www.winterhazelly.cloud) for more info, or our extended abstracts from the European Planetary Science Congress of [2018]() and [2019]())
+See their [website](http://www.winterhazelly.cloud) for more info, or our extended abstracts from the European Planetary Science Congress of [2018]() and [2019]().
