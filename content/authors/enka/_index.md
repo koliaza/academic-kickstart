@@ -44,6 +44,10 @@ education:
   - course: BScs in Computer Science and Mathematics
     institution: Paris VII University
     year: 2012
+  job:
+  - job: Post-doctoral researcher
+    institution: Digitrust, Loria
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
