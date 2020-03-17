@@ -1,62 +1,217 @@
 
-@InProceedings{Blanchard2019ReflexiveMemoryAuthenticator,
-  author    = {Enka Blanchard and Siargey Kachanovich and Ted Selker and Florentin Waligorski},
-  title     = {Reflexive Memory Authenticator: {A} Proposal for Effortless Renewable Biometrics},
-  booktitle = {Emerging Technologies for Authorization and Authentication - Second International Workshop, {ETAA} 2019, Luxembourg City, Luxembourg, September 27, 2019, Proceedings},
+@InProceedings{Blanchard2019noteinflatingenclosing,
+  author    = {Blanchard, N. K. and Kachanovich, Siargey},
+  title     = {A note on the inflating enclosing ball problem},
+  booktitle = {5th Bordeaux Graph Workshop},
   year      = {2019},
-  editor    = {Andrea Saracino and Paolo Mori},
-  volume    = {11967},
-  series    = {Lecture Notes in Computer Science},
-  pages     = {104--121},
-  publisher = {Springer},
-  abstract  = {Today's biometric authentication systems are still struggling with replay attacks and irrevocable stolen credentials. This paper introduces a biometric protocol that addresses such vulnerabilities. The approach prevents identity theft by being based on memory creation biometrics. It takes inspiration from two different authentication methods, eye biometrics and challenge systems, as well as a novel biometric feature: the pupil memory effect. The approach can be adjusted for arbitrary levels of security, and credentials can be revoked at any point with no loss to the user. The paper includes an analysis of its security and performance, and shows how it could be deployed and improved.},
-  doi       = {10.1007/978-3-030-39749-4\_7},
-  timestamp = {Wed, 29 Jan 2020 13:12:55 +0100},
-  url       = {https://doi.org/10.1007/978-3-030-39749-4\_7},
+  date      = {2019-10-28},
+  location  = {Bordeaux, France},
+  abstract  = {
+Our goal in this paper is, given a connected set of balls, to select  and inflate one ball to  cover the whole set with the minimal radius. More formally, we are given  an abstract metric space and a path-connected set of balls with given centres $c_{1},c_{2},\dots, c_{n}$ and radii $r_1, r_2,\dots, r_n$. We want to choose one of the centres and create a ball of radius $R$ around it to cover the whole set of balls with minimal $R$. 
+By using arguments from graph theory, we show that  $R\le r_{a}+\sum_{j}r_{j}$, where  $r_{a}$ is the mean of the two biggest radii among the $r_{i}$. This bound is tight. Finally, we show that in the usual complexity models, computing this centre requires $\Theta(n^2)$ operations. },
+  groups    = {Blanchard, self},
 }
 
-@InProceedings{Blanchard2019ConsonantVowelConsonants,
-  author    = {Enka Blanchard and Leila Gabasova and Ted Selker},
-  title     = {Consonant-Vowel-Consonants for Error-Free Code Entry},
-  booktitle = {{HCI} for Cybersecurity, Privacy and Trust - First International Conference, {HCI-CPT} 2019, Held as Part of the 21st {HCI} International Conference, {HCII} 2019, Orlando, FL, USA, July 26-31, 2019, Proceedings},
+@InProceedings{Blanchard2020Origamivotingnon,
+  author    = {Blanchard, Enka and Selker, Ted},
+  title     = {Origami voting: a non-cryptographic approach to transparent ballot verification},
+  booktitle = {5th Workshop on Advances in Secure Electronic Voting -- VOTING'20},
+  year      = {2020},
+  abstract  = {    Over the past four decades, fear of election manipulation and hacking has spurred the security technology community to propose a variety of voting systems to implement verifiable voting. 
+Most of these rely on  hard to understand cryptographic protocols, which can affect whether users  actually verify their selections.  Three-Ballot and Vote/Anti-Vote/Vote, two related systems among the few non-cryptographic end-to-end verifiable voting systems, made improvements in security while eliminating complex protocols. They unfortunately suffered from usability issues, and although they did not require  cryptographic primitives, they still relied on electronic devices. To address this, we  introduce three folded-paper based systems that allow verifiable voting and resist common attacks despite not relying on any cryptography or electronic devices. The proposals are based on 1) semi-translucent  ballots, 2) masking tape, or 3) folding and punching. These Origami voting  methods help users understand the underlying mechanisms and give them a  direct geometric approach to verification.},
+  groups    = {Blanchard, self},
+  location  = {Kota Kinabalu, Sabah, Malaysia},
+}
+
+@InProceedings{Blanchard2019Passwordtypocorrection,
+  author    = {Blanchard, N. K.},
+  title     = {Password typo correction using discrete logarithms},
+  booktitle = {8th International Conference on Computer Science and Communication Engineering -- ICCSCE 2019},
   year      = {2019},
-  editor    = {Abbas Moallem},
-  volume    = {11594},
-  series    = {Lecture Notes in Computer Science},
-  pages     = {19--37},
-  publisher = {Springer},
-  abstract  = {Codes and passwords are the bane of user experiences: even small mistakes can delay desired activities, causing undue frustration. Work on codes has focused on security instead of people's ability to enter them error-free. Difficulties observed in a security demonstration motivated this investigation of code transcription difficulty. A pilot study with 33 subjects and a follow-up study with 267 subjects from 24 countries measured performance and preference for codes of varying lengths, patterns, and character sets.
+  abstract  = {
+As passwords remain the main online authentication method, focus has shifted from naive entropy to how usability improvements can increase security.  Chatterjee et al. recently introduced the first two typo-tolerant password checkers, their second being usable in practice while being able to correct up to $32\%$ of typos, with no real security cost. 
 
-We found that, for users of all languages, long codes with alternating consonant - vowel patterns were more accurately transcribed and are preferred over shorter numeric or alphabetic codes. Mixed-case and alphanumeric character sets both increased transcription errors.
-
-The proposed CVC6 code design composed of six Consonant-Vowel-Consonant trigrams is faster to enter, more secure, preferred by users, and more impervious to user error when compared to codes typically used for security purposes. An extension integrates error detection and correction, essentially eliminating typos.},
-  doi       = {10.1007/978-3-030-22351-9\_2},
-  timestamp = {Wed, 17 Jul 2019 11:11:18 +0200},
-  url       = {https://doi.org/10.1007/978-3-030-22351-9\_2},
+We propose an alternative framework which corrects up to $57\%$ of typos without affecting user experience, at no computational cost to the server. },
+  groups    = {Blanchard, self},
 }
 
-@Article{Blanchard2019Longestpaths2,
-  author        = {Enka Blanchard and Eldar Fischer and Oded Lachish and Felix Reidl},
-  title         = {Longest paths in 2-edge-connected cubic graphs},
-  journal       = {CoRR},
-  year          = {2019},
-  volume        = {abs/1903.02508},
-  abstract      = {We prove almost tight bounds on the length of paths in $2$-edge-connected cubic graphs. Concretely, we show that (i) every $2$-edge-connected cubic graph of size $n$ has a path of length $\Omega\left(\frac{\log^2{n}}{\log{\log{n}}}\right)$, and (ii) there exists a $2$-edge-connected cubic graph, such that every path in the graph has length $O(\log^2{n})$.},
-  archiveprefix = {arXiv},
-  eprint        = {1903.02508},
-  timestamp     = {Sun, 31 Mar 2019 19:01:24 +0200},
-  url           = {http://arxiv.org/abs/1903.02508},
+@InProceedings{Blanchard2016ClusteringDynamiquepar,
+  author      = {Blanchard, N. K. and Schabanel, Nicolas},
+  title       = {{Clustering Dynamique par Rayon }},
+  booktitle   = {{ALGOTEL 2016 - 18{\`e}mes Rencontres Francophones sur les Aspects Algorithmiques des T{\'e}l{\'e}communications}},
+  year        = {2016},
+  url         = {https://hal.archives-ouvertes.fr/hal-01304598},
+  abstract    = {Comprendre les dynamiques d'{\'e}volution de r{\'e}seaux sociaux et d'infrastructures est un probl{\`e}me crucial dans les domaines comme l'{\'e}pid{\'e}miologie, l'urbanisme ou la marketing viral. Une quantit{\'e} croissante de donnÂ´ees dynamiques sur des r{\'e}seaux divers est disponible depuis plusieurs ann{\'e}es mais les outils pour analyser ces donn{\'e}es ne sont pas toujours adapt{\'e}s. Nous proposons d'utiliser ces donn{\'e}es dynamique pour faire des groupes d'individus de comportement similaire restant stables avec le temps. Pour cela nous introduisons une variante dynamique du probl{\`e}me Sum-Radii Clustering, en utilisant le formalisme du probl{\`e}me Dynamic Facility Location, avec la distinction que nous cherchons {\`a} minimiser le diam{\`e}tre des groupes au lieu de la somme des distances au centre. Nous {\'e}tudions deux adaptations naturelles d'algorithmes probabilistes utilis{\'e}s pour Dynamic Facility Location (marchant respectivement dans le cas g{\'e}en{\'e}eral et quand on se restreint {\`a} des espaces m{\'e}triques). Dans le premier cas, l'algorithme atteint la m{\^e}me borne d'approximation et nous proposons une am{\'e}lioration, aussi valable pour l'algorithme original (faisant passer le facteur d'approximation de O(lognT) {\`a} O(logn), o{\`u} n est le nombre de clients et T la dur{\'e}e en nombre de pas de temps). Enfin, nous montrons que dans le cas m{\'e}trique, les outils actuels ne permettent pas encore de donner un meilleur r{\'e}sultat, et exhibons un contre-exemple pour le deuxi{\`e}me algorithme, prouvant qu'il ne peut pas atteindre une approximation constante.
+Mots-clefs},
+  address     = {Bayonne, France},
+  file        = {article%20algotel%20dfl18.pdf:https\://hal.archives-ouvertes.fr/hal-01304598/file/article%20algotel%20dfl18.pdf:PDF},
+  groups      = {Blanchard, self, clustering},
+  hal_id      = {hal-01304598},
+  hal_version = {v2},
+  keywords    = {clustering ; algorithmes d'approximation ; Facility location ; graphes dynamiques},
 }
 
-@InProceedings{Blanchard2018Improvingsecurityusability,
-  author    = {Enka Blanchard and Cl{\'{e}}ment Malaingre and Ted Selker},
-  title     = {Improving security and usability of passphrases with guided word choice},
-  booktitle = {Proceedings of the 34th Annual Computer Security Applications Conference, {ACSAC} 2018, San Juan, PR, USA, December 03-07, 2018},
+@InProceedings{Blanchard2016Voteparsondage,
+  author      = {Blanchard, N. K.},
+  title       = {Vote par sondage uniforme incorruptible},
+  booktitle   = {{ALGOTEL 2016 - 18{\`e}mes Rencontres Francophones sur les Aspects Algorithmiques des T{\'e}l{\'e}communications}},
+  year        = {2016},
+  url         = {https://hal.archives-ouvertes.fr/hal-01304599},
+  abstract    = {Introduit en 2012 par David Chaum, le vote par sondage uniforme (random-sample voting) est un protocole de vote
+bas{\'e} sur un choix d'une sous-population repr{\'e}sentative, permettant de limiter les coÃ»ts tout en ayant de nombreux 
+avantages, principalement lorsqu'il est coupl{\'e} {\`a} d'autres techniques comme ThreeBallot. Nous analysons un probl{\`e}me de 
+corruptibilit{\'e} potentielle oÃ¹ les votants peuvent vendre leur vote au plus offrant et proposons une variation du protocole rem{\'e}diant {\`a} ce probl{\`e}me, ainsi que plusieurs extensions possibles selon les propri{\'e}t{\'e}s d{\'e}sir{\'e}es.},
+  address     = {Bayonne, France},
+  file        = {algotel%20vote.pdf:https\://hal.archives-ouvertes.fr/hal-01304599/file/algotel%20vote.pdf:PDF},
+  groups      = {Blanchard, self},
+  hal_id      = {hal-01304599},
+  hal_version = {v1},
+  keywords    = {Random sample voting ; Decision theory ; Online voting ; Probabilistic protocol},
+}
+
+@InProceedings{Blanchard2018Motsdepasse,
+  author      = {Blanchard, N. K. and Malaingre, Cl{\'e}ment and Selker, Ted},
+  title       = {{Mots de passe : le choix humain plus s{\'e}curis{\'e} que la g{\'e}n{\'e}ration al{\'e}atoire}},
+  booktitle   = {{ALGOTEL 2018 - 20{\`e}mes Rencontres Francophones sur les Aspects Algorithmiques des T{\'e}l{\'e}communications}},
+  year        = {2018},
+  month       = {5},
+  url         = {https://hal.archives-ouvertes.fr/hal-01781239},
+  address     = {Roscoff, France},
+  file        = {mots-de-passe%20algotel.pdf:https\://hal.archives-ouvertes.fr/hal-01781239/file/mots-de-passe%20algotel.pdf:PDF},
+  groups      = {Blanchard, self},
+  hal_id      = {hal-01781239},
+  hal_version = {v1},
+  keywords    = {Mots de passe ; Etude utilisateur ; S{\'e}curit{\'e} accessible, rank1},
+}
+
+@InProceedings{Blanchard2018Creerdetete,
+  author      = {Blanchard, N. K. and Gabasova, Leila and Selker, Ted and Sennesh, Eli},
+  title       = {{Cr{\'e}er de t{\^e}te de nombreux mots de passe inviolables et inoubliables}},
+  booktitle   = {{ALGOTEL 2018 - 20{\`e}mes Rencontres Francophones sur les Aspects Algorithmiques des T{\'e}l{\'e}communications}},
+  year        = {2018},
+  month       = {5},
+  url         = {https://hal.archives-ouvertes.fr/hal-01781238},
+  address     = {Roscoff, France},
+  file        = {creer-de-tete%20algotel.pdf:https\://hal.archives-ouvertes.fr/hal-01781238/file/creer-de-tete%20algotel.pdf:PDF},
+  groups      = {Blanchard, psych-experiment, Well read, self},
+  hal_id      = {hal-01781238},
+  hal_version = {v1},
+  keywords    = {G{\'e}n{\'e}rateurs de mots de passe ; Authentification ; S{\'e}curit{\'e} accessible},
+}
+
+@InProceedings{Blanchard2019Commentcorrigerefficacement,
+  author    = {Blanchard, N. K.},
+  title     = {Comment corriger efficacement les typos dans les mots de passe},
+  booktitle = {{ALGOTEL 2019 - 21{\`e}mes Rencontres Francophones sur les Aspects Algorithmiques des T{\'e}l{\'e}communications}},
+  year      = {2019},
+  groups    = {Blanchard, self},
+}
+
+@Article{Makowsky2014locationrootsgraph,
+  author    = {Makowsky, Johann A. and Ravve, Elena V. and Blanchard, N. K.},
+  title     = {On the location of roots of graph polynomials},
+  journal   = {European Journal of Combinatorics},
+  year      = {2014},
+  volume    = {41},
+  pages     = {1--19},
+  abstract  = {Roots of graph polynomials such as the characteristic polynomial, the chromatic
+polynomial, the matching polynomial, and many others are widely studied. In this
+paper we examine to what extent the location of these roots reflects the graph
+theoretic properties of the underlying graph.},
+  groups    = {Old maths, self},
+  publisher = {Elsevier},
+}
+
+@Article{Gabasova2018Progressivemetaheuristicshigh,
+  author   = {Gabasova, Leila and Blanchard, N. K. and Schmitt, Bernard and Grundy, Will and {New Horizons COMP team}},
+  title    = {Progressive metaheuristics for high-dimensional radiative transfer model inversion},
+  journal  = {European Planetary Science Congress},
+  year     = {2018},
+  groups   = {Blanchard, noabstract, self},
+  keywords = {rank1},
+}
+
+@InProceedings{Gabasova2019Plutosurfacecomposition,
+  author    = {Gabasova, Leila R. and Blanchard, N. K. and Schmitt, Bernard and Grundy, Will M. and Olkin, Cathy B. and Spencer, John R. and Young, Leslie A. and Smith, Kimberly Ennico and Weaver, Hal A. and Stern, Alan and {New Horizons COMP team}},
+  title     = {Pluto surface composition from spectral model inversion with metaheuristics},
+  booktitle = {European Planetary Science Congress},
+  year      = {2019},
+  groups    = {Blanchard, noabstract, self},
+  journal   = {European Planetary Science Congress},
+  keywords  = {rank1},
+}
+
+@Article{Blanchard2018BuildingTrustSample,
+  author   = {Blanchard, N. K.},
+  title    = {Building Trust for Sample Voting},
+  journal  = {International Journal of Decision Support System Technology},
+  year     = {2018},
+  volume   = {10},
+  number   = {4},
+  pages    = {50-64},
+  abstract = {This work explores how to build popular trust for voting systems that rely heavily on
+statistical tools, as they are generally counter-intuitive to the average citizen (and even to experts). By trying out the voting system in public and letting people tinker with it, a first level of familiarity can be achieved. Preliminary results from real-world experiments seem encouraging and point out the importance of psychological and sociological factors in election organization as well as the influence of user interface design. To go further, integration into a larger debating platform held by a national party could give first-hand experience to the majority of the people, and would progressively build trust as the political stakes grow higher. Finally, we look into how different e-democratic tools could interact in a mutually beneficial manner.
+Keywords},
+  doi      = {10.4018/IJDSST.2018100104},
+  groups   = {Blanchard, voting is hard, Well read, CVC-paper, CVC chapter, self},
+}
+
+@InProceedings{Blanchard2017Buildingtrustsample,
+  author    = {Blanchard, N. K.},
+  title     = {Building trust for sample voting},
+  booktitle = {Proceedings of TeSS},
+  year      = {2017},
+  editor    = {Camilleri, G. and C{\`e}ze, G. and Dupin de St-Cyr, F. and Zarat{\'e}, P.},
+  abstract  = {This work explores how to build popular trust for voting systems that rely heavily
+on statistical tools, those being generally counter-intuitive to the general population (and
+even to experts). By trying out the voting system in public and letting people fiddle
+with it, a first level of familiarity can be achieved. To go further, integration into a larger
+debating platform held by a national party could give first-hand experience to the majority
+of the people, and would progressively build trust as the political stakes grow higher.
+Preliminary results seem encouraging and point out the importance of psychological and
+sociological factors in election organization, and the influence of user interface design.},
+  groups    = {Blanchard, self},
+}
+
+@InProceedings{Blanchard2019CIVICSChangingIncentives,
+  author    = {Blanchard, N. K..},
+  title     = {{CIVICS: Changing Incentives for Voters in International Cooperation through Sampling}},
+  booktitle = {Smolny Conference},
+  year      = {2019},
+  groups    = {Blanchard, self},
+}
+
+@InProceedings{Blanchard2017DynamicSumRadii,
+  author    = {Blanchard, N. K. and Schabanel, Nicolas},
+  title     = {{Dynamic Sum-Radii Clustering}},
+  booktitle = {WALCOM: Algorithms and Computation: 11th International Conference and Workshops -- WALCOM},
+  year      = {2017},
+  editor    = {Poon, Sheung-Hung and Rahman, Md. Saidur and Yen, Hsu-Chun},
+  publisher = {Springer International Publishing},
+  isbn      = {978-3-319-53925-6},
+  pages     = {30--41},
+  doi       = {10.1007/978-3-319-53925-6_3},
+  abstract  = {Real networks have in common that they evolve over time and their dynamics have a huge impact on their structure. Clustering is an efficient tool to reduce the complexity to allow representation of the data. In 2014, Eisenstat et al. introduced a dynamic version of this classic problem where the distances evolve with time and where coherence over time is enforced by introducing a cost for clients to change their assigned facility. They designed a {\$}{\$}{\backslash}varTheta ({\backslash}ln n){\$}{\$} -approximation. An O(1)-approximation for the metric case was proposed later on by An et al. (2015). Both articles aimed at minimizing the sum of all client-facility distances; however, other metrics may be more relevant. In this article we aim to minimize the sum of the radii of the clusters instead. We obtain an asymptotically optimal {\$}{\$}{\backslash}varTheta ({\backslash}ln n){\$}{\$} -approximation algorithm where n is the number of clients and show that existing algorithms fromÃ‚Â An et al. (2015) do not achieve a constant approximation in the metric variant of this setting.},
+  comment   = { 2017, Hsinchu, Taiwan, March 29--31, 2017, Proceedings},
+  groups    = {Blanchard, self, clustering},
+}
+
+@InProceedings{Blanchard2018Improvingvotingtechnology,
+  author    = {Blanchard, N. K. and Selker, Ted},
+  title     = {Improving voting technology is hard: the trust-legitimacy-participation loop and related problems},
+  booktitle = {Workshop on Socio-Technical Aspects in Security and Trust -- {STAST}},
   year      = {2018},
-  pages     = {723--732},
-  publisher = {{ACM}},
-  abstract  = {Passphrases have many uses, such as serving as seeds for passwords. User-created passphrases are easier to remember, but tend to be less secure than ones created from words randomly chosen in a dictionary. This paper develops a way of making more memorable, more secure passphrases. It investigates the security and usability of creating a passphrase by choosing from a randomly generated set of words presented as a two-dimensional array. A usability experiment shows that participants using this method achieved 97% to 99% of the maximal theoretical entropy and commited fewer than half as many memory mistakes as a control group with assigned passphrases. It also shows that their choices are affected by word familiarity and weakly by the word's position in the array. Prompting a person with random words from a large dictionary is an effective way of helping them make a more memorable high-entropy passphrase.},
-  doi       = {10.1145/3274694.3274734},
-  timestamp = {Wed, 05 Dec 2018 10:05:35 +0100},
-  url       = {https://doi.org/10.1145/3274694.3274734},
+  abstract  = {Experience shows that the best technology is not always adopted. In the security arena no technology has to stand a harder challenge or has higher consequences for changing society by failure than voting technology. Best technology in voting is defined by accuracy, security, and integrity. But trust prescribes what technology we use. In practice, voting technology choices are driven by what people are politically comfortable with or by initiatives administrators can take trying out technology someone has made for them. This paper analyses how this kind of "trust" plays out: its influencers and consequences, such as a negative trust-legitimacy-participation- incentive loop. The paper then formalises problems that developers of improved systems face. The analysis is underscored by example, especially drawing from issues faced by a recent experiment on the implementation of multiple voting systems in parallel.},
+  comment   = { , San Juan, Puerto Rico},
+  groups    = {Blanchard, 3-ballot, Well read, chapter 3-ballot, self},
+}
+
+@InProceedings{Blanchard2019Movingclientsided,
+  author    = {Blanchard, N. K. and Coquand, Xavier and Selker, Ted},
+  title     = {Moving to client-sided hashing for online authentication},
+  booktitle = {Workshop on Socio-Technical Aspects in Security and Trust -- {STAST}},
+  year      = {2019},
+  abstract  = {Experience shows that the best technology is not always adopted. In the security arena no technology has to stand a harder challenge or has higher consequences for changing society by failure than voting technology. Best technology in voting is defined by accuracy, security, and integrity. But trust prescribes what technology we use. In practice, voting technology choices are driven by what people are politically comfortable with or by initiatives administrators can take trying out technology someone has made for them. This paper analyses how this kind of "trust" plays out: its influencers and consequences, such as a negative trust-legitimacy-participation- incentive loop. The paper then formalises problems that developers of improved systems face. The analysis is underscored by example, especially drawing from issues faced by a recent experiment on the implementation of multiple voting systems in parallel.},
+  comment   = { , San Juan, Puerto Rico},
+  groups    = {Blanchard, self},
 }
