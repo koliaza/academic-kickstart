@@ -22,6 +22,5 @@ security according to multiple attack models. Finally, we show the
 promising results of a small-scale user study that put participants
 in real-life conditions for multiple days"
 featured: false
-publication: "*5th Workshop on Advances in Secure Electronic Voting -- VOTING'20*"
 ---
 
