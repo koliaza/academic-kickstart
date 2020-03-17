@@ -28,6 +28,17 @@ The second part focuses on end-users, starting by a proposed mental password man
 
 
 In the third part, we focus on voting protocols, and investigate why changing the ones used in practice is an uphill battle. We try to answer a demand for simple paper-based systems by providing low-tech versions of the first paper-based verifiable voting scheme. To conclude, we propose a set of low-tech primitives combined in a protocol that allows usable verifiable voting with no electronic means in small elections.
+
+Defended at Université Sorbonne Paris Cité on June 21st, 2019, before the following jury ([final report](files/final_report.pdf)):
+
+
+Directors: Nicolas Schabanel and Ted Selker;
+
+ 
+Reviewers: Michelle Mazurek ([report](files/mazurek_report.pdf)), David Naccache ([report](files/naccache_report.pdf)), Peter Y. A. Ryan  ([report](files/ryan_report.pdf));
+
+ 
+Examiners: Adrian Kosowski and Marine Minier (president of the jury).
 "
 featured: false
 url_pdf: "http://theses.md.univ-paris-diderot.fr/BLANCHARD_Enka_1_va_20190621.pdf"
