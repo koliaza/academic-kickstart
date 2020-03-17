@@ -1,6 +1,6 @@
 ---
 title: "Consonant-Vowel-Consonants for Error-Free Code Entry"
-date: 2019-01-01
+date: 2019-07-31
 publishDate: 2020-03-16T22:00:24.654506Z
 authors: ["Enka Blanchard", "Leila Gabasova", "Ted Selker"]
 publication_types: ["1"]
