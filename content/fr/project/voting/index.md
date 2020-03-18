@@ -1,7 +1,7 @@
 ---
-title: Voting Systems
+title: Systèmes de Vote
 subtitle: 
-summary: Humans, institutions and technology.
+summary: Institutions, technologies, et êtres humains.
 authors:
 - enka
 tags: []
@@ -25,23 +25,23 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-I've been a member of the Random Sample Voting (RSV) Project since 2016, and I've had the opportunity to work in it with a few colleagues such as David Chaum as well as Alan Sherman, who introduced me to Ted Selker, with whom I do most of my work on voting technologies. 
+J'ai fait partie du Random Sample Voting (RSV) Project depuis 2016, et ai eu l'opportunité de travailler avec des collègues comme  David Chaum et Alan Sherman, qui me présenta Ted Selker, avec qui j'ai fait la plupart de mes travaux sur les systèmes de vote.
 
-Our work so far includes research on:
+Nos recherches nous ont amenés à considérer les sujets suivants (en anglais):
 
-- [Trust for random sample voting]({{< ref "publication/blanchard-2018-building-trust-sample/" >}}).
+- [La confiance envers les systèmes comme RSV]({{< ref "publication/blanchard-2018-building-trust-sample/" >}}).
 
-- [Difficulties in implementing voting technology]({{< ref "publication/blanchard-2018-improvingvotingtechnology/" >}}).
+- [Les difficultés inhérentes à l'implémentation de nouveaux systèmes de vote]({{< ref "publication/blanchard-2018-improvingvotingtechnology/" >}}).
 
-- [Institution design]({{< ref "publication/blanchard-2019-civics-changing-incentives/" >}}).
+- [Le design d'institution]({{< ref "publication/blanchard-2019-civics-changing-incentives/" >}}).
 
-- [Non-cryptographic voting system]({{< ref "publication/blanchard-2020-origamivotingnon/" >}}).
+- [Les systèmes de vote non-cryptographiques]({{< ref "publication/blanchard-2020-origamivotingnon/" >}}).
 
-- [Low-tech boardroom voting systems]({{< ref "publication/blanchard-2020-boardroomvoting/" >}}).
+- [Les systèmes de vote en basse technologie pour petits comités]({{< ref "publication/blanchard-2020-boardroomvoting/" >}}).
  
 
-I've also been invited to give a few talks on the subject: 
-- at the 2016 [Global Forum on Modern Direct Democracy](http://www.2016globalforum.com/) ([slides](/files/global_forum_1st.pdf)), where I organised the first public RSV demo.
-- at the [2017 World Forum for Democracy](https://www.coe.int/en/web/world-forum-democracy/about2017wfd), where I also organised an RSV demo. 
-- at the [2018 POINT Conference on Political Accountability and New Technologies](https://www.fes-soe.org/news-list/e/point-70-conference-political-accountability-and-new-technologies/).
-I also had an interview with Audrey Tang (digital minister of Taiwan) to discuss the use of new technologies in voting ([blurry video](https://youtu.be/F-39uAz98wA) and [transcript](https://sayit.archive.tw/2017-03-28-nicolas-blanchard-visit)).
+J'ai aussi été invitée à donner des présentations sur ces sujets: 
+- Au [2016 Global Forum on Modern Direct Democracy](http://www.2016globalforum.com/) ([slides](/files/global_forum_1st.pdf)), où j'ai organisé la première démonstration publique de RSV.
+- Au [Forum Mondial de la Démocratie 2017](https://www.coe.int/en/web/world-forum-democracy/about2017wfd), où j'ai aussi organisé une démonstration de RSV. 
+- A la [2018 POINT Conference on Political Accountability and New Technologies](https://www.fes-soe.org/news-list/e/point-70-conference-political-accountability-and-new-technologies/).
+J'ai aussi eu un interview avec Audrey Tang (ministre du numérique de Taiwan) pour discuter l'impact de ces technologies sur la délibération citoyenne ([vidéo floue](https://youtu.be/F-39uAz98wA) et [transcript](https://sayit.archive.tw/2017-03-28-nicolas-blanchard-visit)).

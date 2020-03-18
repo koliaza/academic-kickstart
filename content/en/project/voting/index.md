@@ -35,13 +35,13 @@ Our work so far includes research on:
 
 - [Institution design]({{< ref "publication/blanchard-2019-civics-changing-incentives/" >}}).
 
-- [Non-cryptographic voting system]({{< ref "publication/blanchard-2020-origamivotingnon/" >}}).
+- [Non-cryptographic verifiable voting system]({{< ref "publication/blanchard-2020-origamivotingnon/" >}}).
 
 - [Low-tech boardroom voting systems]({{< ref "publication/blanchard-2020-boardroomvoting/" >}}).
  
 
 I've also been invited to give a few talks on the subject: 
-- at the 2016 [Global Forum on Modern Direct Democracy](http://www.2016globalforum.com/) ([slides](/files/global_forum_1st.pdf)), where I organised the first public RSV demo.
+- at the [2016 Global Forum on Modern Direct Democracy](http://www.2016globalforum.com/) ([slides](/files/global_forum_1st.pdf)), where I organised the first public RSV demo.
 - at the [2017 World Forum for Democracy](https://www.coe.int/en/web/world-forum-democracy/about2017wfd), where I also organised an RSV demo. 
 - at the [2018 POINT Conference on Political Accountability and New Technologies](https://www.fes-soe.org/news-list/e/point-70-conference-political-accountability-and-new-technologies/).
 I also had an interview with Audrey Tang (digital minister of Taiwan) to discuss the use of new technologies in voting ([blurry video](https://youtu.be/F-39uAz98wA) and [transcript](https://sayit.archive.tw/2017-03-28-nicolas-blanchard-visit)).

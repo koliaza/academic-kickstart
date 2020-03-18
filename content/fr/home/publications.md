@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Main Publications ([Full list](/publication/#))  ([Note on authorship](/post/authorship))"
+title = "Publications majeures([liste complète](/publication/#))  ([note sur les noms](/post/authorship))"
 subtitle = ""
 
 [content]
