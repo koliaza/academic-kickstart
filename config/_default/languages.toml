@@ -15,7 +15,4 @@
   title = "Dr. Enka Blanchard"
   languageName = "Français"
   weight = 2
-#  [fr.params]
-#    description = "Site professionnel d'Enka Blanchard"
-#phone = "email : prénom.nom@gmail.com"
-#office_hours = ["Je suis généralement joignable la nuit, vivant aux horaires californiens."]
+  
