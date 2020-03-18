@@ -1,5 +1,5 @@
 ---
-title: Voting systems
+title: Voting Systems
 subtitle: 
 summary: Humans, institutions and technology.
 authors:

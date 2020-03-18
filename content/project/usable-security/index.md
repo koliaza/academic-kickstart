@@ -1,5 +1,5 @@
 ---
-title: Usable security
+title: Usable Security
 subtitle: 
 summary: Improving security by putting the human at the center of the system.
 authors : 

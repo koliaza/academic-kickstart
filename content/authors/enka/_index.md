@@ -63,6 +63,14 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/cv-blanchard.pdf
+  
+- icon: transgender-alt
+  icon_pack: fas
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  
+- icon: accessible-icon
+  icon_pack: fas
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
@@ -79,7 +87,9 @@ email: "test if this works"
 
 I am a postdoctoral researcher recently recruited by the [Digitrust Consortium](http://lue.univ-lorraine.fr/fr/article/digitrust-consortium-0) to create transdisciplinary research projects. Before this, I defended my PhD titled "Usability: low tech, high security" at [IRIF](https://www.irif.univ-paris-diderot.fr/) in the Distributed Algorithms and Graphs Team. I was advised by [Nicolas Schabanel](https://www.irif.univ-paris-diderot.fr/users/nschaban/index) and [Ted Selker](http://ted.selker.com/), with whom I worked on human usability of security and its applications to voting systems. 
 
-As I work between multiple fields, I do not have as much expertise as a specialist in a single field, which leads me to create collaborations with a large set of researchers and experts from different labs. It means am a member of multiple research groups, such as the [Random Sample Voting Project](http://rsvoting.org/), where I am responsible for the organization of RSV elections, [Chôros](https://www.choros.place/) and the [POP Special Exploratory Committee](http://poplatform.org/), a new political party/platform where we seek to implement real-time democracy. This allows me to bridge the different fields while making sure that the methodology and end results are sound. I am generally extremely open to new collaborations, so don't hesitate to drop me a line if you have an idea or would like to participate in some of our projects. After a decade of activism, I also recently decided to get involved in the more academic side of queer and crip theories.
+As I work between multiple fields, I do not have as much expertise as a specialist in a single field, which leads me to create collaborations with a large set of researchers and experts from different labs. It means that I am a member of multiple research groups, such as the [Random Sample Voting Project](http://rsvoting.org/), where I am responsible for the organization of RSV elections, [Chôros](https://www.choros.place/) and the [POP Special Exploratory Committee](http://poplatform.org/), a new political party/platform where we seek to implement real-time democracy. This allows me to bridge the different fields while making sure that the methodology and end results are sound.
+
+ I am generally extremely open to new collaborations, so don't hesitate to drop me a line if you have an idea or would like to participate in some of our projects. After a decade of activism, I also recently decided to get involved in the more academic side of queer and crip theories.
 
 I'm currently in the process of publishing a [book](http://koliaza.com/old/book.html) on the use of randomness in politics. I'm also co-organising a [seminar](http://koliaza.com/old/law-informatics.html) on law and informatics at EHESS, which is on hold due to COVID-19.
 
