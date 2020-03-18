@@ -1,5 +1,5 @@
 ---
-title: Popularisation papers
+title: Popularisation articles
 subtitle:
 summary: In Tangente and CIJM.
 authors:
@@ -25,3 +25,14 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+I've been a somewhat regular contributor to the French popularisation magazine *Tangente*. Here are the articles I wrote, in French of course:
+- [Le Théorème de Poincaré-Perelman](/files/poincare_20perelman.pdf)
+- [Le Théorème des Graphes Parfaits](/files/graphe_20parfait.pdf)
+- [Quand le Hasard Crée des Certitudes](/files/hasard_20certitudes.pdf)
+- [Les Testeurs de Propriété](/files/testeur_20propri_C3_A9t_C3_A9.pdf)
+- [Classes de Complexité](/files/classes_20de_20complexite.pdf)
+- [Des mots de passe pas très secrets](/files/p18_19_TG180.pdf)
+
+I've also contributed to the annual brochure of the [Salon Culture & Jeux Mathématiques](http://www.cijm.org/) in 2017, writing an article on [GPS technology](/files/GPS-cijm.pdf) with L. Gabasova, and an article on the [angel problem](/files/coursedemon.pdf) in the 2018 edition.
+
+I'm always open to working on popularisation, so don't hesitate to drop me a line if you have ideas (I have my share, but I've been busy focusing on research and activism).
