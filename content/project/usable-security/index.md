@@ -28,13 +28,13 @@ Our work so far includes research on:
 
 - [Passphrases]({{< ref "publication/blanchard-2018-improvingsecurityusability/" >}}).
 
-- [Mental password managers]({{< ref "publication/blanchard-2019-consonant-vowel-consonants//" >}});
+- [Mental password managers]({{< ref "publication/blanchard-2019-cuepinselect/" >}});
 
 - [Improved single-used codes for manual transcription]({{< ref "publication/blanchard-2019-consonant-vowel-consonants//" >}}).
 
-- Typo correction for passwords, [theoretically]({{< ref "publication/blanchard-2019-consonant-vowel-consonants//" >}}) and [practically]({{< ref "publication/publication/blanchard-2019-consonant-vowel-consonants//" >}}).
+- Typo correction for passwords, [theoretically]({{< ref "publication/blanchard-2019-passwordtypocorrection/" >}}) and [practically]({{< ref "publication/blanchard-2020-typocorrection/" >}}).
 
-- [Eye biometrics for authentication]({{< ref "publication/blanchard-2019-consonant-vowel-consonants//" >}}).
+- [Eye biometrics for authentication]({{< ref "publication/blanchard-2019-reflexive-memory-authenticator/" >}}).
  
-- [Everlasting cryptography using pornography]({{< ref "publication/blanchard-2019-consonant-vowel-consonants//" >}}).
+- [Everlasting cryptography using pornography]({{< ref "publication/blanchard-2020-everlastingencryption/" >}}).
 
