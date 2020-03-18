@@ -32,13 +32,15 @@ Un collègue m'a récemment fait part de sa surprise quant au fait que ma recher
 Une des conséquences les plus visibles concerne mon identité, vu que je fais partie de (trop) nombreuses minorités. Pour n'en citer que quelques unes, je suis queer et non-binaire, et ai un handicap moteur. C'est un facteur motivant certaines de mes pistes de recherche, et cela a aussi plusieurs conséquences pratiques.
 
 
-Tout d'abord, je me déplace généralement en scooter électrique (ce qui est très facile quand on voyage beaucoup), so if you organise a conference and would like to invite me as a speaker please keep in mind that stairs are my nemeses. That said, I have traveled to more than 40 countries and lived in a few, including India, so I have a lot of experience navigating this kind of trouble.
+Tout d'abord, je me déplace généralement en scooter électrique (ce qui est très facile quand on voyage beaucoup), donc si vous organisez une conférence où je suis censée venir, n'oubliez pas que les escaliers sont mes ennemis jurés. Cela dit, j'ai visité plus de 40 pays et ai vécu dans plusieurs (dont l'Inde), donc j'ai l'habitude des galères.
 
 
-Second, my current name is not the name my parents gave me and I generally go by Enka (and use neutral pronouns such as the [singular they](https://en.wikipedia.org/wiki/Singular_they)). If you want to know more about this, I wrote a list of Frequently Asked Questions when I fully came out publicly: [Enka's FAQ](/files/FAQ-Enka.pdf). I have used multiple names over the course of my life (this makes it quite a mess for paper indexation) and quite a few people know me as Koliaza (the address of this website) which was my pseudonym as a photograph and street artist (I used to play the keys in the street and with the [Fanfarons de Paname](http://lesfanfaronsdepaname.wix.com/france-paris).  
+
+Ensuite, mon prénom actuel n'est pas mon prénom donné à la naissance. J'utilise Enka dans la vie de tous les jours et des pronoms neutre en anglais ([singular they](https://en.wikipedia.org/wiki/Singular_they)), mais le féminin en français faute d'option décente pour le neutre. Si vous voulez en savoir plus, j'ai écrit une Foire Aux Questions à ce sujet quand j'ai décidé de l'être publiquement : [Enka's FAQ](/files/FAQ-Enka.pdf). J'ai eu plusieurs noms au cours de ma vie (ce qui rend difficile l'indexation des articles), et suis aussi connue sous le pseudonyme de Koliaza (l'adresse de ce site), que j'utilisais comme photographe et artiste de rue (je jouais du piano dans la rue et avec les [Fanfarons de Paname](http://lesfanfaronsdepaname.wix.com/france-paris)).  
 
 
-Finally, I tend to be vocal when it comes to discrimination, so if you are planning panels entirely made up of men (or similar nonsense) I will not stay silent (but can generally provide names of qualified people to invite).
+Enfin, j'ai tendance à ne pas rester impassive face aux discriminations, donc si vous prévoyez des panels avec uniquement des hommes (ou des inepties semblables), je ne me tairais probablement pas (mais peux souvent recommander d'autres personnes à inviter).
 
-Outside of work, I enjoy writing fiction once in a while (notably with Olivier Pivot), playing the keys (although my PhD forced me to put this on hold), and I used to wonder about dropping out of science to do photography, thankfully I didn't (here's my [old website](http://www.koliaza.com/photo)).
+
+En dehors du travail, j'aime écrire de la fiction de temps en temps (surtou avec Olivier Pivot), jouer du piano (même si le doctorat m'a forcée à prendre une pause), et je faisais beaucoup de photographie à une époque, ayant hésité à abandonner la science pour m'y consacrer (voilà mon [ancien site](http://www.koliaza.com/photo)).
 

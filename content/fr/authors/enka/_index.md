@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role:  Researcher (they/them)
+role:  Chercheuse contractuelle
 
 # Organizations/Affiliations
 organizations:
-- name:  Consortium Digitrust, Université de Lorraine 
+- name:  Consortium Digitrust, Loria, Université de Lorraine 
   url: "http://lue.univ-lorraine.fr/fr/article/digitrust-consortium-0"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Transdisciplinary researcher working at Digitrust, Loria.
+bio: Chercheuse transdisciplinaire travaillant à Digitrust, Loria.
 
 interests:
 - Interactions Humain-Machine
@@ -29,7 +29,7 @@ interests:
 - Théorie de la Complexité
 - Théorie du Vote, e-Democracy
 - Histoire Politique
-- Copyright et données publiques
+- Copyright/données publiques
 
 education:
   courses:
@@ -77,12 +77,12 @@ social:
 #- Visitors
 ---
 
-I am a postdoctoral researcher recently recruited by the [Digitrust Consortium](http://lue.univ-lorraine.fr/fr/article/digitrust-consortium-0) to create transdisciplinary research projects. Before this, I defended my PhD titled "Usability: low tech, high security" at [IRIF](https://www.irif.univ-paris-diderot.fr/) in the Distributed Algorithms and Graphs Team. I was advised by [Nicolas Schabanel](https://www.irif.univ-paris-diderot.fr/users/nschaban/index) and [Ted Selker](http://ted.selker.com/), with whom I worked on human usability of security and its applications to voting systems. 
+Je suis une chercheuse contractuelle, récemment embauchée par le [Consortium Digitrust](http://lue.univ-lorraine.fr/fr/article/digitrust-consortium-0) en vue de lancer des projets de recherche transdisciplinaires. Auparavant, j'ai soutenu ma thèse intitulée "Utilisabilité : haute sécurité en basse technologie" à l'[IRIF](https://www.irif.univ-paris-diderot.fr/) dans l'équipe Graphes et Algorithmes Distribués. J'étais encadrée par [Nicolas Schabanel](https://www.irif.univ-paris-diderot.fr/users/nschaban/index) et [Ted Selker](http://ted.selker.com/), avec qui j'ai travaillé sur l'utilisabilité de la sécurité et ses applications aux systèmes de vote.
 
-As I work between multiple fields, I do not have as much expertise as a specialist in a single field, which leads me to create collaborations with a large set of researchers and experts from different labs. It means that I am a member of multiple research groups, such as the [Random Sample Voting Project](http://rsvoting.org/), where I am responsible for the organization of RSV elections, [Chôros](https://www.choros.place/) and the [POP Special Exploratory Committee](http://poplatform.org/), a new political party/platform where we seek to implement real-time democracy. This allows me to bridge the different fields while making sure that the methodology and end results are sound.
+Travaillant à l'intersection de plusieurs domaines, je n'ai pas la même expertise qu'une spécialiste d'un domaine, ce qui me mène à faire des collaborations avec un grand nombre de chercheurs et d'experts de différents laboratoires. Je fais donc partie de plusieurs groupes de recherche, comme le [Random Sample Voting Project](http://rsvoting.org/), où je suis chargée de l'organisation d'élections avec RSV, [Chôros](https://www.choros.place/) et le [POP Special Exploratory Committee](http://poplatform.org/), un nouveau parti-plateforme pour diffuser le principe de démocratie en temps-réel. Cela me permet de relier les différents domaines tout en vérifiant que les méthodologies sont fiables et que les résultats sont obtenus rigoureusement. 
 
- I am generally extremely open to new collaborations, so don't hesitate to drop me a line if you have an idea or would like to participate in some of our projects. After a decade of activism, I also recently decided to get involved in the more academic side of queer and crip theories.
+Je suis généralement très ouverte aux nouvelles collaborations, n'hésitez donc pas à m'écrire si vous avez une idée ou voulez vous joindre à l'un de nos projets. Après dix ans de pratique activiste discontinue, j'ai aussi récemment décidé de m'impliquer plus dans le côté académique des études queer et de théorie du handicap.
 
-I'm currently in the process of publishing a [book](http://koliaza.com/old/book.html) on the use of randomness in politics. I'm also co-organising a [seminar](http://koliaza.com/old/law-informatics.html) on law and informatics at EHESS, which is on hold due to COVID-19.
+Je suis en train d'essayer de publier un [livre](http://koliaza.com/old/book.html) sur l'utilisation du hasard dans les institutions politiques. Je participe aussi à l'organisation d'un [séminaire](http://koliaza.com/old/law-informatics.html) sur le droit et l'informatique à l'EHESS, en pause à cause de COVID-19.
 
-[Click here]({{< ref "/post/personal/" >}}) if you want to know a bit more about me, non-professionally.
+Si vous voulez en savoir plus sur moi personnellement, [c'est ici]({{< ref "/post/personal/" >}}).
