@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role:  Chercheuse contractuelle
+role:  Chercheuse transdisciplinaire
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "http://lue.univ-lorraine.fr/fr/article/digitrust-consortium-0"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Chercheuse transdisciplinaire travaillant à Digitrust, Loria.
+#bio: Chercheuse transdisciplinaire travaillant à Digitrust, Loria.
 
 interests:
 - Interactions Humain-Machine
