@@ -28,13 +28,13 @@ Nos travaux (la plupart étant en anglais) ont portés sur des sujets comme :
 
 - [Les phrases de passe]({{< ref "publication/blanchard-2018-improvingsecurityusability/" >}}). [Court article]({{< ref "publication/blanchard-2018-motsdepasse/" >}}) en français.
 
-- [Les gestionnaires mentaux de mots de passe]({{< ref "publication/blanchard-2019-cuepinselect/" >}}). Court article]({{< ref "publication/blanchard-2018-creerdetete/" >}}) en français.
+- [Les gestionnaires mentaux de mots de passe]({{< ref "publication/blanchard-2019-cuepinselect/" >}}). [Court article]({{< ref "publication/blanchard-2018-creerdetete/" >}}) en français.
 
 - [Comment les individus utilisent les algorithmes mentaux de mots de passe]({{< ref "publication/blanchard-2020-mentalcomputations/" >}});
 
 - [Les codes pour la transcription manuelle]({{< ref "publication/blanchard-2019-consonant-vowel-consonants//" >}}).
 
-- La correction de fautes de frappe dans les mots de passe, [en théorie]({{< ref "publication/blanchard-2019-passwordtypocorrection/" >}}) et  [en pratique]({{< ref "publication/blanchard-2020-typocorrection/" >}}). Court article]({{< ref "publication/blanchard-2019-commentcorrigerefficacement/" >}}) en français.
+- La correction de fautes de frappe dans les mots de passe, [en théorie]({{< ref "publication/blanchard-2019-passwordtypocorrection/" >}}) et  [en pratique]({{< ref "publication/blanchard-2020-typocorrection/" >}}). [Court article]({{< ref "publication/blanchard-2019-commentcorrigerefficacement/" >}}) en français.
 
 - [La biométrique oculaire pour l'authentification]({{< ref "publication/blanchard-2019-reflexive-memory-authenticator/" >}}).
  
