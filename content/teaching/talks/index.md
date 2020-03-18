@@ -25,7 +25,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-I enjoy talking to high-schoolers, and appreciate giving them an intro to what research is like. I've worked with Animath (in France, Kosovo and Moldova), as well as Parimaths, giving intro to research sessions (and a [summer school]()), as well as a few conferences on the following subjects (in French):
+I enjoy talking to high-schoolers, and appreciate giving them an intro to what research is like. I've worked with Animath (in France, Kosovo and Moldova), as well as Parimaths, giving intro to research sessions (and a [summer school](http://koliaza.com/old/prishtina16.html)), as well as a few conferences on the following subjects (in French):
 - [De Poincaré à Perelman](/files/preconf_20llg_20alsa_2005022015.pdf) (with Animaths, to prepare the students to a talk by G. Besson).
 - [Reconnaissance de Triangles](/files/conf_20prologin_2009052015.pdf) (for the 2015 Prologin final).
 - [Baker-Gill-Solovay](/files/gill_20solovay_20baker.pdf) (at ENS Paris).
