@@ -23,12 +23,13 @@ bio: Transdisciplinary researcher working at Digitrust, Loria.
 interests:
 - Human-Computer Interactions
 - Security and Cryptography
+- Queer and Crip Theory
 - Institution Design
 - Graph Theory 
 - Complexity Theory
-- Queer and Crip Theory
 - Voting Theory, e-Democracy
 - History of Political Philosophy
+- Copyright on semi-public data
 
 education:
   courses:

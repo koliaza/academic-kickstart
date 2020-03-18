@@ -25,3 +25,13 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+I am currently employed in a research-only position, but I used to teach at the EIDD. Course list:
+- Foundations of Computer Science at M1 level in Fall 2018.
+- Foundations of Computer Science at M1 level in Fall 2017.
+- Systems and Network Engineering at M1 level in Spring 2017 ([old course website](http://koliaza.com/old/fr/systeme2017.html)).
+- Systems and Network Engineering at M1 level in Spring 2016 ([old course website](http://koliaza.com/old/fr/systeme2016.html)).
+
+Before that, we organised a [Spring School in Discrete Mathematics in Kosovo](http://koliaza.com/old/prishtina16.html) with Siargey Kachanovich, with the support of Animath. I also went to Moldova with Mardin Andler to train teachers there and create new Animath clubs.
+
+
+I participated in the creation of the [Mathmosphere](https://animath.fun-campus.fr/) education platform and created the first MOOC on it, on the subject of graph theory.
