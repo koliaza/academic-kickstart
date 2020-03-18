@@ -28,7 +28,9 @@ Our work so far includes research on:
 
 - [Passphrases]({{< ref "publication/blanchard-2018-improvingsecurityusability/" >}}).
 
-- [Mental password managers]({{< ref "publication/blanchard-2019-cuepinselect/" >}});
+- [Mental password managers]({{< ref "publication/blanchard-2019-cuepinselect/" >}}).
+
+- [How people use mental algorithms]({{< ref "publication/blanchard-2020-mentalcomputations/" >}});
 
 - [Improved single-used codes for manual transcription]({{< ref "publication/blanchard-2019-consonant-vowel-consonants//" >}}).
 
@@ -38,3 +40,6 @@ Our work so far includes research on:
  
 - [Everlasting cryptography using pornography]({{< ref "publication/blanchard-2020-everlastingencryption/" >}}).
 
+- [How hashing is done in practice]({{< ref "publication/blanchard-2019-movingclientsided/" >}}).
+
+I've also given a talk on Human Computable passwords in the Stanford EE:380 seminar in December 2018 ([video](https://www.youtube.com/watch?v=HalVaS-CvMU), [slides](/files/Human_Computable_Passwords_stanford.pdf)), and a similar talk at MIT CSAIL ([slides](/files/Human_Computable_Passwords_mit.pdf))

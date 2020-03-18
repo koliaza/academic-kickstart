@@ -26,12 +26,12 @@ I have a strong personal interest in Queer Theory and Crip Theory, and have been
 
 I have written a few texts on the subject:
 
-- A paper focused on crip [spatialities]({{< ref "publication/blanchard-2018-improvingsecurityusability/" >}})
+- A paper focused on crip [spatialities]({{< ref "publication/blanchard-2020-spatialitiesandtemporalities/" >}}).
 
-- A more creative text on [travelling while crip]({{< ref "publication/blanchard-2019-consonant-vowel-consonants/" >}})
+- A more creative text on [travelling while crip]({{< ref "publication/blanchard-2020-temporalexpenses/" >}}).
 
-- A more formal analysis of the [temporal taxes]() featured in the previous text
+- A more formal analysis of the [temporal taxes]({{< ref "publication/blanchard-2020-timetaxes/">}}) featured in the previous text.
 
-- An autoethnographic take on living the [intersection of crip-identity and trans-identity]()
+- An autoethnographic take on living the [intersection of crip-identity and trans-identity]({{< ref "publication/blanchard-2020-criptransidentity/" >}}).
 
-- A paper on the [relative absence of trans people with early physical impairments]()
+- A paper on the [relative absence of trans people with early physical impairments]({{< ref "publication/blanchard-2020-wherearethetranscrips/" >}}).

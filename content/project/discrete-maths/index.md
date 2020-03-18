@@ -35,12 +35,14 @@ I still try to do some research, mostly with [Siargey Kachanovich](http://perso.
 
 Here are the different papers:
 
-- My first paper, on the [roots of graph polynomials]().
+- My first paper, on the [roots of graph polynomials]({{< ref "publication/makowsky-2014-locationrootsgraph/" >}}).
 
-- A second that came shortly after but still isn't published, on [paths in $2$-connected graphs]().
+- A second that came shortly after but still isn't published, on [paths in $2$-connected graphs]({{< ref "publication/blanchard-2019-longestpaths-2/" >}}).
 
-- Our paper with Nicolas Schabanel on [Dynamic Clustering]() (and the corresponding [French paper]()).
+- Our paper with Nicolas Schabanel on [Dynamic Clustering]({{< ref "publication/blanchard-2017-dynamic-sum-radii/" >}}) (and the corresponding [French paper]({{< ref "publication/blanchard-2016-clustering-dynamiquepar/" >}})).
 
 - A paper with Siargey Kachanovich on [counting the number of paths in a constrained control-flow graph]({{< ref "publication/blanchard-2019-countingauthorisedpaths/" >}}).
 
-- A second one on the [inflating enclosing ball problem]().
+- A second one on the [inflating enclosing ball problem]({{< ref "publication/blanchard-2019-noteinflatingenclosing/" >}}).
+
+- A preprint on [bilingual palindrome generation]({{< ref "publication/adams-2020-bilingualpalindromes/" >}}).
