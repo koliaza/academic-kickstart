@@ -35,4 +35,4 @@ I've been a somewhat regular contributor to the French popularisation magazine *
 
 I've also contributed to the annual brochure of the [Salon Culture & Jeux Mathématiques](http://www.cijm.org/) in 2017, writing an article on [GPS technology](/files/GPS-cijm.pdf) with L. Gabasova, and an article on the [angel problem](/files/coursedemon.pdf) in the 2018 edition.
 
-I'm always open to working on popularisation, so don't hesitate to drop me a line if you have ideas (I have my share, but I've been busy focusing on research and activism).
+I'm always open to working on popularisation, so don't hesitate to drop me a line if you have ideas (I have a few potential articles that need writing, but I've been busy focusing on research and activism).
