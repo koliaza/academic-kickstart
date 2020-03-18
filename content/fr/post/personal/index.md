@@ -25,11 +25,11 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Un collègue m'a récemment fait part de sa surprise quant au fait que ma recherche soit si indissociable de ma vie. C'est assez approprié, car j'ai tendance à appliquer ce que j'apprends à toutes les facettes de ma vie, et à me renseigner (voire à faire des recherches) sur un sujet dès qu'il acquiert une importance à mes yeux, peu importe le domaine.
+Un collègue m'a récemment fait part de sa surprise quant au fait que ma recherche soit si indissociable de ma vie. C'est assez approprié, car j'ai tendance à appliquer ce que j'apprends à toutes les facettes de ma vie, et à me renseigner (voire à faire des recherches) sur un sujet dès qu'il acquiert une importance à mes yeux, peu importe le domaine associé.
 
 
 
-One of the foremost ways in which this applies is my identity, as I am a part of slightly too many minorities. To name just some of them, I'm queer and non-binary, as well as physically disabled. This is the motivating factor for some of my research. It also has a few consequences.
+Une des conséquences les plus visibles concerne mon identité, vu que je fais partie de (trop) nombreuses minorités. Pour n'en citer que quelques unes, je suis queer et non-binaire, et ai un handicap moteur. C'est un facteur motivant certaines de mes pistes de recherche, et cela a aussi plusieurs conséquences pratiques.
 
 
 First, I tend to go around in an electric scooter (which is very fun when you travel the world), so if you organise a conference and would like to invite me as a speaker please keep in mind that stairs are my nemeses. That said, I have traveled to more than 40 countries and lived in a few, including India, so I have a lot of experience navigating this kind of trouble.
