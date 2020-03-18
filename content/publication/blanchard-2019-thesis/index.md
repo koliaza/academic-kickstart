@@ -5,13 +5,13 @@ publishDate: 2019-06-21T15:00:00
 authors: ["Enka Blanchard"]
 publication_types: ["7"]
 categories: ["thesis"]
-summary: "I defended my thesis titled *Usability: low tech, high security* on June 21st, 2019, before the following jury ([final report](files/final_report.pdf)):
+summary: "I defended my thesis titled *Usability: low tech, high security* on June 21st, 2019, before the following jury ([final report](/files/final_report.pdf)):
 
 
 Directors: Nicolas Schabanel and Ted Selker;
 
  
-Reviewers: Michelle Mazurek ([report](files/mazurek_report.pdf)), David Naccache ([report](files/naccache_report.pdf)), Peter Y. A. Ryan  ([report](files/ryan_report.pdf));
+Reviewers: Michelle Mazurek ([report](/files/mazurek_report.pdf)), David Naccache ([report](/files/naccache_report.pdf)), Peter Y. A. Ryan  ([report](/files/ryan_report.pdf));
 
  
 Examiners: Adrian Kosowski and Marine Minier (president of the jury)."
@@ -31,13 +31,13 @@ In the third part, we focus on voting protocols, and investigate why changing th
 
 
 
-Defended at Université Sorbonne Paris Cité on June 21st, 2019, before the following jury ([final report](files/final_report.pdf)):
+Defended at Université Sorbonne Paris Cité on June 21st, 2019, before the following jury ([final report](/files/final_report.pdf)):
 
 
 Directors: Nicolas Schabanel and Ted Selker;
 
  
-Reviewers: Michelle Mazurek ([report](files/mazurek_report.pdf)), David Naccache ([report](files/naccache_report.pdf)), Peter Y. A. Ryan  ([report](files/ryan_report.pdf));
+Reviewers: Michelle Mazurek ([report](/files/mazurek_report.pdf)), David Naccache ([report](/files/naccache_report.pdf)), Peter Y. A. Ryan  ([report](/files/ryan_report.pdf));
 
  
 Examiners: Adrian Kosowski and Marine Minier (president of the jury).

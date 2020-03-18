@@ -9,6 +9,6 @@ abstract: "Passphrases have many uses, such as serving as seeds for passwords. U
 featured: false
 publication: "*Proceedings of the 34th Annual Computer Security Applications Conference, ACSAC 2018, San Juan, PR, USA, December 03-07, 2018*"
 url_slides: "slides.pdf"
-doi: "10.1145/3274694.3274734"
+doi: "10.1145/3274694"
 ---
 

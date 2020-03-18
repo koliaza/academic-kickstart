@@ -1,7 +1,7 @@
 ---
-title: Ecole d'Ingénieur Denis Diderot
+title: Teaching
 subtitle:
-summary: Systems and Networks, and Foundations of Informatics.
+summary: Mostly at EIDD and with Animath.
 authors:
 - enka
 tags: []
@@ -25,7 +25,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-I am currently employed in a research-only position, but I used to teach at the EIDD. Course list:
+I am currently employed in a research-only position, but I used to teach at the Ecole d'Ingénieurs Denis Diderot. Course list:
 - Foundations of Computer Science at M1 level in Fall 2018.
 - Foundations of Computer Science at M1 level in Fall 2017.
 - Systems and Network Engineering at M1 level in Spring 2017 ([old course website](http://koliaza.com/old/fr/systeme2017.html)).
