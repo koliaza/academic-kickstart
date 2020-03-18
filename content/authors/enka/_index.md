@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role:  Researcher (They/them)
+role:  Researcher (they/them)
 
 # Organizations/Affiliations
 organizations:
@@ -63,13 +63,11 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/cv-blanchard.pdf
-  
 - icon: transgender-alt
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-  
 - icon: accessible-icon
-  icon_pack: fas
+  icon_pack: fab
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
