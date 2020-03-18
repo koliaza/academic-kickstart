@@ -1,7 +1,7 @@
 ---
-title: Planetary Science
+title: Planétologie
 subtitle: 
-summary: Better metaheuristics to map Pluto.
+summary: Comment faire des cartes de Pluton.
 authors:
 - enka
 tags: []
@@ -25,6 +25,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-This project is mostly led by my partner Levi Gabasova, and consists in using relatively new metaheuristical methods to do spectrum inversion and compute estimates to map the geological composition of Pluto.
+Ce projet est surtout mené par mon partenaire Levi Gabasova, et consiste à utiliser des méthodes contemporaines en métaheuristiques pour faire de l'inversion de spectre et estimer la composition chimique des sols de Pluton.
 
-See their [website](http://www.winterhazelly.cloud) for more info, or our extended abstracts from the European Planetary Science Congress of [2018]({{< ref "publication/gabasova-2018-progressivemetaheuristicshigh/" >}}) and [2019]({{< ref "publication/gabasova-2019-plutosurfacecomposition/" >}}).
+Pour plus d'information, voir son [site](http://www.winterhazelly.cloud), ou nos abstracts du European Planetary Science Congress de [2018]({{< ref "publication/gabasova-2018-progressivemetaheuristicshigh/" >}}) et [2019]({{< ref "publication/gabasova-2019-plutosurfacecomposition/" >}}).

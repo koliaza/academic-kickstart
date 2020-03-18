@@ -1,7 +1,7 @@
 ---
-title: Discrete Mathematics
+title: Mathématiques Discrètes
 subtitle:
-summary: Formalisation never hurt anyone.
+summary: Formalisation pour la forme.
 authors:
 - enka
 tags: []
@@ -25,24 +25,23 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+Ma formation de départ était en mathématiques, et plus spécifiquement en théorie des graphes, et j'ai travaillé un certain temps avec  [Eldar Fischer](http://eldar.cswp.cs.technion.ac.il/), [Oded Lachish](http://www.dcs.bbk.ac.uk/~oded/), et [Janos Makowski](http://www.cs.technion.ac.il/~janos/).
 
-My initial training was in mathematics, more specifically graph theory, and I did work for a while with [Eldar Fischer](http://eldar.cswp.cs.technion.ac.il/), [Oded Lachish](http://www.dcs.bbk.ac.uk/~oded/), and [Janos Makowski](http://www.cs.technion.ac.il/~janos/).
-
-I then worked with [Nicolas Schabanel](https://www.irif.fr/users/nschaban/index) at the end of my Master's degree, and then during the first half of my thesis, with a focus on dynamic clustering.
+J'ai ensuite travaillé avec [Nicolas Schabanel](https://www.irif.fr/users/nschaban/index) entre la fin de mon master et le milieu de ma thèse, principalement sur le clustering dynamique.
 
 
-I still try to do some research, mostly with [Siargey Kachanovich](http://perso.eleves.ens-rennes.fr/people/siargey.kachanovich/). Currently, math-wise I am mostly thinking about submanifold meshing and point location problems. 
+Je poursuis toujours certains sujets de recherche mathématique, principalement avec  [Siargey Kachanovich](http://perso.eleves.ens-rennes.fr/people/siargey.kachanovich/). En ce moment, les deux problèmes m'intéressant le plus sont le maillage de sous-variétés et les problèmes de point location. 
 
-Here are the different papers:
+Voilà quelques articles :
 
-- My first paper, on the [roots of graph polynomials]({{< ref "publication/makowsky-2014-locationrootsgraph/" >}}).
+- Mon premier article, sur les  [racines de polynômes de graphes]({{< ref "publication/makowsky-2014-locationrootsgraph/" >}}).
 
-- A second that came shortly after but still isn't published, on [paths in $2$-connected graphs]({{< ref "publication/blanchard-2019-longestpaths-2/" >}}).
+- Un deuxième de la même époque qui n'est toujours pas publié, sur les [chemins dans les graphes $2$-connexes]({{< ref "publication/blanchard-2019-longestpaths-2/" >}}).
 
-- Our paper with Nicolas Schabanel on [Dynamic Clustering]({{< ref "publication/blanchard-2017-dynamic-sum-radii/" >}}) (and the corresponding [French paper]({{< ref "publication/blanchard-2016-clustering-dynamiquepar/" >}})).
+- Notre article avec Nicolas Schabanel sur le [Clustering dynamique]({{< ref "publication/blanchard-2017-dynamic-sum-radii/" >}}) (et [l'article correspondant en français]({{< ref "publication/blanchard-2016-clustering-dynamiquepar/" >}})).
 
-- A paper with Siargey Kachanovich on [counting the number of paths in a constrained control-flow graph]({{< ref "publication/blanchard-2019-countingauthorisedpaths/" >}}).
+- Un article avec Siargey Kachanovich intitulé [counting the number of paths in a constrained control-flow graph]({{< ref "publication/blanchard-2019-countingauthorisedpaths/" >}}).
 
-- A second one on the [inflating enclosing ball problem]({{< ref "publication/blanchard-2019-noteinflatingenclosing/" >}}).
+- Un deuxième sur le ["inflating enclosing ball problem"]({{< ref "publication/blanchard-2019-noteinflatingenclosing/" >}}).
 
-- A preprint on [bilingual palindrome generation]({{< ref "publication/adams-2020-bilingualpalindromes/" >}}).
+- Un preprint sur la  [génération de palindromes bilingues]({{< ref "publication/adams-2020-bilingualpalindromes/" >}}).

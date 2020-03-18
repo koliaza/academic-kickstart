@@ -1,7 +1,7 @@
 ---
-title: Talks and posters
+title: Présentations et posters
 subtitle:
-summary: In schools and Worldcon
+summary: Dans les lycées et à Worldcon
 authors:
 - enka
 tags: []
@@ -25,11 +25,11 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-I enjoy talking to high-schoolers, and appreciate giving them an intro to what research is like. I've worked with Animath (in France, Kosovo and Moldova), as well as Parimaths, giving intro to research sessions (and a [summer school](http://koliaza.com/old/prishtina16.html)), as well as a few conferences on the following subjects (in French):
+J'aime beaucoup enseigner à des lycéens, et aime leur donner des introductions à la recherche. J'ai principalement travaillé avec Animath (en France, au Kosovo et en Moldavie), ainsi qu'avec Parimaths, en donnant des séances d'introductions à la recherche (et une [école d'été](http://koliaza.com/old/prishtina16.html)), ainsi que des conférences sur les sujets suivants :
 - [De Poincaré à Perelman](/files/preconf_20llg_20alsa_2005022015.pdf) (with Animaths, to prepare the students to a talk by G. Besson).
 - [Reconnaissance de Triangles](/files/conf_20prologin_2009052015.pdf) (for the 2015 Prologin final).
 - [Baker-Gill-Solovay](/files/gill_20solovay_20baker.pdf) (at ENS Paris).
 
-We also made a [poster on the future of democracy](/files/worldcon-democracy.red.pdf) with L. Gabasova at [Worldcon75](http://www.worldcon.fi/).
+Avec L. Gabasova, nous avons aussi fait un [poster sur le futur de la démocratie](/files/worldcon-democracy.red.pdf) pour la [Worldcon75](http://www.worldcon.fi/).
 
-I'm always enthusiastic to interact with young students, and don't necessarily require a stipend (depending on whether I'm already on site, and what kind of public there is). Feel free to me a line if you want me to intervene at your institution.
+J'apprécie toujours les interactions avec les jeunes élèves, et n'exige pas forcément d'être payée (selon le public, et surtout si je suis déjà sur place). N'hésitez donc pas à me contacter si vous voulez que j'intervienne dans votre institut.

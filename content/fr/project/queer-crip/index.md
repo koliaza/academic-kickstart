@@ -1,7 +1,7 @@
 ---
-title: Queer and Crip Theory
+title: Théories Queer et Crip
 subtitle: 
-summary: Temporalities, spatialities and intersections of identities.
+summary: Temporalités, spatialités, et intersection d'identités.
 authors : 
 - enka
 tags: []
@@ -22,16 +22,16 @@ image:
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 ---
-I have a strong personal interest in Queer Theory and Crip Theory, and have been an activist for most of my life. After joining Chôros, and especially since the end of my PhD, I have been devoting a significant portion of my time to reading and writing about these issues. I am mostly interested in the intersections between trans-identity and crip-identity. I am also interested in crip spatialities and temporalities.
+J'ai un fort intérêt personnel envers ces deux domaines, datant d'avant que je sois directement concernée, et ai fait de l'activisme sur ces sujets depuis plus d'une dizaine d'années. Après avoir rejoint Chôros, et en particulier depuis la fin de mon doctorat, j'ai passé une proportion importante de mon temps à lire et écrire sur ces sujets. Je m'intéresse principalement aux intersections entre identités crip ("estropié") et transgenre.  Je m'intéresse aussi aux spatialités et temporalités du handicap.
 
-I have written a few texts on the subject:
+Voilà quelques textes que j'ai écrit sur ces sujets (en anglais à priori) :
 
-- A paper focused on crip [spatialities]({{< ref "publication/blanchard-2020-spatialitiesandtemporalities/" >}}).
+- Un article sur les [spatialités crip]({{< ref "publication/blanchard-2020-spatialitiesandtemporalities/" >}}).
 
-- A more creative text on [travelling while crip]({{< ref "publication/blanchard-2020-temporalexpenses/" >}}).
+- Un texte plus créatif sur [le voyage quand on a un handicap]({{< ref "publication/blanchard-2020-temporalexpenses/" >}}).
 
-- A more formal analysis of the [temporal taxes]({{< ref "publication/blanchard-2020-timetaxes/">}}) featured in the previous text.
+- Une analyse plus formelle des [taxes temporelles]({{< ref "publication/blanchard-2020-timetaxes/">}}) mentionnées dans le texte précédent.
 
-- An autoethnographic take on living the [intersection of crip-identity and trans-identity]({{< ref "publication/blanchard-2020-criptransidentity/" >}}).
+- Une analyses autoethnographique de [l'intersection des identités trans et crip]({{< ref "publication/blanchard-2020-criptransidentity/" >}}).
 
-- A paper on the [relative absence of trans people with early physical impairments]({{< ref "publication/blanchard-2020-wherearethetranscrips/" >}}).
+- Un article sur [l'absence relative de personnes trans ayant un handicap moteur de naissance]({{< ref "publication/blanchard-2020-wherearethetranscrips/" >}}).

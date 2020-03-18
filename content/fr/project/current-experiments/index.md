@@ -1,7 +1,7 @@
 ---
-title: Current Experiments 
+title: Expériences en cours
 subtitle:
-summary: Please participate and help us.
+summary: Aidez-nous en participant.
 authors:
 - enka
 tags: []
@@ -26,23 +26,21 @@ image:
 projects: []
 ---
 
-
-With the help of a number of other scientists, I have launched multiple experiments and user studies over the past few years.
-We are always looking for volunteers for those, so feel free to try one of the following (as a reward, you get the link to our hypotheses and preliminary research once you're done with the study). 
+Avec l'aide de plusieurs autres chercheurs, j'ai pu lancer un certain nombre d'expériences sur les quelques dernières années (généralement en ligne). Nous cherchons toujours de nouvelles personnes pour tester nos études et technologies, n'hésitez donc pas à essayer une des études suivantes (comme récompense, un lien vers nos hypothèses de recherche et résultats préliminaires est généralement donné à la fin du test). 
 
 
-*Impostor syndrome in academia*. 
-If you are a young researcher or a graduate student, please consider filling the following survey and spreading it, as it could have a direct positive impact (initially for you and hopefully for our communities), no matter your field (we're doing a cross-field study).
-Link to study: [https://forms.gle/hAL8WMMtuwAkiFkZ9](https://forms.gle/hAL8WMMtuwAkiFkZ9). 
+*Syndrome de l'imposteur dans le monde académique*. 
+Si vous faites votre doctorat ou l'avez achevé il y a peu, cette étude est pour vous, et pourrait avoir un impact (positif) direct si nos hypothèses sont justes (pour vous au départ et ensuite pour nos communautés). N'hésitez pas à partager, peu importe votre domaine (notre étude étant inter-domaines).
+Lien vers l'étude : [https://forms.gle/hAL8WMMtuwAkiFkZ9](https://forms.gle/hAL8WMMtuwAkiFkZ9). 
 
 
-*Mental computation modeling*. 
-Click on this [link](http://koliaza.com/mentcompexperiment/g1), follow the instructions, and get details at the end. The goal is to build a model of mental computing costs, to have a general purpose tool to improve our other work (including the following one).
+*Modélisation des calculs mentaux*. 
+Suivez ce [lien](http://koliaza.com/mentcompexperiment/g1), et suivez les instructions, les détails étant à la fin. Le but est ici d'avoir un outil permettant d'estimer le coût des algorithmes mentaux, afin d'améliorer les algorithmes que nous développons (dont le suivant).
 
 
-*Mental-only secure password managers*.
-We recently developed a new kind of password manager called [Cue-pin-Select](/publication/blanchard-2019-cuepinselect/) that works using only your brain, but only requires you to remember one short sentence. After initial tests on a limited group of subjects, we are looking for two dozen users who would be ready to do a longer study (with tasks twice per day, for a week). To participate, send us an email.
+*Gestionnaire mental de mots de passe*.
+Nous avons récemment développé un nouveau type de gestionnaire de mots de passe nommé [Cue-pin-Select](/publication/blanchard-2019-cuepinselect/), qui marche entièrement de tête et ne nécessite que la mémorisation d'une phrase de passe. Après des tests initiaux sur un petit groupe de sujets, nous sommes à la recherche de nouvelles personnes qui aimeraient tester cet algorithme. Envoyez-nous un email pour participer.
 
 
-*Crowd-sourcing semi-public data to detect nazi propaganda*. 
- We are about to launch a crowd-sourcing platform as a proof of concept to detect propaganda movies. We estimate the total user time needed to be less than 100 hours, so if you want to help out, let us know. 
+*Crowd-sourcing de données semi-publiques pour détecter la propagande nazie*. 
+Nous allons bientôt lancer une plateforme semi-ludique pour démontrer le fonctionnement de ce type d'outil (la propagande nazie n'étant qu'une application). Nous supposons qu'il faudrait au total une centaine d'heures  de la part de bénévoles pour terminer cette démonstration, donc n'hésitez pas à vous porter volontaire si ça vous intéresse.

@@ -43,7 +43,7 @@ As an archive, here are a few things I did during my studies, mostly at ENS:
 As well as some code:
 
 - The [RSV simulator](http://koliaza.com/rsvp/), an experiment to try to convince people of the legitimacy of sampling.
-- My [github](https://github.com/koliaza) with some old projects
-- [Archive](/files/datingsite.zip) for a dating site population simulator, comparing multiple systems like OkCupid
-- [Archive](/files/magic.zip) for a program computing the probability of a certain hand in MTG, with redraws
-- [Archive](/files/DFLR.zip) for a program computing probabilities of bad instances for DFLR
+- My [github](https://github.com/koliaza) with some old projects.
+- [Archive](/files/datingsite.zip) for a dating site population simulator, comparing multiple systems like OkCupid.
+- [Archive](/files/magic.zip) for a program computing the probability of a certain hand in MTG, with redraws.
+- [Archive](/files/DFLR.zip) for a program computing probabilities of bad instances for DFLR.

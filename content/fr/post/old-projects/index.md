@@ -1,6 +1,6 @@
 ---
-title: Projects done during my studies
-subtitle: Nothing groundbreaking
+title: Projets faits durant mes études
+subtitle: Par curiosité
 summary: 
 authors:
 - enka
@@ -26,24 +26,24 @@ image:
 projects: []
 ---
 
-As an archive, here are a few things I did during my studies, mostly at ENS: 
+Par souci d'exhaustivité, voilà quelques projets accomplis durants mes études, surtout à l'ENS : 
 
-- [Slides](/files/slides_20dynamic_20facility_20location.pdf) and [report](/files/MPRI_20report_20Blanchard.pdf) for the M2 internship I had with N. Schabanel on Dynamic Facility Location.
+- [Slides](/files/slides_20dynamic_20facility_20location.pdf) et [rapport](/files/MPRI_20report_20Blanchard.pdf) du stage de M2 avec N. Schabanel sur le Dynamic Facility Location.
 
-- [Review](/files/review_20buffon.pdf) of "On Buffon Machines and Numbers" by P. Flajolet, M. Pelletier, M. Soria, done for the Analysis of Algorithms class in MPRI.
+- [Review](/files/review_20buffon.pdf) de "On Buffon Machines and Numbers" par P. Flajolet, M. Pelletier, M. Soria, fait pour le cours d'analyse d'algorithmes du  MPRI.
 
-- [Independent study](/files/blanchard_TIPE.pdf) of Conway's Angel problem for the ENS entrance competition.
+- [TIPE](/files/blanchard_TIPE.pdf) sur le problème de l'ange de Conway pour le concours des ENS.
 
-- [Report on a homemade heuristic to solve the Graph Isomorphism problem](/files/report_20heuristic.pdf) done for the ENS algorithmic class (code available on my github) with Tito Nguyen.
+- [Rapport sur une heuristique maison pour le Graph Isomorphism problem](/files/report_20heuristic.pdf) fait avec Tito Nguyen pour le cours d'algorithmique de l'ENS (code sur mon github).
 
-- [Slides](/files/slides_20blanchard_20internship_202014.pdf) of my internship defense, where I worked on the [Grid-Minor theorem](http://arxiv.org/abs/1305.6577) by Chekuri and Chuzhoi, (internship under the direction of Saket Saurabh at IMSC in 2014).
+- [Slides](/files/slides_20blanchard_20internship_202014.pdf) de mon stage de M1 sur le [Grid-Minor theorem](http://arxiv.org/abs/1305.6577) de Chekuri et Chuzhoi, (stage sous la direction de Saket Saurabh à l'IMSC en 2014).
 
 
 
-As well as some code:
+Et quelques bouts de code :
 
-- The [RSV simulator](http://koliaza.com/rsvp/), an experiment to try to convince people of the legitimacy of sampling.
-- My [github](https://github.com/koliaza) with some old projects
-- [Archive](/files/datingsite.zip) for a dating site population simulator, comparing multiple systems like OkCupid
-- [Archive](/files/magic.zip) for a program computing the probability of a certain hand in MTG, with redraws
-- [Archive](/files/DFLR.zip) for a program computing probabilities of bad instances for DFLR
+- Le [Simulateur RSV](http://koliaza.com/rsvp/), une expérience visant à démontrer la légimité du sampling.
+- Mon [github](https://github.com/koliaza) avec de vieux projets.
+- [Archive](/files/datingsite.zip) pour un simulateur de population de réseau de rencontre qui compare plusieurs systèmes dont celui d'OkCupid.
+- [Archive](/files/magic.zip) pour un programme calculant la probabilité d'avoir certaines mains à MTG, avec mulligan.
+- [Archive](/files/DFLR.zip) pour un programme calculant la probabilité d'avoir une instance mauvaise pour le DFLR.

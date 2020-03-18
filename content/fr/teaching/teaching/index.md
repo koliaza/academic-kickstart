@@ -1,7 +1,7 @@
 ---
-title: Teaching
+title: Enseignement
 subtitle:
-summary: Mostly at EIDD and with Animath.
+summary: Principalement à l'EIDD et avec Animath.
 authors:
 - enka
 tags: []
@@ -25,13 +25,13 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-I am currently employed in a research-only position, but I used to teach at the Ecole d'Ingénieurs Denis Diderot. Course list:
-- Foundations of Computer Science at M1 level in Fall 2018.
-- Foundations of Computer Science at M1 level in Fall 2017.
-- Systems and Network Engineering at M1 level in Spring 2017 ([old course website](http://koliaza.com/old/fr/systeme2017.html)).
-- Systems and Network Engineering at M1 level in Spring 2016 ([old course website](http://koliaza.com/old/fr/systeme2016.html)).
+Mon poste actuel n'a aucune charge d'enseignement, mais j'ai enseigné plusieurs années à l'Ecole d'Ingénieurs Denis Diderot les cours suivants :
+- Fondements mathématiques de l'informatique, niveau M1, à l'automne 2018.
+- Fondements mathématiques de l'informatique, niveau M1, à l'automne 2017.
+- Systèmes et Réseaux, niveau M1, au printemps 2017 ([vieux site du cours](http://koliaza.com/old/fr/systeme2017.html)).
+- Systèmes et Réseaux, niveau M1, au printemps 2016 ([vieux site du cours](http://koliaza.com/old/fr/systeme2016.html)).
 
-In 2016, we organised a [Spring School in Discrete Mathematics in Kosovo](http://koliaza.com/old/prishtina16.html) with Siargey Kachanovich, with the support of Animath. I then went to Moldova with Mardin Andler to train teachers there and try to create new Animath clubs.
+Avec Siargey Kachanovich et le soutien d'Animath, nous avons aussi organisé une [école d'été de mathématiques discrètes au Kosovo](http://koliaza.com/old/prishtina16.html). Je suis aussi partie en Moldavie avec Mardin Andler pour former des professeurs et essayer de créer de nouveaux clubs Animath.
 
 
-I participated in the creation of the [Mathmosphere](https://animath.fun-campus.fr/) education platform and created the first MOOC on it, on the subject of graph theory.
+J'ai aussi contribué à la création de [Mathmosphere](https://animath.fun-campus.fr/), en y créant le premier MOOC, sur la théorie des graphes.

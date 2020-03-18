@@ -1,5 +1,5 @@
 ---
-title: About me
+title: Infos personnelles
 subtitle: 
 summary: 
 authors:
@@ -25,7 +25,8 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-A colleague has mentioned being surprised by how much my research is intertwined with my life. It is quite accurate, as I generally tend to apply whatever I learn to all facets of my life, and tend to start learning about a subject as soon as it becomes relevant. 
+Un collègue m'a récemment fait part de sa surprise quant au fait que ma recherche soit si indissociable de ma vie. C'est assez approprié, car j'ai tendance à appliquer ce que j'apprends à toutes les facettes de ma vie, et à me renseigner (voire à faire des recherches) sur un sujet dès qu'il acquiert une importance à mes yeux, peu importe le domaine.
+
 
 
 One of the foremost ways in which this applies is my identity, as I am a part of slightly too many minorities. To name just some of them, I'm queer and non-binary, as well as physically disabled. This is the motivating factor for some of my research. It also has a few consequences.

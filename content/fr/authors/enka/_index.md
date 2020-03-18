@@ -14,36 +14,36 @@ role:  Researcher (they/them)
 
 # Organizations/Affiliations
 organizations:
-- name: Digitrust Consortium, Université de Lorraine 
+- name:  Consortium Digitrust, Université de Lorraine 
   url: "http://lue.univ-lorraine.fr/fr/article/digitrust-consortium-0"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Transdisciplinary researcher working at Digitrust, Loria.
 
 interests:
-- Human-Computer Interactions
-- Security and Cryptography
-- Queer and Crip Theory
-- Institution Design
-- Graph Theory 
-- Complexity Theory
-- Voting Theory, e-Democracy
-- History of Political Philosophy
-- Copyright on semi-public data
+- Interactions Humain-Machine
+- Securité et Cryptographie
+- Théories Queer et Crip
+- Design d'Institution 
+- Théorie des Graphes
+- Théorie de la Complexité
+- Théorie du Vote, e-Democracy
+- Histoire Politique
+- Copyright et données publiques
 
 education:
   courses:
-  - course: PhD in Usable Security
+  - course: Doctorat en Utilisabilité de la Sécurité
     institution: Institut de Recherche en Informatique Fondamentale
     year: 2019
   - course: Diplôme de l'ENS 
     institution: Ecole Normale Supérieure de Paris
     year: 2016
-  - course: Master of Research in Computer Science
-    institution: ENS de Paris and Paris VII University
+  - course: Master Parisien de Recherche en Informatique
+    institution: ENS de Paris et Université Paris VII 
     year: 2015
-  - course: BScs in Computer Science and Mathematics
-    institution: Paris VII University
+  - course: Licenses de Mathématiques et Informatique
+    institution: Université Paris VII 
     year: 2012
 
 # Social/Academic Networking

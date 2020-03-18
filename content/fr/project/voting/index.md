@@ -27,9 +27,9 @@ projects: []
 ---
 J'ai fait partie du Random Sample Voting (RSV) Project depuis 2016, et ai eu l'opportunité de travailler avec des collègues comme  David Chaum et Alan Sherman, qui me présenta Ted Selker, avec qui j'ai fait la plupart de mes travaux sur les systèmes de vote.
 
-Nos recherches nous ont amenés à considérer les sujets suivants (en anglais):
+Nos recherches nous ont amenés à considérer les sujets suivants (en anglais) :
 
-- [La confiance envers les systèmes comme RSV]({{< ref "publication/blanchard-2018-building-trust-sample/" >}}).
+- [La confiance envers les systèmes comme RSV]({{< ref "publication/blanchard-2018-building-trust-sample/" >}}). [Court article]({{< ref "publication/blanchard-2016-voteparsondage/" >}}) en français.
 
 - [Les difficultés inhérentes à l'implémentation de nouveaux systèmes de vote]({{< ref "publication/blanchard-2018-improvingvotingtechnology/" >}}).
 
@@ -40,7 +40,7 @@ Nos recherches nous ont amenés à considérer les sujets suivants (en anglais):
 - [Les systèmes de vote en basse technologie pour petits comités]({{< ref "publication/blanchard-2020-boardroomvoting/" >}}).
  
 
-J'ai aussi été invitée à donner des présentations sur ces sujets: 
+J'ai aussi été invitée à donner des présentations sur ces sujets : 
 - Au [2016 Global Forum on Modern Direct Democracy](http://www.2016globalforum.com/) ([slides](/files/global_forum_1st.pdf)), où j'ai organisé la première démonstration publique de RSV.
 - Au [Forum Mondial de la Démocratie 2017](https://www.coe.int/en/web/world-forum-democracy/about2017wfd), où j'ai aussi organisé une démonstration de RSV. 
 - A la [2018 POINT Conference on Political Accountability and New Technologies](https://www.fes-soe.org/news-list/e/point-70-conference-political-accountability-and-new-technologies/).
