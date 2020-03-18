@@ -1,5 +1,5 @@
 ---
-title: Currently running experiments 
+title: Current experiments 
 subtitle:
 summary: Please participate and help us.
 authors:
