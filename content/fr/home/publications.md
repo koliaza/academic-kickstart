@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Publications majeures "
-subtitle = "([liste complète](/publication/#))  ([note sur les noms](/post/authorship))"
+subtitle = "[liste complète](/publication/#),  [note sur les noms](/post/authorship)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

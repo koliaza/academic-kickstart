@@ -33,6 +33,6 @@ J'ai contribué semi-régulièrement au magazine *Tangente*, et voici les articl
 - [Classes de Complexité](/files/classes_20de_20complexite.pdf)
 - [Des mots de passe pas très secrets](/files/p18_19_TG180.pdf)
 
-J'ai aussi contribué à la brochure annuelle du [Salon Culture & Jeux Mathématiques](http://www.cijm.org/) en 2017, avec un article co-écrit avec L. Gabasova sur le [GPS ](/files/GPS-cijm.pdf), ainsi qu'un article sur le [problème de l'ange de Conway](/files/coursedemon.pdf) dans l'édition 2018.
+J'ai aussi contribué à la brochure annuelle du [Salon Culture & Jeux Mathématiques](http://www.cijm.org/) en 2017, avec un article  sur le [GPS ](/files/GPS-cijm.pdf) co-écrit avec L. Gabasova, ainsi qu'un article sur le [problème de l'ange de Conway](/files/coursedemon.pdf) dans l'édition 2018.
 
 J'aime toujours me lancer dans des projets de vulgarisation, donc n'hésitez pas à me proposer des idées si vous en avez (j'ai quelques projets sur le feu, mais me suis surtout concentrée sur la recherche récemment).
