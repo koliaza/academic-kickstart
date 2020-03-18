@@ -6,55 +6,16 @@
 [en]
   languageCode = "en-us"
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-
+  languageName = "English"
+  weight = 1
 # Uncomment the lines below to configure your website in a second language.
 [fr]
   languageCode = "fr"
   contentDir = "content/fr"
   title = "Dr. Enka Blanchard"
-  [fr.params]
-    description = "Site professionnel d'Enka Blanchard"
-phone = "email : prénom.nom@gmail.com"
-office_hours = ["Je suis généralement joignable la nuit, vivant aux horaires californiens."]
-
-
-  [[fr.menu.main]]
-  name = "Bio"
-  url = "#about"
-  weight = 10
-
-
-  [[fr.menu.main]]
-  name = "Projets"
-  url = "#projects"
-  weight = 20
-  
-  
-  [[fr.menu.main]]
-  name = "Thèse"
-  url = "#thesis"
-  weight = 40
-  
-  [[fr.menu.main]]
-  name = "Publications"
-  url = "publication/#"
-  weight = 50
-  
-  [[fr.menu.main]]
-  name = "Enseignement"
-  url = "#teaching"
-  weight = 55
-  
-
-
-  [[fr.menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
-
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-[[main]]
-    name = "CV"
-    url = "files/cv-blanchard.pdf"
-    weight = 70
+  languageName = "Français"
+  weight = 2
+#  [fr.params]
+#    description = "Site professionnel d'Enka Blanchard"
+#phone = "email : prénom.nom@gmail.com"
+#office_hours = ["Je suis généralement joignable la nuit, vivant aux horaires californiens."]
