@@ -30,7 +30,7 @@ Voilà quelques textes que j'ai écrit sur ces sujets (en anglais ou français s
 
 - Un texte plus créatif sur [le voyage quand on a un handicap]({{< ref "publication/blanchard-2020-temporalexpenses/" >}}).
 
-- Une analyse plus formelle des [taxes temporelles]({{< ref "publication/blanchard-2020-timetaxes/">}}) mentionnées dans le texte précédent.
+- Une analyse plus formelle des [taxes temporelles]({{< ref "publication/blanchard-2020-spatialitiesandtemporalities2/">}}) mentionnées dans le texte précédent.
 
 - Une analyses autoethnographique de [l'intersection des identités trans et crip]({{< ref "publication/blanchard-2020-criptransidentity/" >}}).
 
