@@ -5,6 +5,7 @@ publishDate: 2020-03-17T03:44:16.936373Z
 authors: ["Enka Blanchard", "Siargey Kachanovich"]
 publication_types: ["1"]
 categories: ["publication"]
+publication: "*IEEE Computers, Software, and Applications Conference (COMPSAC) Fast Abstracts*"
 abstract: " —Nine years before Snapchat and its ephemeral
 messages, Aumann, Ding, and Rabin introduced the idea of
 everlasting security: an encryption that could not be decrypted

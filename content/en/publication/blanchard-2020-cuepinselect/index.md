@@ -5,6 +5,7 @@ publishDate: 2020-03-17T03:44:16.936373Z
 authors: ["Enka Blanchard","Levi Gabasova","Ted Selker","Eli Sennesh"]
 publication_types: ["1"]
 categories: ["publication","main-pub"]
+publication: "*IEEE Computers, Software, and Applications Conference (COMPSAC)*"
 abstract: "People struggle to invent safe passwords for many
 of their typical online activities, leading to a variety of security
 problems when they use overly simple passwords or reuse

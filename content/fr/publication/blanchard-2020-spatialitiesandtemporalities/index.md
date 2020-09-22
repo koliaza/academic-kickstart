@@ -1,5 +1,5 @@
 ---
-title: "Discreet crips in a discrete world: spatialities and temporalities of disability"
+title: "Crip spatialities and temporalities I : discreet crips in a discrete world"
 date: 2020-01-01
 publishDate: 2020-03-17T03:44:16.936373Z
 authors: ["Enka Blanchard"]
@@ -16,6 +16,6 @@ contributes to crips’ lack of visibility in social spaces. We follow with a st
 and discuss potential extensions to discontinuous perceptions of the self.
 "
 featured: false
-publication: "Accepted at *espaces-temps.net*"
+publication: " *Espaces-temps.net*"
 ---
 

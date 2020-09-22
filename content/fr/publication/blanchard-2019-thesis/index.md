@@ -5,45 +5,42 @@ publishDate: 2019-06-21T15:00:00
 authors: ["Enka Blanchard"]
 publication_types: ["7"]
 categories: ["thesis"]
-summary: "J'ai soutenu ma thèse intitulée *Utilisabilité: haute sécurité en basse technologie* le 21 juin 2019, devant le jury suivant ([rapport du jury](/files/final_report.pdf)):
+summary: "I defended my thesis titled *Usability: low tech, high security* on June 21st, 2019, before the following jury ([final report](/files/final_report.pdf)):
 
 
-Directeurs: Nicolas Schabanel et Ted Selker;
-
- 
-Rapporteurs : Michelle Mazurek ([rapport](/files/mazurek_report.pdf)), David Naccache ([rapport](/files/naccache_report.pdf)), Peter Y. A. Ryan  ([rapport](/files/ryan_report.pdf));
+Directors: Nicolas Schabanel and Ted Selker;
 
  
-Examinateurs: Adrian Kosowski et Marine Minier (présidente du jury)."
-
-abstract: "
-Cette thèse est consacrée au domaine de l’utilisabilité de la sécurité, en particulier dans le contexte de l’authentification en ligne et du vote vérifiable.
-Le rôle toujours plus important de nos identifiants en ligne, qu’ils soient utilisés pour accéder aux réseaux sociaux, aux services bancaires ou aux systèmes de vote, a débouché sur des solutions faisant plus de mal que de bien. Le problème n’est pas juste technique mais a une forte composante psycho-sociale, qui se révèle dans l’usage des mots de passe --- objet central d'étude de cette thèse. Les utilisateurs font quotidiennement face à des compromis, souvent inconscients, entre sécuriser leurs données et dépenser les ressources mentales limitées et déjà trop sollicitées. Des travaux récents ont montré que l'absence de règles communes, les contraintes ad-hoc si fréquentes et les recommandations contradictoires compliquent ce choix, mais ces recherches sont généralement ignorées, victimes d'une probable incompréhension entre chercheurs, développeurs et utilisateurs. 
-
-
-Cette thèse vise à résoudre ces problèmes avec des solutions inspirées par la cryptographie, la psychologie, ainsi que sept études utilisateurs, afin d'obtenir des outils simplifiés non seulement pour l'utilisateur final mais aussi pour le développeur.
-
-
-La première partie des contributions se concentre sur le fournisseur de service, avec deux outils permettant d'améliorer l'expérience utilisateur sans effort de sa part. Nous commençons par une étude sur la facilité de transcription de différents types de codes, afin d'obtenir un design réduisant les erreurs tout en augmentant la vitesse de frappe. Nous montrons aussi comment accepter les fautes de frappe dans les mots de passe peut améliorer la sécurité, en offrant un protocole compatible avec les méthodes de hachage standard.
-
-
-La deuxième partie offre des outils directement aux utilisateurs, avec un gestionnaire de mot de passe mental qui ne nécessite que la mémorisation d'une phrase et d'un code PIN, avec des garanties sur la sécurité des mots de passe si certains sont compromis. Nous proposons aussi une méthode de création de phrase de passe à la fois plus facile et sécurisée, et terminons en montrant empiriquement des failles dans le principal modèle de calcul mental utilisé aujourd'hui dans le domaine.
-
-
-Enfin, nous nous consacrons aux nouveaux protocoles de vote, en commençant par les difficultés à les faire accepter en pratique. Nous répondons à une demande pour des systèmes non-électroniques en proposant plusieurs implémentations de vote vérifiable en papier, une panoplie de primitives et un protocole de vote pour les très petites élections.
-
-
-
-Thèse soutenue le 21 juin 2019 à l'Université Sorbonne Paris Cité, devant le jury suivant ([rapport du jury](/files/final_report.pdf)):
-
-
-Directeurs: Nicolas Schabanel et Ted Selker;
+Reviewers: Michelle Mazurek ([report](/files/mazurek_report.pdf)), David Naccache ([report](/files/naccache_report.pdf)), Peter Y. A. Ryan  ([report](/files/ryan_report.pdf));
 
  
-Rapporteurs : Michelle Mazurek ([rapport](/files/mazurek_report.pdf)), David Naccache ([rapport](/files/naccache_report.pdf)), Peter Y. A. Ryan  ([rapport](/files/ryan_report.pdf));
+Examiners: Adrian Kosowski and Marine Minier (president of the jury)."
+
+abstract: "This dissertation deals with the field of usable security, particularly in the contexts of online authentication and verifiable voting systems.
+The ever-expanding role of online accounts in our lives, from social networks to banking or online voting, has led to some initially counterproductive solutions. As recent research has shown, the problem is not just technical but has a very real psychosocial component. Password-based authentication, the subject of most of this thesis, is intrinsically linked to the unconscious mechanisms people use when interacting with security systems. Everyday, users face trade-offs between protecting their security and spending valuable mental resources, with a choice made harder by conflicting recommendations, a lack of standards, and the ad-hoc constraints still frequently encountered. Moreover, as recent results from usable security are often ignored, the problem might stem from a fundamental disconnect between the users, the developers and the researchers. 
+We try to address those problems with solutions that are not only simplified for the user's sake but also for the developer's. To this end, we use tools from cryptography and psychology, and report on seven usability experiments.
+
+
+The first part of the contributions uses a service provider's point of view, with two tools to improve the end-user's experience without requiring their cooperation. We start by analysing how easily codes of different structures can be transcribed, with a proposal that reduces error rates while increasing speed. We then look at how servers can accept typos in passwords without changing the general hashing protocol, and how this could improve security. 
+
+
+The second part focuses on end-users, starting by a proposed mental password manager that only depends on remembering only a single passphrase and PIN, with guarantees on the mutual security of generated passwords if some get stolen. We also provide a better way to create such passphrases. As mental computing models are central to expanding this field, we finish by empirically showing why the main model used today is not adapted to the purpose.
+
+
+In the third part, we focus on voting protocols, and investigate why changing the ones used in practice is an uphill battle. We try to answer a demand for simple paper-based systems by providing low-tech versions of the first paper-based verifiable voting scheme. To conclude, we propose a set of low-tech primitives combined in a protocol that allows usable verifiable voting with no electronic means in small elections.
+
+
+
+Defended at Université Sorbonne Paris Cité on June 21st, 2019, before the following jury ([final report](/files/final_report.pdf)):
+
+
+Directors: Nicolas Schabanel and Ted Selker;
 
  
-Examinateurs: Adrian Kosowski et Marine Minier (présidente du jury).
+Reviewers: Michelle Mazurek ([report](/files/mazurek_report.pdf)), David Naccache ([report](/files/naccache_report.pdf)), Peter Y. A. Ryan  ([report](/files/ryan_report.pdf));
+
+ 
+Examiners: Adrian Kosowski and Marine Minier (president of the jury).
 "
 featured: false
 url_pdf: "http://theses.md.univ-paris-diderot.fr/BLANCHARD_Enka_1_va_20190621.pdf"

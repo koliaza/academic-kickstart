@@ -5,6 +5,7 @@ publishDate: 2020-03-17T03:44:16.936373Z
 authors: ["Enka Blanchard"]
 publication_types: ["1"]
 categories: ["publication"]
+publication: "*Secure Digital Identity Management Workshop (SDIM) co-located with COMPSAC*"
 abstract: " As passwords remain the main online authentication
 method, focus has shifted from naive entropy to how usability
 improvements can increase security. Chatterjee et al. recently
