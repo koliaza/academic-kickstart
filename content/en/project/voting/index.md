@@ -37,7 +37,9 @@ Our work so far includes research on:
 
 - [Non-cryptographic verifiable voting system]({{< ref "publication/blanchard-2020-origamivotingnon/" >}}).
 
-- [Low-tech boardroom voting systems]({{< ref "publication/blanchard-2020-boardroomvoting/" >}}).
+- [Design ideas for absentee voting]({{< ref "publication/selker-2020-designideas/" >}}).
+
+- [Low-tech boardroom voting systems]({{< ref "publication/blanchard-2020-boardroomvoting/" >}}), and [online low-tech boardroom voting for UMBC]({{< ref "publication/blanchard-2020-remotetp/" >}})
  
 
 I've also been invited to give a few talks on the subject: 

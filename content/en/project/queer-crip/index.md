@@ -30,8 +30,10 @@ I have written a few texts on the subject:
 
 - A more creative text on [travelling while crip]({{< ref "publication/blanchard-2020-temporalexpenses/" >}}).
 
-- A more formal analysis of the [temporal taxes]({{< ref "publication/blanchard-2020-timetaxes/">}}) featured in the previous text.
+- A more formal analysis of the [temporal taxes]({{< ref "publication/blanchard-2020-spatialitiesandtemporalities2//">}}) featured in the previous text.
 
 - An autoethnographic take on living the [intersection of crip-identity and trans-identity]({{< ref "publication/blanchard-2020-criptransidentity/" >}}).
 
 - A paper on the [relative absence of trans people with early physical impairments]({{< ref "publication/blanchard-2020-wherearethetranscrips/" >}}).
+
+- Two articles in French on the [treatment of minorities during CoViD-19]({{< ref "publication/boubli-2020-thanatopolitique/" >}}) and the resulting [thanatopolitics]({{< ref "publication/blanchard-2020-covidminorities/" >}}).

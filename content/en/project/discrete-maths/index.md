@@ -31,7 +31,7 @@ My initial training was in mathematics, more specifically graph theory, and I di
 I then worked with [Nicolas Schabanel](https://www.irif.fr/users/nschaban/index) at the end of my Master's degree, and then during the first half of my thesis, with a focus on dynamic clustering.
 
 
-I still try to do some research, mostly with [Siargey Kachanovich](http://perso.eleves.ens-rennes.fr/people/siargey.kachanovich/). Currently, math-wise I am mostly thinking about submanifold meshing and point location problems. 
+I still try to do some research, mostly with [Siargey Kachanovich](http://perso.eleves.ens-rennes.fr/people/siargey.kachanovich/) and Sébastien Bouchard. Currently, math-wise I am mostly thinking about submanifold meshing and point location problems, as well as distributed agent problems.
 
 Here are the different papers:
 

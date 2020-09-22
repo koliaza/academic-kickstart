@@ -28,18 +28,19 @@ Our work so far includes research on:
 
 - [Passphrases]({{< ref "publication/blanchard-2018-improvingsecurityusability/" >}}).
 
-- [Mental password managers]({{< ref "publication/blanchard-2019-cuepinselect/" >}}).
+- [Mental password managers]({{< ref "publication/blanchard-2020-cuepinselect/" >}}).
 
 - [How people use mental algorithms]({{< ref "publication/blanchard-2020-mentalcomputations/" >}});
 
 - [Improved single-used codes for manual transcription]({{< ref "publication/blanchard-2019-consonant-vowel-consonants//" >}}).
 
-- Typo correction for passwords, [theoretically]({{< ref "publication/blanchard-2019-passwordtypocorrection/" >}}) and [practically]({{< ref "publication/blanchard-2020-typocorrection/" >}}).
 
 - [Eye biometrics for authentication]({{< ref "publication/blanchard-2019-reflexive-memory-authenticator/" >}}).
  
 - [Everlasting cryptography using pornography]({{< ref "publication/blanchard-2020-everlastingencryption/" >}}).
 
 - [How hashing is done in practice]({{< ref "publication/blanchard-2019-movingclientsided/" >}}).
+
+- Typo correction for passwords, [theoretically]({{< ref "publication/blanchard-2019-passwordtypocorrection/" >}}) and [practically]({{< ref "publication/blanchard-2020-typocorrection/" >}}), with the [journal article]({{< ref "publication/blanchard-2020-clientsidehashing/" >}}) summarizing this and the previous empirical paper.
 
 I've also given a talk on Human Computable Passwords in the Stanford EE:380 seminar in December 2018 ([video](https://www.youtube.com/watch?v=HalVaS-CvMU), [slides](/files/Human_Computable_Passwords_stanford.pdf)), and a similar talk at MIT CSAIL ([slides](/files/Human_Computable_Passwords_mit.pdf)).

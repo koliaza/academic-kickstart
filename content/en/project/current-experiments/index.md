@@ -39,6 +39,9 @@ Link to study: [https://forms.gle/hAL8WMMtuwAkiFkZ9](https://forms.gle/hAL8WMMtu
 *Mental computation modeling*. 
 Click on this [link](http://koliaza.com/mentcompexperiment/g1), follow the instructions, and get details at the end. The goal is to build a model of mental computing costs, to have a general purpose tool to improve our other work (including the following one).
 
+*Image recognition and describability*
+Click on this [link](http://koliaza.com/visualsecrets), and follow the instructions. To prevent priming, I won't share the immediate goal here, but we have at least one voting system design that depends on the result of this experiment.
+
 
 *Mental-only secure password managers*.
 We recently developed a new kind of password manager called [Cue-pin-Select](/publication/blanchard-2019-cuepinselect/) that works using only your brain, but only requires you to remember one short sentence. After initial tests on a limited group of subjects, we are looking for two dozen users who would be ready to do a longer study (with tasks twice per day, for a week). To participate, send us an email.
