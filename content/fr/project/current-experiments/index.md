@@ -38,6 +38,10 @@ Lien vers l'étude : [https://forms.gle/hAL8WMMtuwAkiFkZ9](https://forms.gle/hAL
 Suivez ce [lien](http://koliaza.com/mentcompexperiment/g1), et suivez les instructions, les détails étant à la fin. Le but est ici d'avoir un outil permettant d'estimer le coût des algorithmes mentaux, afin d'améliorer les algorithmes que nous développons (dont le suivant).
 
 
+*Reconnaissance et description d'images*
+Suivez ce [lien](http://koliaza.com/visualsecrets) en anglais et suivez les instructions. Avant de ne pas influencer les utilisateurs, les buts réels ne sont pas expliqués ici, mais un système de vote que nous avons développé dépend des résultats de cette expérience.
+
+
 *Gestionnaire mental de mots de passe*.
 Nous avons récemment développé un nouveau type de gestionnaire de mots de passe nommé [Cue-pin-Select](/publication/blanchard-2019-cuepinselect/), qui marche entièrement de tête et ne nécessite que la mémorisation d'une phrase de passe. Après des tests initiaux sur un petit groupe de sujets, nous sommes à la recherche de nouvelles personnes qui aimeraient tester cet algorithme. Envoyez-nous un email pour participer.
 

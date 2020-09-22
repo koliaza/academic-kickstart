@@ -37,7 +37,9 @@ Nos recherches nous ont amenés à considérer les sujets suivants (en anglais) 
 
 - [Les systèmes de vote non-cryptographiques]({{< ref "publication/blanchard-2020-origamivotingnon/" >}}).
 
-- [Les systèmes de vote en basse technologie pour petits comités]({{< ref "publication/blanchard-2020-boardroomvoting/" >}}).
+- [Des idées de design pour le vote postal]({{< ref "publication/selker-2020-designideas/" >}}).
+
+- [Les systèmes de vote en basse technologie pour petits comités]({{< ref "publication/blanchard-2020-boardroomvoting/" >}}) et une [version en ligne and pour UMBC]({{< ref "publication/blanchard-2020-remotetp/" >}}).
  
 
 J'ai aussi été invitée à donner des présentations sur ces sujets : 

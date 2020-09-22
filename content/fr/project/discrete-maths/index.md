@@ -30,7 +30,7 @@ Ma formation de départ était en mathématiques, et plus spécifiquement en th�
 J'ai ensuite travaillé avec [Nicolas Schabanel](https://www.irif.fr/users/nschaban/index) entre la fin de mon master et le milieu de ma thèse, principalement sur le clustering dynamique.
 
 
-Je poursuis toujours certains sujets de recherche mathématique, principalement avec  [Siargey Kachanovich](http://perso.eleves.ens-rennes.fr/people/siargey.kachanovich/). En ce moment, les deux problèmes m'intéressant le plus sont le maillage de sous-variétés et les problèmes de point location. 
+Je poursuis toujours certains sujets de recherche mathématique, principalement avec  [Siargey Kachanovich](http://perso.eleves.ens-rennes.fr/people/siargey.kachanovich/) et Sébastien Bouchard. En ce moment, les deux problèmes m'intéressant le plus sont le maillage de sous-variétés et les problèmes de point location, ainsi que sur un problème d'agent distribué.
 
 Voilà quelques articles :
 

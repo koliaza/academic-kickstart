@@ -42,4 +42,6 @@ Nos travaux (la plupart étant en anglais) ont portés sur des sujets comme :
 
 - [Comment le hachage est fait en pratique]({{< ref "publication/blanchard-2020-hachagecoteclient/" >}}).
 
+- La correction de fautes de frappe dans les mots de passe, [en théorie]({{< ref "publication/blanchard-2019-passwordtypocorrection/" >}}) et  [en pratique]({{< ref "publication/blanchard-2020-typocorrection/" >}}). [Court article]({{< ref "publication/blanchard-2019-commentcorrigerefficacement/" >}}) en français. [Article version journal]({{< ref "publication/blanchard-2020-clientsidehashing/" >}})  résumant ces travaux et ceux de l'article précédent.
+
 J'ai aussi été invitée à donner une conférence intitulée "Human Computable Passwords" au séminaire EE:380 de Stanford en Décembre 2018 ([vidéo](https://www.youtube.com/watch?v=HalVaS-CvMU), [slides](/files/Human_Computable_Passwords_stanford.pdf)), et une présentation similaire à MIT CSAIL ([slides](/files/Human_Computable_Passwords_mit.pdf)).
