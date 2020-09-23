@@ -5,6 +5,7 @@ publishDate: 2020-03-17T03:44:16.936373Z
 authors: ["Enka Blanchard"]
 publication_types: ["3"]
 categories: ["preprint"]
+publication: "*preprint*"
 abstract: "“As far as I can remember, I have always known I was a man”. “One day it hit me and it just
 clicked, and I realised that I was transgender”. Those sentences together make up most of the
 commonly heard experiences of realising one is trans. They are not, however, universal, as I

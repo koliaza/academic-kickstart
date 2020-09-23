@@ -5,6 +5,7 @@ publishDate: 2020-03-17T03:44:16.936373Z
 authors: ["Enka Blanchard"]
 publication_types: ["3"]
 categories: ["preprint"]
+publication: "*preprint*"
 abstract: "The interactions between transidentity, impairment, and disability have been studied extensively in the
 last two decades, mostly thanks to innovative ideas and reflections from the neurodivergent communities,
 and often outside of academic circles. That said, physically impaired trans people are curiously often

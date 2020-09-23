@@ -5,6 +5,7 @@ publishDate: 2020-03-17T03:44:16.936373Z
 authors: ["Enka Blanchard", "Zacharie Boubli", "Charlotte Lemaistre"]
 publication_types: ["3"]
 categories: ["preprint"]
+publication: "*preprint*"
 abstract: "La pandémie du CoViD-19, vue comme expérience collective, a eu un eﬀet de conver-
 gence des vécus minoritaires avec ceux de la « norme sociale ». L’exemple le plus évident
 est le conﬁnement, qui a soudainement placé les personnes valides dans la même situa-

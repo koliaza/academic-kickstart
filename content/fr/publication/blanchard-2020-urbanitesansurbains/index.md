@@ -5,6 +5,7 @@ publishDate: 2020-03-17T03:44:16.936373Z
 authors: ["Enka Blanchard", "Stéphane Gallardo", "Shin Koseki", "Carole Lanoix", "Olivier Lazzarotti", "Irene Sartoretti"]
 publication_types: ["3"]
 categories: ["preprint"]
+publication: "*preprint*"
 abstract: "Presque 40 ans après, imaginons ce que serait le carrefour Mabillon sous la plume de Perec : “19 mai                                      
 2020. 3, 4, non 5 SUV défilent, les conducteurs aux visages masqués, au passage 3 piétons attendent le                                    
 feu, chacun à distance. A chaque arrêt, la même appréhension: où se place-t-on par rapport à ceux déjà-là                                    

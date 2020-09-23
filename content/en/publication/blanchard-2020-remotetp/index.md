@@ -5,6 +5,7 @@ publishDate: 2020-03-17T03:44:16.936373Z
 authors: ["Enka Blanchard", "Robucci, Ryan", "Ted Selker", "Alan T. Sherman"]
 publication_types: ["3"]
 categories: ["preprint"]
+publication: "*preprint*"
 abstract: "We propose a method by which members of the UMBC CSEE Department's Promotion & Tenure 
 Committee can vote remotely during the pandemic in fall 2020. This method will not add significant 
 effort, time, or expense to the process. The goals are to: 

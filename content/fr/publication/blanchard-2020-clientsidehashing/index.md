@@ -5,6 +5,7 @@ date: 2020-09-10
 authors: ["Enka Blanchard"]
 publication_types: ["3"]
 categories: ["preprint"]
+publication: "*preprint*"
 abstract: " Credential leaks still happen with regular frequency,
 and show evidence that, despite decades of warnings, password
 hashing is still not correctly implemented in practice. The

@@ -5,6 +5,7 @@ publishDate: 2020-03-17T03:44:16.936373Z
 authors: ["Ted Selker, Enka Blanchard"]
 publication_types: ["3"]
 categories: ["preprint"]
+publication: "*preprint*"
 abstract: " Despite the renewed discussion on mail-in voting, there has been little evolution
 on ballot and protocol design for this speciﬁc set of protocol constraints. This paper
 describes multiple designs pertaining to ballots, envelopes and chain of custody, that

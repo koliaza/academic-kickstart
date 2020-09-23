@@ -5,6 +5,9 @@ publishDate: 2020-03-17T03:44:16.936373Z
 authors: ["Enka Blanchard", "Ted Selker", "Alan T. Sherman"]
 publication_types: ["3"]
 categories: ["preprint"]
+
+
+publication: "*preprint*"
 abstract: "A _boardroom election_ is an election that takes place in a 
 single room --- the boardroom --- in which all voters can see 
 and hear each other.
