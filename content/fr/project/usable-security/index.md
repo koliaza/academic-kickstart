@@ -34,14 +34,15 @@ Nos travaux (la plupart étant en anglais) ont portés sur des sujets comme :
 
 - [Les codes pour la transcription manuelle]({{< ref "publication/blanchard-2019-consonant-vowel-consonants//" >}}).
 
-- La correction de fautes de frappe dans les mots de passe, [en théorie]({{< ref "publication/blanchard-2019-passwordtypocorrection/" >}}) et  [en pratique]({{< ref "publication/blanchard-2020-typocorrection/" >}}). [Court article]({{< ref "publication/blanchard-2019-commentcorrigerefficacement/" >}}) en français.
 
 - [La biométrique oculaire pour l'authentification]({{< ref "publication/blanchard-2019-reflexive-memory-authenticator/" >}}).
  
 - [La cryptographie impérissable basée sur la pornographie]({{< ref "publication/blanchard-2020-everlastingencryption/" >}}).
 
-- [Comment le hachage est fait en pratique]({{< ref "publication/blanchard-2020-hachagecoteclient/" >}}).
+- [Comment le hachage est implémenté en pratique]({{< ref "publication/blanchard-2020-hachagecoteclient/" >}}).
 
 - La correction de fautes de frappe dans les mots de passe, [en théorie]({{< ref "publication/blanchard-2019-passwordtypocorrection/" >}}) et  [en pratique]({{< ref "publication/blanchard-2020-typocorrection/" >}}). [Court article]({{< ref "publication/blanchard-2019-commentcorrigerefficacement/" >}}) en français. [Article version journal]({{< ref "publication/blanchard-2020-clientsidehashing/" >}})  résumant ces travaux et ceux de l'article précédent.
+
+- [Une nouvelle primitive de sécurité basée sur la reconnaissance visuelle]({{< ref "publication/blanchard-2021-visualsecrets" >}}), avec une application au vote.
 
 J'ai aussi été invitée à donner une conférence intitulée "Human Computable Passwords" au séminaire EE:380 de Stanford en Décembre 2018 ([vidéo](https://www.youtube.com/watch?v=HalVaS-CvMU), [slides](/files/Human_Computable_Passwords_stanford.pdf)), et une présentation similaire à MIT CSAIL ([slides](/files/Human_Computable_Passwords_mit.pdf)).

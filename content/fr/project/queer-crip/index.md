@@ -26,11 +26,9 @@ J'ai un fort intérêt personnel envers ces deux domaines, datant d'avant que je
 
 Voilà quelques textes que j'ai écrit sur ces sujets (en anglais ou français selon le texte) :
 
-- Un article sur les [spatialités crip]({{< ref "publication/blanchard-2020-spatialitiesandtemporalities/" >}}).
+-  Une série d'articles sur les [spatialités du handicap]({{< ref "publication/blanchard-2020-spatialitiesandtemporalities/" >}}), [ses temporalités]({{< ref "publication/blanchard-2020-spatialitiesandtemporalities2/" >}}) et la [dimensionalité générale]({{< ref "publication/blanchard-2021-disableddimensionality/" >}}).
 
 - Un texte plus créatif sur [le voyage quand on a un handicap]({{< ref "publication/blanchard-2020-temporalexpenses/" >}}).
-
-- Une analyse plus formelle des [taxes temporelles]({{< ref "publication/blanchard-2020-spatialitiesandtemporalities2/">}}) mentionnées dans le texte précédent.
 
 - Une analyses autoethnographique de [l'intersection des identités trans et crip]({{< ref "publication/blanchard-2020-criptransidentity/" >}}).
 

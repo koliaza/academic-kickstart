@@ -43,4 +43,7 @@ Our work so far includes research on:
 
 - Typo correction for passwords, [theoretically]({{< ref "publication/blanchard-2019-passwordtypocorrection/" >}}) and [practically]({{< ref "publication/blanchard-2020-typocorrection/" >}}), with the [journal article]({{< ref "publication/blanchard-2020-clientsidehashing/" >}}) summarizing this and the previous empirical paper.
 
+
+- [A new security primitive based on visual recognition]({{< ref "publication/blanchard-2021-visualsecrets" >}}), with an application to low-tech voting.
+
 I've also given a talk on Human Computable Passwords in the Stanford EE:380 seminar in December 2018 ([video](https://www.youtube.com/watch?v=HalVaS-CvMU), [slides](/files/Human_Computable_Passwords_stanford.pdf)), and a similar talk at MIT CSAIL ([slides](/files/Human_Computable_Passwords_mit.pdf)).

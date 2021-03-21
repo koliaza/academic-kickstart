@@ -9,5 +9,6 @@ abstract: "Living with a disability involves handling many costs that the genera
 "
 featured: false
 publication: " *Espaces-temps.net*"
+url_source: "https://www.espacestemps.net/en/articles/crip-spatialities-and-temporalities-ii-a-systematic-typology-of-temporal-taxes/"
 ---
 

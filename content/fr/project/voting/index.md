@@ -25,7 +25,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-J'ai fait partie du Random Sample Voting (RSV) Project depuis 2016, et ai eu l'opportunité de travailler avec des collègues comme  David Chaum et Alan Sherman, qui me présenta Ted Selker, avec qui j'ai fait la plupart de mes travaux sur les systèmes de vote.
+Je fais partie du Random Sample Voting (RSV) Project depuis 2016, et ai eu l'opportunité de travailler avec des collègues comme  David Chaum et Alan Sherman, qui me présenta Ted Selker, avec qui j'ai fait la plupart de mes travaux sur les systèmes de vote.
 
 Nos recherches nous ont amenés à considérer les sujets suivants (en anglais) :
 
@@ -39,7 +39,7 @@ Nos recherches nous ont amenés à considérer les sujets suivants (en anglais) 
 
 - [Des idées de design pour le vote postal]({{< ref "publication/selker-2020-designideas/" >}}).
 
-- [Les systèmes de vote en basse technologie pour petits comités]({{< ref "publication/blanchard-2020-boardroomvoting/" >}}) et une [version en ligne and pour UMBC]({{< ref "publication/blanchard-2020-remotetp/" >}}).
+- [Les systèmes de vote en basse technologie pour petits comités]({{< ref "publication/blanchard-2020-boardroomvoting/" >}}) et une [version en ligne and pour UMBC]({{< ref "publication/blanchard-2020-phraseverifiedvoting/" >}}).
  
 
 J'ai aussi été invitée à donner des présentations sur ces sujets : 

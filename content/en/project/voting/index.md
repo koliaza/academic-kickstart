@@ -39,7 +39,7 @@ Our work so far includes research on:
 
 - [Design ideas for absentee voting]({{< ref "publication/selker-2020-designideas/" >}}).
 
-- [Low-tech boardroom voting systems]({{< ref "publication/blanchard-2020-boardroomvoting/" >}}), and [online low-tech boardroom voting for UMBC]({{< ref "publication/blanchard-2020-remotetp/" >}}).
+- [Low-tech boardroom voting systems]({{< ref "publication/blanchard-2020-boardroomvoting/" >}}), and [online low-tech boardroom voting for UMBC]({{< ref "publication/blanchard-2021-phraseverifiedvoting/" >}}).
  
 
 I've also been invited to give a few talks on the subject: 

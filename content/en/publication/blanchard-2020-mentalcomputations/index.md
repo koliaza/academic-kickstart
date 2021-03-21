@@ -11,6 +11,6 @@ assumptions relative to mental computation for making codes like passwords, usin
 Through a study on 126 participants, we refute some of their model's assumptions, and introduce evidence of behaviours where human computing costs behave counter-intuitively.
 We also identify three empirical questions around symmetry, repeatability, and distribution of costs  whose resolution would allow the development of more predictive cognitive computation models. This would then allow the efficient creation of better  security algorithms."
 featured: false
-publication: "Accepted at *CHI '20 Extended Abstracts on Human Factors in Computing Systems*"
+publication: "*CHI '20 Extended Abstracts on Human Factors in Computing Systems*"
 ---
 
