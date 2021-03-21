@@ -11,5 +11,6 @@ abstract: "À l’occasion des centaines de milliers de décès soudains du Covi
 En suivant les morts tués par le coronavirus, on découvre également que cette mortalité a un effet révélateur sur la société, en reportant les apories et les inégalités. Le politique retrouve des objets de discours oubliés et doit trouver les moyens de mettre en récit le décès de centaines de milliers de personnes. ” 
 "
 featured: false
+url_source:"https://legrandcontinent.eu/fr/2020/04/29/thanatopolitique-covid-19/"
 ---
 

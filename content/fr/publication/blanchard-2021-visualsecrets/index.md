@@ -1,14 +1,19 @@
 ---
-title: "Improving security and usability of passphrases with guided word choice"
-date: 2018-01-01
-publishDate: 2020-03-16T22:00:24.656518Z
-authors: ["Enka Blanchard", "Clément Malaingre", "Ted Selker"]
-publication_types: ["1"]
-categories: ["main-pub","publication"]
-abstract: "Passphrases have many uses, such as serving as seeds for passwords. User-created passphrases are easier to remember, but tend to be less secure than ones created from words randomly chosen in a dictionary. This paper develops a way of making more memorable, more secure passphrases. It investigates the security and usability of creating a passphrase by choosing from a randomly generated set of words presented as a two-dimensional array. A usability experiment shows that participants using this method achieved 97% to 99% of the maximal theoretical entropy and commited fewer than half as many memory mistakes as a control group with assigned passphrases. It also shows that their choices are affected by word familiarity and weakly by the word's position in the array. Prompting a person with random words from a large dictionary is an effective way of helping them make a more memorable high-entropy passphrase."
+title: "Visual Secrets: a  human security primitive"
+date: 2021-03-15
+publishDate: 2021-03-16T22:00:24.656518Z
+authors: ["Enka Blanchard", "Sébastien Bouchard", "Ted Selker"]
+publication_types: ["3"]
+categories: ["preprint"]
+abstract: "This article presents and evaluates an idea for a non-transferable secret that can be used for security verifi cation. This new type of
+security primitive relies on the pre-semantic treatment of images in the human brain. By showing users an image for a limited time,
+we show that they can fi nd it again when it is shown among a larger set. Despite their ability to recognise their image, they cannot
+reliably communicate to someone else exactly how to do so. As the secret is embedded in the very act of recognition, it cannot be
+shared by the user — whether voluntarily or through coercion. We report on the initial results of a usability study on 151 subjects
+which showed that subjects can recognise their image shown among 20 similar images with an accuracy of 79% to 86%, compared with
+an expected baseline of 5%. Despite their recognisability, the ‘secret’ images were hard to describe in unambiguous ways: no assessor
+managed to accurately identify the images from the description given by the subjects."
 featured: false
-publication: "*Proceedings of the 34th Annual Computer Security Applications Conference, ACSAC 2018, San Juan, PR, USA, December 03-07, 2018*"
-url_slides: "slides.pdf"
-doi: "10.1145/3274694"
+publication: "*preprint*"
 ---
 

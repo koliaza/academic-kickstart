@@ -3,9 +3,9 @@ title: "Le COVID-19 au prisme des minorités vulnérables"
 date: 2020-01-01
 publishDate: 2020-03-17T03:44:16.936373Z
 authors: ["Enka Blanchard", "Zacharie Boubli", "Charlotte Lemaistre"]
-publication_types: ["3"]
-categories: ["preprint"]
-publication: "*preprint*"
+publication_types: ["2"]
+categories: ["publication"]
+publication: "*EspacesTemps.net*"
 abstract: "La pandémie du CoViD-19, vue comme expérience collective, a eu un eﬀet de conver-
 gence des vécus minoritaires avec ceux de la « norme sociale ». L’exemple le plus évident
 est le conﬁnement, qui a soudainement placé les personnes valides dans la même situa-
@@ -22,5 +22,6 @@ cette plus grande vulnérabilité à la pandémie résulte aussi souvent de choi
 délibérés, voire d’idéologies mortifères.” 
 "
 featured: false
+url_source: "https://www.espacestemps.net/en/articles/la-covid-au-prisme-des-minorites-vulnerables/"
 ---
 
