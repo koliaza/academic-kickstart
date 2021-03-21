@@ -1,4 +1,4 @@
-
+---
 title: "Consonant-Vowel-Consonants for Error-Free Code Entry"
 date: 2020-08-01
 publishDate: 2019-08-17T03:44:16.936373Z
