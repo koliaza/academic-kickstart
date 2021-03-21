@@ -4,7 +4,7 @@ date: 2021-03-15
 publishDate: 2020-03-16T22:00:24.656518Z
 authors: ["Enka Blanchard", "Clément Malaingre", "Ted Selker"]
 publication_types: ["2"]
-categories: [""publication"]
+categories: ["publication"]
 abstract: "The positivistic views that dominated the early debate on the foundations of math-
 ematics, at the beginning of the 20th century, survived the “negative results” that
 have shown the limits of the axiomatic approach since the 1930s. Rigour, abstrac-
