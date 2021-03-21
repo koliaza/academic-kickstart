@@ -2,7 +2,7 @@
 title: "Consonant-Vowel-Consonants for Error-Free Code Entry"
 date: 2019-08-01
 publishDate: 2019-08-17T03:44:16.936373Z
-authors: ["Enka Blanchard and Siargey Kachanovich"]
+authors: ["Enka Blanchard", " Siargey Kachanovich"]
 publication_types: ["1"]
 categories: ["publication"]
 publication: "HCI for Cybersecurity, Privacy and Trust @ HCII "

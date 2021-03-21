@@ -1,8 +1,8 @@
 ---
 title: "From Axiomatic Systems to the Dogmatic Gene and Beyond"
 date: 2021-03-15
-publishDate: 2021-03-14T22:00:24.656518Z
-authors: ["Enka Blanchard", "Giuseppe Longo"]
+publishDate: 2020-03-16T22:00:24.656518Z
+authors: ["Enka Blanchard", "Clément Malaingre", "Ted Selker"]
 publication_types: ["2"]
 categories: [""publication"]
 abstract: "The positivistic views that dominated the early debate on the foundations of math-
