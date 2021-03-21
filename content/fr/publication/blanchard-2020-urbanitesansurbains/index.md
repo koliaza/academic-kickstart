@@ -14,8 +14,8 @@ souligne ses yeux. Un policier à l’angle de la rue du Four apparaît, un smar
 le rejoint et se tient derrière lui au mètre réglementaire. Un camion DHL traverse, un cycliste Uber-Eat le                                    
 suit à la trace. Deux hommes rejoignent le carrefour d’un pas lent, ils entretiennent une conversation                                
 par-dessus la chaussée malgré le trafic. 535 véhicules, 319 motos, 146 camionnettes de livraisons, 122                              
-vélos, 42 bus. 83 hommes, 54 femmes, 39 enfants, 12 chiens. 95 masques blancs, 26 masques noirs, 13                                    
-masques imprimés, 4 masques verts.” 
+velos, 42 bus. 83 hommes, 54 femmes, 39 enfants, 12 chiens. 95 masques blancs, 26 masques noirs, 13                                    
+masques imprimés, 4 masques verts."
 url_source: "https://www.espacestemps.net/en/articles/observer-pour-inventer-la-ville-dapres/"
 featured: false
 ---

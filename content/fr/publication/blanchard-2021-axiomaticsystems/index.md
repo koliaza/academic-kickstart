@@ -24,7 +24,7 @@ of the evolutionary production of variability, adaptivity and ecosystemic divers
 is a key component of the project we hint to, as part of a renewed relation to the
 biological environment."
 featured: false
-publication: "Biosystems"
+publication: "*Biosystems*"
 doi: " 10.1016/j.biosystems.2021.104396"
 url_source: "https://www.sciencedirect.com/science/article/abs/pii/S0303264721000538?via%3Dihub"
 ---
