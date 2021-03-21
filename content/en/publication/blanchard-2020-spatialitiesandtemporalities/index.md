@@ -17,5 +17,6 @@ and discuss potential extensions to discontinuous perceptions of the self.
 "
 featured: false
 publication: " *Espaces-temps.net*"
+url_source: "https://www.espacestemps.net/en/articles/discreet-crips-in-a-discrete-world-spatialities-and-temporalities-of-disability/"
 ---
 
