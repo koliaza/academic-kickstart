@@ -34,11 +34,6 @@
   
 
 
-  [[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
-
 [[main]]
     name = "CV"
     url = "/files/cv-blanchard.pdf"

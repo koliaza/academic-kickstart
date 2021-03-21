@@ -1,8 +1,8 @@
 
-@InProceedings{Blanchard2020Usableeverlastingencryption,
+@InProceedings{Blanchard2019ConsonantVowelConsonants,
   author    = {Blanchard, Enka and Kachanovich, Siargey},
-  title     = {Usable everlasting encryption using the pornography infrastructure},
-  booktitle = {IEEE Computers, Software, and Applications Conference (COMPSAC) Fast Abstracts},
-  year      = {2020},
+  title     = {Consonant-Vowel-Consonants for Error-Free Code Entry},
+  booktitle = {HCI for Cybersecurity, Privacy and Trust @ HCII },
+  year      = {2019},
   groups    = {Blanchard, self},
 }
