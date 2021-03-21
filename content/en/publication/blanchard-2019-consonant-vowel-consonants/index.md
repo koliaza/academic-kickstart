@@ -1,11 +1,11 @@
 ---
 title: "Consonant-Vowel-Consonants for Error-Free Code Entry"
-date: 2020-08-01
+date: 2019-08-01
 publishDate: 2019-08-17T03:44:16.936373Z
 authors: ["Enka Blanchard and Siargey Kachanovich"]
 publication_types: ["1"]
 categories: ["publication"]
-publication: "HCI for Cybersecurity, Privacy and Trust @ HCII "
+publication: "HCI for Cybersecurity, Privacy and Trust @ HCI International Conference 2019 "
 abstract: "Codes and passwords are the bane of user experiences: even small mistakes can delay desired activities, causing undue frustration.
 Work on codes has focused on security instead of people’s ability to
 enter them error-free. Difficulties observed in a security demonstration
