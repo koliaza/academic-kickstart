@@ -14,11 +14,11 @@ role:  Chercheuse transdisciplinaire
 
 # Organizations/Affiliations
 organizations:
-- name: Laboratoire d’Automatique, de Mécanique et d’Informatique Industrielles et Humaines, Université Polytechnique Hauts-de-France
+- name: LAMIH, UPHF
   url: "https://www.uphf.fr/LAMIH/"
-- name: Centre  Internet et Société(CNRS UPR 2000)
+- name: Centre  Internet et Société
   url: "https://cis.cnrs.fr/about/"
-- name: Chaire d'Intelligence Spatiale, UPHF
+- name: Chaire d'Intelligence Spatiale
   url: "https://www.uphf.fr/intelligencespatiale/"
 
 

@@ -14,11 +14,11 @@ role:  Researcher (they/them)
 
 # Organizations/Affiliations
 organizations:
-- name: Laboratory of Automation, Mechanics and Industrial and Human Computer Science, Polytechnic University of Hauts-de-France
+- name: LAMIH, UPHF
   url: "https://www.uphf.fr/LAMIH/"
-- name: Center for Internet and Society (CNRS UPR 2000)
+- name: Center for Internet and Society 
   url: "https://cis.cnrs.fr/about/"
-- name: Chair for Spatial Intelligence, UPHF
+- name: Chair for Spatial Intelligence
   url: "https://www.uphf.fr/intelligencespatiale/"
 
 # Short bio (displayed in user profile at end of posts)
