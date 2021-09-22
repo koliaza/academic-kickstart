@@ -99,6 +99,6 @@ Je suis généralement très ouverte aux nouvelles collaborations, n'hésitez do
 Je suis en train de publier un [livre](http://koliaza.com/old/book.html) sur l'utilisation du hasard dans les institutions politiques. Je participe aussi à l'organisation d'un [Groupe de Travail CNRS](https://cis.cnrs.fr/droit-et-humanites-numeriques/) sur le droit et les humanités numériques, évolution d'un [séminaire](http://koliaza.com/old/law-informatics.html) co-organisé avec des collègues de l'EHESS,  où j'organiserai bientôt deux séances sur la géographie du handicap dans le cadre du séminaire de psychopolitique.
 
 
-Je suis en ce moment à la recherche d'une personne à encadrer en doctorat (thèse financée par l'UPHF), sur le sujet de la biométrique oculaire (sans entrer dans les méthodologies standards. Tous les profils sont les bienvenus, avec en priorité les personnes ayant une expérience en informatique ou en sciences cognitives. La fiche du projet se trouve [ici](http://koliaza.com/biometrics-thesis-en.pdf). 
+Je suis en ce moment à la recherche d'une personne à encadrer en doctorat (thèse financée par l'UPHF), sur le sujet de la biométrique oculaire (sans entrer dans les méthodologies standards, le but n'est pas de recréer minority report). Tous les profils sont les bienvenus, avec en priorité les personnes ayant une expérience en informatique ou en sciences cognitives. La fiche du projet se trouve [ici](http://koliaza.com/biometrics-thesis-fr.pdf). 
 
 Si vous voulez en savoir plus sur moi personnellement, [c'est ici]({{< ref "/post/personal/" >}}).

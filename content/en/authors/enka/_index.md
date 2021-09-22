@@ -92,6 +92,6 @@ As I work between multiple fields, I do not have as much expertise as a speciali
 
 I'm currently in the process of publishing a [book](http://koliaza.com/old/book.html) on the use of randomness in politics. I'm also co-organising a [CNRS working group](https://cis.cnrs.fr/droit-et-humanites-numeriques/) on law and digital humanities, which evolved from our [seminar](http://koliaza.com/old/law-informatics.html) with colleagues from EHESS, and am organising two sessions on geography of disability in the psychopolitics seminar at EHESS. 
 
-I am currently looking for a PhD student to probably work on eye biometrics  without following the usual methodologies. All profiles are welcome (with a priority for people with a computer science or cognitive science background). The project is detailed [here](http://koliaza.com/biometrics-thesis-en.pdf). 
+I am currently looking for a PhD student to probably work on eye biometrics  (without following the usual methodologies, we're not trying to remake minority report). All profiles are welcome (in priority people with a computer science or cognitive science background). The project is detailed [here](http://koliaza.com/biometrics-thesis-en.pdf). 
 
 [Click here]({{< ref "/post/personal/" >}}) if you want to know a bit more about me, non-professionally.
