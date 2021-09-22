@@ -14,17 +14,23 @@ role:  Chercheuse transdisciplinaire
 
 # Organizations/Affiliations
 organizations:
-- name:  Consortium Digitrust, Loria, Université de Lorraine 
-  url: "http://lue.univ-lorraine.fr/fr/article/digitrust-consortium-0"
+- name: Laboratoire d’Automatique, de Mécanique et d’Informatique Industrielles et Humaines, Université Polytechnique Hauts-de-France
+  url: "https://www.uphf.fr/LAMIH/"
+- name: Centre  Internet et Société(CNRS UPR 2000)
+  url: "https://cis.cnrs.fr/about/"
+- name: Chaire d'Intelligence Spatiale, UPHF
+  url: "https://www.uphf.fr/intelligencespatiale/"
+
 
 # Short bio (displayed in user profile at end of posts)
-#bio: Chercheuse transdisciplinaire travaillant à Digitrust, Loria.
+#bio: Chercheuse transdisciplinaire travaillant au LAMIH et au CIS
 
 interests:
 - Interactions Humain-Machine
 - Securité et Cryptographie
 - Théories Queer et Crip
 - Design d'Institution 
+- Géographie du handicap
 - Théorie des Graphes
 - Théorie de la Complexité
 - Théorie du Vote, e-Democracy
@@ -33,6 +39,9 @@ interests:
 
 education:
   courses:
+  - course: Doctorat en Géographie
+    institution: Chaire d'Intelligence Spatiale, UPHF
+    year: 202?
   - course: Doctorat en Utilisabilité de la Sécurité
     institution: Institut de Recherche en Informatique Fondamentale
     year: 2019
@@ -77,12 +86,19 @@ social:
 #- Visitors
 ---
 
-Je suis une chercheuse contractuelle, travaillant pour le [Consortium Digitrust](http://lue.univ-lorraine.fr/fr/article/digitrust-consortium-0) de l'Université de Lorraine en vue de lancer des projets de recherche transdisciplinaires. Je suis aussi chercheuse associée au [Centre Internet et Société du CNRS (UPR 2000)](https://cis.cnrs.fr/about/). Auparavant, j'ai soutenu ma thèse intitulée "Utilisabilité : haute sécurité en basse technologie" à l'[IRIF](https://www.irif.univ-paris-diderot.fr/) dans l'équipe Graphes et Algorithmes Distribués, qui a reçu le prix PSL 2020 de la meilleure thèse à l'interface Sciences/Humanités. J'étais encadrée par [Nicolas Schabanel](https://www.irif.univ-paris-diderot.fr/users/nschaban/index) et [Ted Selker](http://ted.selker.com/), avec qui j'ai travaillé sur l'utilisabilité de la sécurité et ses applications aux systèmes de vote.
+
+I'm currently in the process of publishing a [book](http://koliaza.com/old/book.html) on the use of randomness in politics. I'm also co-organising a [CNRS working group](http://koliaza.com/old/law-informatics.html) on law and digital humanities, which evolved from our seminar with colleagues from EHESS, and am organising two sessions on geography of disability in the psychopolitics seminar at EHESS. 
+
+
+Je suis une chargée de recherche CNRS, travaillant pour le [Laboratoire d’Automatique, de Mécanique et d’Informatique Industrielles et Humaines](https://www.uphf.fr/LAMIH/), à l'Université Polytechnique Hauts-de-France. Avant cela, j'étais en postdoc dans le projet [Digitrust](http://lue.univ-lorraine.fr/en/article/digitrust-consortium) de l'Université de Lorraine où je travaillais à la céation de projets de recherche transdisciplinaires. Je suis aussi chercheuse associée au [Centre Internet et Société du CNRS (UPR 2000)](https://cis.cnrs.fr/about/). Auparavant, j'ai soutenu ma thèse intitulée "Utilisabilité : haute sécurité en basse technologie" à l'[IRIF](https://www.irif.univ-paris-diderot.fr/) dans l'équipe Graphes et Algorithmes Distribués, qui a reçu le prix PSL 2020 de la meilleure thèse à l'interface Sciences/Humanités. J'étais encadrée par [Nicolas Schabanel](https://www.irif.univ-paris-diderot.fr/users/nschaban/index) et [Ted Selker](http://ted.selker.com/), avec qui j'ai travaillé sur l'utilisabilité de la sécurité et ses applications aux systèmes de vote.
 
 Travaillant à l'intersection de plusieurs domaines, je n'ai pas la même expertise qu'une spécialiste d'un domaine, ce qui me mène à faire des collaborations avec un grand nombre de chercheurs et d'experts de différents laboratoires. Je fais donc partie de plusieurs groupes de recherche, comme le [Random Sample Voting Project](http://rsvoting.org/), où je suis chargée de l'organisation d'élections avec RSV, [Chôros](https://www.choros.place/) et le [POP Special Exploratory Committee](http://poplatform.org/), un nouveau parti-plateforme pour diffuser le principe de démocratie en temps-réel. J'ai aussi récemment commencé à travailler sur les élections américaines avec le [Caltech/MIT Voting Technology Project](https://www.vote.caltech.edu/). Cela me permet de relier les différents domaines tout en vérifiant que les méthodologies sont fiables et que les résultats sont obtenus rigoureusement. 
 
 Je suis généralement très ouverte aux nouvelles collaborations, n'hésitez donc pas à m'écrire si vous avez une idée ou voulez vous joindre à l'un de nos projets. Après dix ans de pratique activiste discontinue, j'ai aussi récemment décidé de m'impliquer plus dans le côté académique des études queer et de théorie du handicap, et suis en train de réunir une petite équipe en vue de traduire les travaux majeurs du domaine en français. Cela m'a récemment poussée à commencer une deuxième thèse en géographie du handicap, sous la direction de [Jacques Lévy](https://people.epfl.ch/jacques.levy), dans la chaire d'Intelligence Spatiale  de l'Université Polytechnique Hauts-de-France. 
 
-Je suis en train de publier un [livre](http://koliaza.com/old/book.html) sur l'utilisation du hasard dans les institutions politiques. Je participe aussi à l'organisation d'un [séminaire](http://koliaza.com/old/law-informatics.html) sur le droit et les sciences sociales à l'EHESS,  où j'organiserai bientôt deux séances sur la géographie du handicap dans le cadre du séminaire de psychopolitique.
+Je suis en train de publier un [livre](http://koliaza.com/old/book.html) sur l'utilisation du hasard dans les institutions politiques. Je participe aussi à l'organisation d'un [Groupe de Travail CNRS](https://cis.cnrs.fr/droit-et-humanites-numeriques/) sur le droit et les humanités numériques, évolution d'un [séminaire](http://koliaza.com/old/law-informatics.html) co-organisé avec des collègues de l'EHESS,  où j'organiserai bientôt deux séances sur la géographie du handicap dans le cadre du séminaire de psychopolitique.
+
+
+Je suis en ce moment à la recherche d'une personne à encadrer en doctorat (thèse financée par l'UPHF), sur le sujet de la biométrique oculaire (sans entrer dans les méthodologies standards. Tous les profils sont les bienvenus, avec en priorité les personnes ayant une expérience en informatique ou en sciences cognitives. La fiche du projet se trouve [ici](http://koliaza.com/biometrics-thesis-en.pdf). 
 
 Si vous voulez en savoir plus sur moi personnellement, [c'est ici]({{< ref "/post/personal/" >}}).
