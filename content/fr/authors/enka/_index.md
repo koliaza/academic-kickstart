@@ -14,7 +14,7 @@ role:  Chercheuse transdisciplinaire
 
 # Organizations/Affiliations
 organizations:
-- name: LAMIH, UPHF
+- name: LAMIH, CNRS et UPHF 
   url: "https://www.uphf.fr/LAMIH/"
 - name: Centre  Internet et Société
   url: "https://cis.cnrs.fr/about/"
@@ -86,8 +86,6 @@ social:
 #- Visitors
 ---
 
-
-I'm currently in the process of publishing a [book](http://koliaza.com/old/book.html) on the use of randomness in politics. I'm also co-organising a [CNRS working group](http://koliaza.com/old/law-informatics.html) on law and digital humanities, which evolved from our seminar with colleagues from EHESS, and am organising two sessions on geography of disability in the psychopolitics seminar at EHESS. 
 
 
 Je suis une chargée de recherche CNRS, travaillant pour le [Laboratoire d’Automatique, de Mécanique et d’Informatique Industrielles et Humaines](https://www.uphf.fr/LAMIH/), à l'Université Polytechnique Hauts-de-France. Avant cela, j'étais en postdoc dans le projet [Digitrust](http://lue.univ-lorraine.fr/en/article/digitrust-consortium) de l'Université de Lorraine où je travaillais à la céation de projets de recherche transdisciplinaires. Je suis aussi chercheuse associée au [Centre Internet et Société du CNRS (UPR 2000)](https://cis.cnrs.fr/about/). Auparavant, j'ai soutenu ma thèse intitulée "Utilisabilité : haute sécurité en basse technologie" à l'[IRIF](https://www.irif.univ-paris-diderot.fr/) dans l'équipe Graphes et Algorithmes Distribués, qui a reçu le prix PSL 2020 de la meilleure thèse à l'interface Sciences/Humanités. J'étais encadrée par [Nicolas Schabanel](https://www.irif.univ-paris-diderot.fr/users/nschaban/index) et [Ted Selker](http://ted.selker.com/), avec qui j'ai travaillé sur l'utilisabilité de la sécurité et ses applications aux systèmes de vote.
