@@ -1,9 +1,9 @@
 ---
-title: About authorship
+title: Phrase-Verified Voting
 subtitle: 
 summary: 
 authors:
-- enka
+
 tags: []
 categories: []
 date: "2022-01-07T00:00:00Z"
@@ -32,4 +32,8 @@ This page has the relevant information if you want to learn about the system or 
 
 Our initial [paper](/publication/blanchard-2021-phraseverifiedvoting/), published in Cryptologia in 2021.
 
-A short [article](files/PVV-cohe.pdf) explaining it.
+A [journal article](/files/PVV-cohe.pdf) featuring a quick summary of the system for laypeople.
+
+A short [guide](/files/PVV-guide.pdf) explaining how to use it, with links to the scripts we developed.
+
+Please don't hesitate to contact us if you want to use this system and would be ready to do some user studies with us or refine it.

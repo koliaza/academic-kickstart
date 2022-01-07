@@ -1,7 +1,7 @@
 ---
 title: "Phrase-Verified Voting: Verifiable Low-Tech Remote Boardroom Voting"
-date: 2021-011-17
-publishDate: 2021-011-17T22:00:24.656518Z
+date: 2021-11-17
+publishDate: 2021-11-17T22:00:24.656518Z
 authors: ["Enka Blanchard", "Ryan Robucci", "Ted Selker", "Alan Sherman"]
 publication_types: ["2"]
 categories: ["publication"]
