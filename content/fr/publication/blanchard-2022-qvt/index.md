@@ -5,6 +5,7 @@ publishDate: 2022-06-17T22:00:24.656518Z
 authors: ["Enka Blanchard","Levi Qışın"]
 publication_types: ["3"]
 categories: ["preprint"]
+publication: "*preprint*"
 abstract: "Public institutions and private companies both frequently rely on user surveys for a variety of assessments (e.g.
 equality issues or quality of work environment). However, many such surveys struggle to garner suffi cient
 responses, especially when they ask about sensitive subjects (such as work harassment), which also makes

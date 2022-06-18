@@ -35,7 +35,7 @@ I've been a somewhat regular contributor to the French popularisation magazine *
 
 I've also contributed to the annual brochure of the [Salon Culture & Jeux Mathématiques](http://www.cijm.org/): 
 - in 2017,  an article on [GPS technology](/files/GPS-cijm.pdf) with L. Gabasova, 
--in 2018  an article on the [angel problem](/files/coursedemon.pdf),
+- in 2018  an article on the [angel problem](/files/coursedemon.pdf),
 - in 2022 with two articles on [fractals](/files/fractals.pdf) and [Euclid's vision of shapes](/files/euclid-cijm.pdf), with Andrei Rodin and Florentin Waligorski.  
 
 

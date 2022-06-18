@@ -42,4 +42,4 @@ Voilà quelques textes que j'ai écrit sur ces sujets (en anglais ou français s
 
 - Une réflexion sur [le harcèlement Twitter](https://academia.hypotheses.org/39675) que j'ai reçu suite à mon recrutement par le CNRS.
 
-J'ai aussi été invitée à discuter de ces sujets là lors d'un [séminaire sur les corps publics](https://www.youtube.com/watch?v=MiMaQ4zdwxM), ainsi que dans l'émission [Enjeux territoriaux](https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-territoriaux/le-territoire-vecu-des-personnes-handicapees-5395514) de France Culture. J'ai aussi donné un cours d'introduction aux questions crips (dans la section enseignement).
+J'ai été invitée à discuter de ces sujets là lors d'un [séminaire sur les corps publics](https://www.youtube.com/watch?v=MiMaQ4zdwxM), ainsi que dans l'émission [Enjeux territoriaux](https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-territoriaux/le-territoire-vecu-des-personnes-handicapees-5395514) de France Culture. J'ai aussi donné un cours d'introduction aux questions crips (dans la section enseignement).

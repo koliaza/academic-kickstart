@@ -26,7 +26,7 @@ I have a strong personal interest in Queer Theory and Crip Theory, and have been
 
 I have written a few texts on the subject:
 
-- A series of papers focused on crip [spatialities]({{< ref "publication/blanchard-2020-spatialitiesandtemporalities/" >}}), [temporalities]({{< ref "publication/blanchard-2020-spatialitiesandtemporalities2/" >}}), and general [dimensionality]({{< ref "publication/blanchard-2022-disableddimensionality/" >}}).
+- A series of papers focused on crip [spatialities]({{< ref "publication/blanchard-2020-spatialitiesandtemporalities/" >}}), [temporalities]({{< ref "publication/blanchard-2020-spatialitiesandtemporalities2/" >}}), and general [dimensionalities]({{< ref "publication/blanchard-2022-disableddimensionality/" >}}).
 
 - A more creative text on [travelling while crip]({{< ref "publication/blanchard-2020-temporalexpenses/" >}}).
 
@@ -41,6 +41,6 @@ I have written a few texts on the subject:
 
 - An article on [trans aesthetics and urbanity]({{< ref "publication/barbeau-2022-transaesthetics/" >}}).
 
-- A reflexio on the  [Twitter harassment](https://academia.hypotheses.org/39675) I received upon joining the CNRS.
+- A reflexion on the  [Twitter harassment](https://academia.hypotheses.org/39675) I received upon joining the CNRS.
 
-I've also been invited to discuss those subjects, in a  [seminar on public bodies](https://www.youtube.com/watch?v=MiMaQ4zdwxM), as well as in the  [Enjeux territoriaux](https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-territoriaux/le-territoire-vecu-des-personnes-handicapees-5395514) radio show on France Culture. I've also given an introductory course on crip studies (in the Teaching tab).
+I have  been invited to discuss those subjects, in a  [seminar on public bodies](https://www.youtube.com/watch?v=MiMaQ4zdwxM), as well as in the  [Enjeux territoriaux](https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-territoriaux/le-territoire-vecu-des-personnes-handicapees-5395514) radio show on France Culture. I've also given an introductory course on crip studies (in the Teaching tab).

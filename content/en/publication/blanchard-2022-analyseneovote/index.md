@@ -1,5 +1,5 @@
 ---
-title: "{Analyse  du système de vote en ligne Neovote"
+title: "Analyse  du système de vote en ligne Neovote"
 date: 2022-05-01
 publishDate: 2022-03-17T03:44:16.942373Z
 authors: ["Enka Blanchard", "Emmanuel Leblond", "Djohar Sidhoum-Rahal", "Juliette Walter"]

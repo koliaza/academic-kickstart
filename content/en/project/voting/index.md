@@ -41,7 +41,7 @@ Our work so far includes research on:
 
 - [Low-tech boardroom voting systems]({{< ref "publication/blanchard-2022-boardroomvoting/" >}}), and [online low-tech boardroom voting for UMBC]({{< ref "publication/blanchard-2021-phraseverifiedvoting/" >}}).
  
-- [Analysis of the Neovote voting system]({{< ref "publication/blanchard-2022-neovotesecurity/" >}}), and a shorter [French paper on the subject]({{< ref "publication/blanchard-2022-analyseneovote/" >}}), as well as a [French press article](https://acteurspublics.fr/articles/enka-blanchard-exigeons-la-transparence-des-technologies-publiques) [(in pdf)]((files/Blanchard-Acteurs-Publics.pdf))
+- [Analysis of the Neovote voting system]({{< ref "publication/blanchard-2022-neovotesecurity/" >}}), and a shorter [French paper on the subject]({{< ref "publication/blanchard-2022-analyseneovote/" >}}), as well as a [French press article](https://acteurspublics.fr/articles/enka-blanchard-exigeons-la-transparence-des-technologies-publiques) ([in pdf](/files/Blanchard-Acteurs-Publics.pdf))
 
 - [Short French article on electoral mathematics](
 https://www.espacestemps.net/en/articles/abstention-et-mathematiques-electorales/)

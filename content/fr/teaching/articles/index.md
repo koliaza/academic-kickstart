@@ -34,7 +34,7 @@ J'ai contribué semi-régulièrement au magazine *Tangente*, et voici les articl
 - [Des mots de passe pas très secrets](/files/p18_19_TG180.pdf)
 
 J'ai aussi contribué à la brochure annuelle du [Salon Culture & Jeux Mathématiques](http://www.cijm.org/) : 
--en 2017, un article  sur le [GPS ](/files/GPS-cijm.pdf) co-écrit avec L. Gabasova,
+- en 2017, un article  sur le [GPS ](/files/GPS-cijm.pdf) co-écrit avec L. Gabasova,
 - en 2018, un article sur le [problème de l'ange de Conway](/files/coursedemon.pdf),
 - en 2022 deux articles sur les [fractales](/files/fractals.pdf) et les [formes selon Euclide](/files/euclid-cijm.pdf), avec Andrei Rodin et Florentin Waligorski.  
 
