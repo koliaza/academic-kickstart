@@ -1,7 +1,7 @@
 ---
 title: "Vision: Minimalist approaches to enforce privacy by design in surveys"
-date: 2022-11-17
-publishDate: 2022-11-17T22:00:24.656518Z
+date: 2022-01-17
+publishDate: 2022-06-17T22:00:24.656518Z
 authors: ["Enka Blanchard","Levi Qışın"]
 publication_types: ["3"]
 categories: ["preprint"]
