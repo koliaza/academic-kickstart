@@ -36,7 +36,7 @@ Voilà quelques textes que j'ai écrit sur ces sujets (en anglais ou français s
 
 - Deux articles sur le [traitement des minorités pendant le CoViD-19]({{< ref "publication/boubli-2020-thanatopolitique/" >}}) et la [thanatopolitique]({{< ref "publication/blanchard-2020-covidminorities/" >}}).
 
-- Un article sur [la mobilité handicapée et les mathématiques]({{< ref "publication/blanchard-2022-Detectingtemporaryobstacles/" >}}), ainsi que la difficulté de créer des bases de données sur l'accessibilité. 
+- Un article sur [la mobilité handicapée et les mathématiques]({{< ref "publication/blanchard-2022-temporaryobstacles/" >}}), ainsi que la difficulté de créer des bases de données sur l'accessibilité. 
 
 - Un article sur [l'esthétique trans et l'urbanité]({{< ref "publication/barbeau-2022-transaesthetics/" >}}).
 

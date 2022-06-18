@@ -46,4 +46,4 @@ Voilà quelques articles :
 
 - Un preprint sur la  [génération de palindromes bilingues]({{< ref "publication/adams-2020-bilingualpalindromes/" >}}).
 
-- Un article sur les [mobilités du handicap]({{< ref "publication/blanchard-2022-Detectingtemporaryobstacles/" >}}) sans mathématiques originales mais montrant une application de la théorie de la percolation.
+- Un article sur les [mobilités du handicap]({{< ref "publication/blanchard-2022-temporaryobstacles/" >}}) sans mathématiques originales mais montrant une application de la théorie de la percolation.

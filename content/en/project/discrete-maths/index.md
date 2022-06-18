@@ -47,4 +47,4 @@ Here are the different papers:
 
 - A preprint on [bilingual palindrome generation]({{< ref "publication/adams-2020-bilingualpalindromes/" >}}).
 
-- A paper [on disabled mobilities]({{< ref "publication/blanchard-2022-Detectingtemporaryobstacles/" >}}) that does not have original mathematics but mentions an application of some percolation theory. 
+- A paper [on disabled mobilities]({{< ref "publication/blanchard-2022-temporaryobstacles/" >}}) that does not have original mathematics but mentions an application of some percolation theory. 

@@ -1,30 +1,18 @@
 ---
-title: "Queer fragmentation and trans urban aesthetics: from cyberpunk to cottagecore"
-date: 2022-11-17
-publishDate: 2022-11-17T22:00:24.656518Z
-authors: ["Erin Barbeau","Enka Blanchard","Levi Qisın","Vinicius Santos Almeida"]
-publication_types: ["2"]
+title: "{Analyse  du système de vote en ligne Neovote"
+date: 2022-05-01
+publishDate: 2022-03-17T03:44:16.942373Z
+authors: ["Enka Blanchard", "Emmanuel Leblond", "Djohar Sidhoum-Rahal", "Juliette Walter"]
+publication_types: ["1"]
 categories: ["publication"]
-abstract: "Queerness and transidentity have had a durable relationship with cyberpunk aesthetics, re-
-fl ected in both cultural works and academic refl ections. There is an evident attraction in worlds
-where technological prowess allows one to evolve beyond one’s corporeal body, or to change it at
-will. The noir explorations of themes such as discrimination and sex work are also strong sources
-of resonance with common trans and queer experiences. Culturally, this aesthetic is indissociable
-from its urban component, with the serendipity, diversity, and density of the city often at the
-centre of the stories told. This refl ects the observed tendency of queer people to congregate in
-urban centres, where minorities are present in suffi cient numbers to create social communities with
-freer explorations around gender.
-This appeared to be one of the central aesthetic currents of the global trans community until
-the early 21st century. However, we now observe a change with the rise of more rural aspirations,
-exemplifi ed by the recent popularity of the cottagecore aesthetic. There seems to be a growing
-desire to retreat from society at large and isolate in tight-knit homogeneous communities, replacing
-co-spatiality with online connectedness. This could be the result of multiple factors, among which
-two seem central: the assimilation of many queers linked to the dissolution of greater federated
-queer communities, and the increased prioritisation of online interactions.
-Drawing from socio-geography, literary analysis and a corpus from Tumblr (a microblogging
-network) this article thus seeks to explore how aspirational and representational depictions of
-queerness evolved in tandem with its physical and online practices, transforming the historically
-close relationship between queerness and urbanity. "
+abstract: "Cet article analyse le système de vote en ligne Neovote, utilisé pour plusieurs scrutins des primaires présidentielles de
+2022 (Primaire Populaire, EELV et LR). Nous montrons que les objectifs de transparence, de vérifiabilité et de sécurité
+exigés par la CNIL et l’ANSSI ne sont pas atteints. Nous montrons l’incohérence du processus de vérification du vote et
+les vulnérabilités du système qui permettent la publication d’un faux décompte (arrivé en pratique pendant la Primaire
+Populaire)"
 featured: false
+publication: "*ALGOTEL 2022 - 24èmes Rencontres Francophones sur les Aspects Algorithmiques des Télécommunications*"
+url_pdf: "https://hal.archives-ouvertes.fr/hal-03656951/document"
+url_slides: "slides.pdf"
 ---
 
