@@ -1,7 +1,7 @@
 ---
 title: "Queer fragmentation and trans urban aesthetics: from cyberpunk to cottagecore"
-date: 2022-11-17
-publishDate: 2022-11-17T22:00:24.656518Z
+date: 2022-01-17
+publishDate: 2022-01-17T22:00:24.656518Z
 authors: ["Enka Blanchard", "Emmanuel Leblond", "Djohar Sidhoum-Rahal", "Juliette Walter"]
 publication_types: ["1"]
 categories: ["publication"]
