@@ -46,3 +46,5 @@ Here are the different papers:
 - A second one on the [inflating enclosing ball problem]({{< ref "publication/blanchard-2019-noteinflatingenclosing/" >}}).
 
 - A preprint on [bilingual palindrome generation]({{< ref "publication/adams-2020-bilingualpalindromes/" >}}).
+
+- A paper [on disabled mobilities]({{< ref "publication/blanchard-2022-Detectingtemporaryobstacles/" >}}) that does not have original mathematics but mentions an application of some percolation theory. 

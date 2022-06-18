@@ -37,10 +37,15 @@ Nos recherches nous ont amenés à considérer les sujets suivants (en anglais) 
 
 - [Les systèmes de vote non-cryptographiques]({{< ref "publication/blanchard-2020-origamivotingnon/" >}}).
 
-- [Des idées de design pour le vote postal]({{< ref "publication/selker-2020-designideas/" >}}).
+- [Des idées de design pour le vote postal]({{< ref "publication/selker-2022-designideas/" >}}).
 
-- [Les systèmes de vote en basse technologie pour petits comités]({{< ref "publication/blanchard-2020-boardroomvoting/" >}}) et une [version en ligne and pour UMBC]({{< ref "publication/blanchard-2021-phraseverifiedvoting/" >}}).
+- [Les systèmes de vote en basse technologie pour petits comités]({{< ref "publication/blanchard-2022-boardroomvoting/" >}}) et une [version en ligne and pour UMBC]({{< ref "publication/blanchard-2021-phraseverifiedvoting/" >}}).
  
+
+- [Une analyse du système Neovote]({{< ref "publication/blanchard-2022-neovotesecurity/" >}}), notamment utilisé pour les primaires de l'élection présidentielle de 2022, ainsi qu'un [article plus court en français]({{< ref "publication/blanchard-2022-analyseneovote/" >}}), et un [article de presse sur la transparence de ces systèmes](https://acteurspublics.fr/articles/enka-blanchard-exigeons-la-transparence-des-technologies-publiques) [(in pdf)]((files/Blanchard-Acteurs-Publics.pdf))
+
+- [Un court article sur les mathématiques électorales](
+https://www.espacestemps.net/en/articles/abstention-et-mathematiques-electorales/)
 
 J'ai aussi été invitée à donner des présentations sur ces sujets : 
 - Au [2016 Global Forum on Modern Direct Democracy](http://www.2016globalforum.com/) ([slides](/files/global_forum_1st.pdf)), où j'ai organisé la première démonstration publique de RSV.

@@ -35,3 +35,6 @@ Avec Siargey Kachanovich et le soutien d'Animath, nous avons aussi organisé une
 
 
 J'ai aussi contribué à la création de [Mathmosphere](https://animath.fun-campus.fr/), en y créant le premier MOOC, sur la théorie des graphes.
+
+
+J'ai enseigné un cours en ligne d'introduction aux études critiques du handicap sur le réseau commun Sciences-Po pour les étudiantes et étudiants de 3ème année. J'ai enregistré 9 sessions de 2 heures que je peux partager (à usage privé, sur demande par email).

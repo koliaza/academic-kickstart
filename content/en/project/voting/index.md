@@ -25,7 +25,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-I've been a member of the Random Sample Voting (RSV) Project since 2016, and I've had the opportunity to work in it with a few colleagues such as David Chaum as well as Alan Sherman, who introduced me to Ted Selker, with whom I do most of my work on voting technologies. 
+I was  a member of the Random Sample Voting (RSV) Project since 2016 (the project is now on pause), and I've had the opportunity to work in it with a few colleagues such as David Chaum as well as Alan Sherman, who introduced me to Ted Selker, with whom I do most of my work on voting technologies. 
 
 Our work so far includes research on:
 
@@ -37,10 +37,14 @@ Our work so far includes research on:
 
 - [Non-cryptographic verifiable voting system]({{< ref "publication/blanchard-2020-origamivotingnon/" >}}).
 
-- [Design ideas for absentee voting]({{< ref "publication/selker-2020-designideas/" >}}).
+- [Design ideas for absentee voting]({{< ref "publication/selker-2022-designideas/" >}}).
 
-- [Low-tech boardroom voting systems]({{< ref "publication/blanchard-2020-boardroomvoting/" >}}), and [online low-tech boardroom voting for UMBC]({{< ref "publication/blanchard-2021-phraseverifiedvoting/" >}}).
+- [Low-tech boardroom voting systems]({{< ref "publication/blanchard-2022-boardroomvoting/" >}}), and [online low-tech boardroom voting for UMBC]({{< ref "publication/blanchard-2021-phraseverifiedvoting/" >}}).
  
+- [Analysis of the Neovote voting system]({{< ref "publication/blanchard-2022-neovotesecurity/" >}}), and a shorter [French paper on the subject]({{< ref "publication/blanchard-2022-analyseneovote/" >}}), as well as a [French press article](https://acteurspublics.fr/articles/enka-blanchard-exigeons-la-transparence-des-technologies-publiques) [(in pdf)]((files/Blanchard-Acteurs-Publics.pdf))
+
+- [Short French article on electoral mathematics](
+https://www.espacestemps.net/en/articles/abstention-et-mathematiques-electorales/)
 
 I've also been invited to give a few talks on the subject: 
 - at the [2016 Global Forum on Modern Direct Democracy](http://www.2016globalforum.com/) ([slides](/files/global_forum_1st.pdf)), where I organised the first public RSV demo.

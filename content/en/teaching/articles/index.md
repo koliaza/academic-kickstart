@@ -33,6 +33,10 @@ I've been a somewhat regular contributor to the French popularisation magazine *
 - [Classes de Complexité](/files/classes_20de_20complexite.pdf)
 - [Des mots de passe pas très secrets](/files/p18_19_TG180.pdf)
 
-I've also contributed to the annual brochure of the [Salon Culture & Jeux Mathématiques](http://www.cijm.org/) in 2017, writing an article on [GPS technology](/files/GPS-cijm.pdf) with L. Gabasova, and an article on the [angel problem](/files/coursedemon.pdf) in the 2018 edition.
+I've also contributed to the annual brochure of the [Salon Culture & Jeux Mathématiques](http://www.cijm.org/): 
+- in 2017,  an article on [GPS technology](/files/GPS-cijm.pdf) with L. Gabasova, 
+-in 2018  an article on the [angel problem](/files/coursedemon.pdf),
+- in 2022 with two articles on [fractals](/files/fractals.pdf) and [Euclid's vision of shapes](/files/euclid-cijm.pdf), with Andrei Rodin and Florentin Waligorski.  
+
 
 I'm always open to working on popularisation, so don't hesitate to drop me a line if you have ideas (I have a few potential articles that need writing, but I've been busy focusing on research and activism).

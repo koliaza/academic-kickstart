@@ -32,4 +32,6 @@ I enjoy talking to high-schoolers, and appreciate giving them an intro to what r
 
 We also made a [poster on the future of democracy](/files/worldcon-democracy.red.pdf) with L. Gabasova at [Worldcon75](http://www.worldcon.fi/).
 
+I will be at [CIRM](https://www.cirm-math.com/) on October 13th, 2022 to give a talk to highschoolers on electoral mathematics.
+
 I'm always enthusiastic to interact with young students, and don't necessarily require a stipend (depending on whether I'm already on site, and what kind of public there is). Feel free to me a line if you want me to intervene at your institution.

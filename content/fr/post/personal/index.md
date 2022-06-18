@@ -25,7 +25,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Un collègue m'a récemment fait part de sa surprise quant au fait que ma recherche soit si indissociable de ma vie. C'est assez approprié, car j'ai tendance à appliquer ce que j'apprends à toutes les facettes de ma vie, et à me renseigner (voire à faire des recherches) sur un sujet dès qu'il acquiert une importance à mes yeux, peu importe le domaine associé.
+Un collègue m'a un jour fait part de sa surprise quant au fait que ma recherche soit si indissociable de ma vie. C'est assez approprié, car j'ai tendance à appliquer ce que j'apprends à toutes les facettes de ma vie, et à me renseigner (voire à faire des recherches) sur un sujet dès qu'il acquiert une importance à mes yeux, peu importe le domaine associé.
 
 
 

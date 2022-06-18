@@ -35,3 +35,5 @@ In 2016, we organised a [Spring School in Discrete Mathematics in Kosovo](http:/
 
 
 I participated in the creation of the [Mathmosphere](https://animath.fun-campus.fr/) education platform and created the first MOOC on it, on the subject of graph theory.
+
+I gave an online course titled "Introduction to crip theory" to 3rd-year students on the Sciences-Po Network. I recorded 9 2-hour video sessions which I can make privately available upon request (just send me an email). 

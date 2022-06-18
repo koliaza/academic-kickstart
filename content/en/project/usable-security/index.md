@@ -46,4 +46,6 @@ Our work so far includes research on:
 
 - [A new security primitive based on visual recognition]({{< ref "publication/blanchard-2021-visualsecrets" >}}), with an application to low-tech voting.
 
+- [Ideas for privacy by default through minimalism for surveys]({{< ref "publication/blanchard-2022-qvt" >}}), related to a software we're currently developing. 
+
 I've also given a talk on Human Computable Passwords in the Stanford EE:380 seminar in December 2018 ([video](https://www.youtube.com/watch?v=HalVaS-CvMU), [slides](/files/Human_Computable_Passwords_stanford.pdf)), and a similar talk at MIT CSAIL ([slides](/files/Human_Computable_Passwords_mit.pdf)).

@@ -30,7 +30,7 @@ Ma formation de départ était en mathématiques, et plus spécifiquement en th�
 J'ai ensuite travaillé avec [Nicolas Schabanel](https://www.irif.fr/users/nschaban/index) entre la fin de mon master et le milieu de ma thèse, principalement sur le clustering dynamique.
 
 
-Je poursuis toujours certains sujets de recherche mathématique, principalement avec  [Siargey Kachanovich](http://perso.eleves.ens-rennes.fr/people/siargey.kachanovich/) et Sébastien Bouchard. En ce moment, les deux problèmes m'intéressant le plus sont le maillage de sous-variétés et les problèmes de point location, ainsi que sur un problème d'agent distribué.
+Je poursuis toujours certains sujets de recherche mathématique, principalement avec  [Siargey Kachanovich](http://perso.eleves.ens-rennes.fr/people/siargey.kachanovich/) et Sébastien Bouchard. En ce moment, les problèmes m'intéressant le plus sont le maillage de sous-variétés et les problèmes de point location, ainsi qu'un problème d'agent distribué.
 
 Voilà quelques articles :
 
@@ -45,3 +45,5 @@ Voilà quelques articles :
 - Un deuxième sur le ["inflating enclosing ball problem"]({{< ref "publication/blanchard-2019-noteinflatingenclosing/" >}}).
 
 - Un preprint sur la  [génération de palindromes bilingues]({{< ref "publication/adams-2020-bilingualpalindromes/" >}}).
+
+- Un article sur les [mobilités du handicap]({{< ref "publication/blanchard-2022-Detectingtemporaryobstacles/" >}}) sans mathématiques originales mais montrant une application de la théorie de la percolation.

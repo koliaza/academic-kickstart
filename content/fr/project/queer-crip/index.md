@@ -26,7 +26,7 @@ J'ai un fort intérêt personnel envers ces deux domaines, datant d'avant que je
 
 Voilà quelques textes que j'ai écrit sur ces sujets (en anglais ou français selon le texte) :
 
--  Une série d'articles sur les [spatialités du handicap]({{< ref "publication/blanchard-2020-spatialitiesandtemporalities/" >}}), [ses temporalités]({{< ref "publication/blanchard-2020-spatialitiesandtemporalities2/" >}}) et la [dimensionalité générale]({{< ref "publication/blanchard-2021-disableddimensionality/" >}}).
+-  Une série d'articles sur les [spatialités du handicap]({{< ref "publication/blanchard-2020-spatialitiesandtemporalities/" >}}), [ses temporalités]({{< ref "publication/blanchard-2020-spatialitiesandtemporalities2/" >}}) et la [dimensionalité générale]({{< ref "publication/blanchard-2022-disableddimensionality/" >}}).
 
 - Un texte plus créatif sur [le voyage quand on a un handicap]({{< ref "publication/blanchard-2020-temporalexpenses/" >}}).
 
@@ -35,3 +35,11 @@ Voilà quelques textes que j'ai écrit sur ces sujets (en anglais ou français s
 - Un article sur [l'absence relative de personnes trans ayant un handicap moteur de naissance]({{< ref "publication/blanchard-2020-wherearethetranscrips/" >}}).
 
 - Deux articles sur le [traitement des minorités pendant le CoViD-19]({{< ref "publication/boubli-2020-thanatopolitique/" >}}) et la [thanatopolitique]({{< ref "publication/blanchard-2020-covidminorities/" >}}).
+
+- Un article sur [la mobilité handicapée et les mathématiques]({{< ref "publication/blanchard-2022-Detectingtemporaryobstacles/" >}}), ainsi que la difficulté de créer des bases de données sur l'accessibilité. 
+
+- Un article sur [l'esthétique trans et l'urbanité]({{< ref "publication/barbeau-2022-transaesthetics/" >}}).
+
+- Une réflexion sur [le harcèlement Twitter](https://academia.hypotheses.org/39675) que j'ai reçu suite à mon recrutement par le CNRS.
+
+J'ai aussi été invitée à discuter de ces sujets là lors d'un [séminaire sur les corps publics](https://www.youtube.com/watch?v=MiMaQ4zdwxM), ainsi que dans l'émission [Enjeux territoriaux](https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-territoriaux/le-territoire-vecu-des-personnes-handicapees-5395514) de France Culture. J'ai aussi donné un cours d'introduction aux questions crips (dans la section enseignement).

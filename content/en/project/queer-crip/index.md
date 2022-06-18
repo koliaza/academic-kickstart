@@ -35,3 +35,12 @@ I have written a few texts on the subject:
 - A paper on the [relative absence of trans people with early physical impairments]({{< ref "publication/blanchard-2020-wherearethetranscrips/" >}}).
 
 - Two articles in French on the [treatment of minorities during CoViD-19]({{< ref "publication/boubli-2020-thanatopolitique/" >}}) and the resulting [thanatopolitics]({{< ref "publication/blanchard-2020-covidminorities/" >}}).
+
+
+- An article on [disabled mobilities and mathematics]({{< ref "publication/blanchard-2022-Detectingtemporaryobstacles/" >}}), that also covers the difficulty in creating accessibility databases. 
+
+- An article on [trans aesthetics and urbanity]({{< ref "publication/barbeau-2022-transaesthetics/" >}}).
+
+- A reflexio on the  [Twitter harassment](https://academia.hypotheses.org/39675) I received upon joining the CNRS.
+
+I've also been invited to discuss those subjects, in a  [seminar on public bodies](https://www.youtube.com/watch?v=MiMaQ4zdwxM), as well as in the  [Enjeux territoriaux](https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-territoriaux/le-territoire-vecu-des-personnes-handicapees-5395514) radio show on France Culture. I've also given an introductory course on crip studies (in the Teaching tab).

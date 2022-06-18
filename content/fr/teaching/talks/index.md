@@ -32,4 +32,6 @@ J'aime beaucoup enseigner à des lycéens, et aime leur donner des introductions
 
 Avec L. Gabasova, nous avons aussi fait un [poster sur le futur de la démocratie](/files/worldcon-democracy.red.pdf) pour la [Worldcon75](http://www.worldcon.fi/).
 
+Je serai au  [CIRM](https://www.cirm-math.com/) le 13 octobre 2022 pour donner une conférence sur les maths électorales aux lycéennes et lycéens.
+
 J'apprécie toujours les interactions avec les jeunes élèves, et n'exige pas forcément d'être payée (selon le public, et surtout si je suis déjà sur place). N'hésitez donc pas à me contacter si vous voulez que j'intervienne dans votre institut.

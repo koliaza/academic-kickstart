@@ -45,4 +45,7 @@ Nos travaux (la plupart étant en anglais) ont portés sur des sujets comme :
 
 - [Une nouvelle primitive de sécurité basée sur la reconnaissance visuelle]({{< ref "publication/blanchard-2021-visualsecrets" >}}), avec une application au vote.
 
+
+- [Des idées pour un système de sondage minimaliste faisant de la privacy by default]({{< ref "publication/blanchard-2022-qvt" >}}), lié à un logiciel en cours de développement pour l'UPHF.
+
 J'ai aussi été invitée à donner une conférence intitulée "Human Computable Passwords" au séminaire EE:380 de Stanford en Décembre 2018 ([vidéo](https://www.youtube.com/watch?v=HalVaS-CvMU), [slides](/files/Human_Computable_Passwords_stanford.pdf)), et une présentation similaire à MIT CSAIL ([slides](/files/Human_Computable_Passwords_mit.pdf)).

@@ -32,7 +32,7 @@ This page has the relevant information if you want to learn about the system or 
 
 Our initial [paper](/publication/blanchard-2021-phraseverifiedvoting/), published in Cryptologia in 2021.
 
-A [journal article](/files/PVV-cohe.pdf) featuring a quick summary of the system for laypeople.
+A [news article](/files/PVV-cohe.pdf) featuring a quick summary of the system without digging into its technical properties.
 
 A short [guide](/files/PVV-guide.pdf) explaining how to use it, with links to the scripts we developed.
 
