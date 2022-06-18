@@ -2,7 +2,7 @@
 title: "Queer fragmentation and trans urban aesthetics: from cyberpunk to cottagecore"
 date: 2022-11-17
 publishDate: 2022-11-17T22:00:24.656518Z
-authors: ["Erin Barbeau","Enka Blanchard","Levi Qışın","Vinicius Santos Almeida"]
+authors: ["Erin Barbeau","Enka Blanchard","Levi Qisın","Vinicius Santos Almeida"]
 publication_types: ["2"]
 categories: ["publication"]
 abstract: "Queerness and transidentity have had a durable relationship with cyberpunk aesthetics, re-
