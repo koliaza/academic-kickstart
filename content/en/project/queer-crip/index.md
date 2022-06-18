@@ -37,7 +37,7 @@ I have written a few texts on the subject:
 - Two articles in French on the [treatment of minorities during CoViD-19]({{< ref "publication/boubli-2020-thanatopolitique/" >}}) and the resulting [thanatopolitics]({{< ref "publication/blanchard-2020-covidminorities/" >}}).
 
 
-- An article on [disabled mobilities and mathematics]({{< ref "publication/blanchard-2022-Detectingtemporaryobstacles/" >}}), that also covers the difficulty in creating accessibility databases. 
+- An article on [disabled mobilities and mathematics]({{< ref "publication/blanchard-2022-temporaryobstacles/" >}}), that also covers the difficulty in creating accessibility databases. 
 
 - An article on [trans aesthetics and urbanity]({{< ref "publication/barbeau-2022-transaesthetics/" >}}).
 
