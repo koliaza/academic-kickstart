@@ -36,7 +36,7 @@ Directeurs: Nicolas Schabanel et Ted Selker;
 Rapporteurs: Michelle Mazurek ([report](/files/mazurek_report.pdf)), David Naccache ([report](/files/naccache_report.pdf)), Peter Y. A. Ryan  ([report](/files/ryan_report.pdf));
 
  
-Examinateurs: Adrian Kosowski et Marine Minier (présidente du jury)."
+Examinateurs: Adrian Kosowski et Marine Minier (présidente du jury).
 
 Cette thèse reçu le prix PSL de la meilleure thèse à l'interface Sciences-Humanités. [Voici](https://www.youtube.com/watch?v=1t_p80nIkho) une vidéo de la courte présentation.
 "
