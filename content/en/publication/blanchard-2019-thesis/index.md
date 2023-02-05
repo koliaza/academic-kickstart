@@ -41,9 +41,11 @@ Reviewers: Michelle Mazurek ([report](/files/mazurek_report.pdf)), David Naccach
 
  
 Examiners: Adrian Kosowski and Marine Minier (president of the jury).
+
+The thesis won the PSL award for best thesis at the science-humanities interface. [Here](https://www.youtube.com/watch?v=1t_p80nIkho) is a video of the short presentation.
 "
 featured: false
-url_pdf: "http://theses.md.univ-paris-diderot.fr/BLANCHARD_Enka_1_va_20190621.pdf"
+url_source: "http://theses.md.univ-paris-diderot.fr/BLANCHARD_Enka_1_va_20190621.pdf"
 url_video: "https://youtu.be/zmQ0UpDgPvQ"
 url_slides: "handout.pdf"
 

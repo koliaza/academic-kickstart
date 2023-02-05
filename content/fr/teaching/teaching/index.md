@@ -34,7 +34,7 @@ Mon poste actuel n'a aucune charge d'enseignement, mais j'ai enseigné plusieurs
 Avec Siargey Kachanovich et le soutien d'Animath, nous avons aussi organisé une [école d'été de mathématiques discrètes au Kosovo](http://koliaza.com/old/prishtina16.html). Je suis aussi partie en Moldavie avec Mardin Andler pour former des professeurs et essayer de créer de nouveaux clubs Animath.
 
 
-J'ai aussi contribué à la création de [Mathmosphere](https://animath.fun-campus.fr/), en y créant le premier MOOC, sur la théorie des graphes.
+J'ai aussi contribué à la création de [Mathmosphere](https://www.animath.fr/mathmosphere/), en y créant le premier MOOC, sur la théorie des graphes.
 
 
 J'ai enseigné un cours en ligne d'introduction aux études critiques du handicap sur le réseau commun Sciences-Po pour les étudiantes et étudiants de 3ème année. J'ai enregistré 9 sessions de 2 heures que je peux partager (à usage privé, sur demande par email).

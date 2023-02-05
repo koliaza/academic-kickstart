@@ -43,7 +43,7 @@ Suivez ce [lien](http://koliaza.com/visualsecrets) en anglais et suivez les inst
 
 
 *Gestionnaire mental de mots de passe*.
-Nous avons récemment développé un nouveau type de gestionnaire de mots de passe nommé [Cue-pin-Select](/publication/blanchard-2019-cuepinselect/), qui marche entièrement de tête et ne nécessite que la mémorisation d'une phrase de passe. Après des tests initiaux sur un petit groupe de sujets, nous sommes à la recherche de nouvelles personnes qui aimeraient tester cet algorithme. Envoyez-nous un email pour participer.
+Nous avons récemment développé un nouveau type de gestionnaire de mots de passe nommé [Cue-pin-Select](/publication/blanchard-2020-cuepinselect/), qui marche entièrement de tête et ne nécessite que la mémorisation d'une phrase de passe. Après des tests initiaux sur un petit groupe de sujets, nous sommes à la recherche de nouvelles personnes qui aimeraient tester cet algorithme. Envoyez-nous un email pour participer.
 
 
 *Crowd-sourcing de données semi-publiques pour détecter la propagande nazie*. 

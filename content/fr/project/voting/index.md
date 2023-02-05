@@ -42,7 +42,7 @@ Nos recherches nous ont amenés à considérer les sujets suivants (en anglais) 
 - [Les systèmes de vote en basse technologie pour petits comités]({{< ref "publication/blanchard-2022-boardroomvoting/" >}}) et une [version en ligne and pour UMBC]({{< ref "publication/blanchard-2021-phraseverifiedvoting/" >}}).
  
 
-- [Une analyse du système Neovote]({{< ref "publication/blanchard-2022-neovotesecurity/" >}}), notamment utilisé pour les primaires de l'élection présidentielle de 2022, ainsi qu'un [article plus court en français]({{< ref "publication/blanchard-2022-analyseneovote/" >}}), et un [article de presse sur la transparence de ces systèmes](https://acteurspublics.fr/articles/enka-blanchard-exigeons-la-transparence-des-technologies-publiques) ([en pdf](/files/Blanchard-Acteurs-Publics.pdf))
+- [Une analyse du système Neovote]({{< ref "publication/blanchard-2022-neovotesecurity/" >}}), notamment utilisé pour les primaires de l'élection présidentielle de 2022, ainsi qu'un [article plus court en français]({{< ref "publication/blanchard-2022-analyseneovote/" >}}), et un [article de presse sur la transparence de ces systèmes](https://acteurspublics.fr/articles/enka-blanchard-exigeons-la-transparence-des-technologies-publiques) ([en pdf](/files/Blanchard-Acteurs-Publics.pdf)). J'ai aussi donné plusieurs séminaires sur le sujet, notamment au [séminaire de cybersécurité de l'UMBC](https://www.youtube.com/watch?v=yoKY1PbYsGM).
 
 - [Un court article sur les mathématiques électorales](
 https://www.espacestemps.net/en/articles/abstention-et-mathematiques-electorales/)

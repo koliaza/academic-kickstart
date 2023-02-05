@@ -42,4 +42,6 @@ Voilà quelques textes que j'ai écrit sur ces sujets (en anglais ou français s
 
 - Une réflexion sur [le harcèlement Twitter](https://academia.hypotheses.org/39675) que j'ai reçu suite à mon recrutement par le CNRS.
 
-J'ai été invitée à discuter de ces sujets là lors d'un [séminaire sur les corps publics](https://www.youtube.com/watch?v=MiMaQ4zdwxM), ainsi que dans l'émission [Enjeux territoriaux](https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-territoriaux/le-territoire-vecu-des-personnes-handicapees-5395514) de France Culture. J'ai aussi donné un cours d'introduction aux questions crips (dans la section enseignement).
+J'ai donné plusieurs séminaires sur ces sujets, dont deux enregistrés : un [séminaire sur les corps publics](https://www.youtube.com/watch?v=MiMaQ4zdwxM), et un deuxième sur [les oppositions des études du handicap : francophone contre anglophone / quali contre quanti](https://pod.uphf.fr/video/4489-20230112-seminaire-mh2-enka-blanchard/) (téléchargez la vidéo pour une meilleure qualité)
+
+J'ai été invitée à discuter de ces sujets dans l'émission [Enjeux territoriaux](https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-territoriaux/le-territoire-vecu-des-personnes-handicapees-5395514) de France Culture ainsi que dans un [débat sans filtre](https://www.youtube.com/watch?v=aIVfXQc3COM&t) organisé par Cédric Villani. J'ai aussi donné un cours d'introduction aux questions crips en 2022 (dans la section enseignement).

@@ -41,7 +41,7 @@ Our work so far includes research on:
 
 - [Low-tech boardroom voting systems]({{< ref "publication/blanchard-2022-boardroomvoting/" >}}), and [online low-tech boardroom voting for UMBC]({{< ref "publication/blanchard-2021-phraseverifiedvoting/" >}}).
  
-- [Analysis of the Neovote voting system]({{< ref "publication/blanchard-2022-neovotesecurity/" >}}), and a shorter [French paper on the subject]({{< ref "publication/blanchard-2022-analyseneovote/" >}}), as well as a [French press article](https://acteurspublics.fr/articles/enka-blanchard-exigeons-la-transparence-des-technologies-publiques) ([in pdf](/files/Blanchard-Acteurs-Publics.pdf))
+- [Analysis of the Neovote voting system]({{< ref "publication/blanchard-2022-neovotesecurity/" >}}), and a shorter [French paper on the subject]({{< ref "publication/blanchard-2022-analyseneovote/" >}}), as well as a [French press article](https://acteurspublics.fr/articles/enka-blanchard-exigeons-la-transparence-des-technologies-publiques) ([in pdf](/files/Blanchard-Acteurs-Publics.pdf)). I also gave multiple talks on the subject including at the [UMBC cybersecurity seminar](https://www.youtube.com/watch?v=yoKY1PbYsGM).
 
 - [Short French article on electoral mathematics](
 https://www.espacestemps.net/en/articles/abstention-et-mathematiques-electorales/)
@@ -50,4 +50,5 @@ I've also been invited to give a few talks on the subject:
 - at the [2016 Global Forum on Modern Direct Democracy](http://www.2016globalforum.com/) ([slides](/files/global_forum_1st.pdf)), where I organised the first public RSV demo.
 - at the [2017 World Forum for Democracy](https://www.coe.int/en/web/world-forum-democracy/about2017wfd), where I also organised an RSV demo. 
 - at the [2018 POINT Conference on Political Accountability and New Technologies](https://www.fes-soe.org/news-list/e/point-70-conference-political-accountability-and-new-technologies/).
-I also had an interview with Audrey Tang (digital minister of Taiwan) to discuss the use of new technologies in voting ([blurry video](https://youtu.be/F-39uAz98wA) and [transcript](https://sayit.archive.tw/2017-03-28-nicolas-blanchard-visit)).
+
+I also had an interview with Audrey Tang (digital minister of Taiwan) to discuss the use of new technologies in voting in 2017 ([blurry video](https://youtu.be/F-39uAz98wA) and [transcript](https://sayit.archive.tw/2017-03-28-nicolas-blanchard-visit)).

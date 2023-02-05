@@ -34,6 +34,6 @@ I am currently employed in a research-only position, but I used to teach at the 
 In 2016, we organised a [Spring School in Discrete Mathematics in Kosovo](http://koliaza.com/old/prishtina16.html) with Siargey Kachanovich, with the support of Animath. I then went to Moldova with Mardin Andler to train teachers there and try to create new Animath clubs.
 
 
-I participated in the creation of the [Mathmosphere](https://animath.fun-campus.fr/) education platform and created the first MOOC on it, on the subject of graph theory.
+I participated in the creation of the [Mathmosphere](https://www.animath.fr/mathmosphere/) education platform and created the first MOOC on it, on the subject of graph theory.
 
 I gave an online course titled "Introduction to crip theory" to 3rd-year students on the Sciences-Po Network. I recorded 9 2-hour video sessions which I can make privately available upon request (just send me an email). 

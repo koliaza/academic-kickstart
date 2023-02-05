@@ -99,4 +99,6 @@ Je suis en train de publier un [livre](http://koliaza.com/old/book.html) sur l'u
 
 J'ai récemment recruté Mehdi Bouhamidi comme étudiant en thèse sur la biométrique oculaire (sans entrer dans les méthodologies standards, le but n'est pas de recréer minority report).  La fiche du projet se trouve [ici](http://koliaza.com/biometrics-thesis-fr.pdf). 
 
+J'ai évalué des articles pour un certain nombre de journaux/conférences (NPSS, EspacesTemps, RoCHI, E-Vote-ID) et j'ai souvent du temps pour évaluer des articles sur mes champs de compétence, tant que ceux-ci sont publiés en open-access (vrai, donc sans APC), étant une des premières signataires de [nofreeviewnoreview.org/](nofreeviewnoreview.org/).
+
 Si vous voulez en savoir plus sur moi personnellement, [c'est ici]({{< ref "/post/personal/" >}}).

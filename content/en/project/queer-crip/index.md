@@ -43,4 +43,6 @@ I have written a few texts on the subject:
 
 - A reflexion on the  [Twitter harassment](https://academia.hypotheses.org/39675) I received upon joining the CNRS.
 
-I have  been invited to discuss those subjects, in a  [seminar on public bodies](https://www.youtube.com/watch?v=MiMaQ4zdwxM), as well as in the  [Enjeux territoriaux](https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-territoriaux/le-territoire-vecu-des-personnes-handicapees-5395514) radio show on France Culture. I've also given an introductory course on crip studies (in the Teaching tab).
+I have  been discussed those subjects in a  [seminar on public bodies](https://www.youtube.com/watch?v=MiMaQ4zdwxM) and another one on [the oppositions in disability studies : francophone against anglphone, qualitative against quantitative](https://pod.uphf.fr/video/4489-20230112-seminaire-mh2-enka-blanchard/) (in French, download the video for higher quality), 
+
+I have also been invited to the [Enjeux territoriaux](https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-territoriaux/le-territoire-vecu-des-personnes-handicapees-5395514) radio show on France Culture and in a [débat sans filtre](https://www.youtube.com/watch?v=aIVfXQc3COM&t) organised by Cédric Villani. Finally, I gave in 2022 an introductory course on crip studies (in the Teaching tab). 

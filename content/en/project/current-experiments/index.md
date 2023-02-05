@@ -44,7 +44,7 @@ Click on this [link](http://koliaza.com/visualsecrets), and follow the instructi
 
 
 *Mental-only secure password managers*.
-We recently developed a new kind of password manager called [Cue-pin-Select](/publication/blanchard-2019-cuepinselect/) that works using only your brain, but only requires you to remember one short sentence. After initial tests on a limited group of subjects, we are looking for two dozen users who would be ready to do a longer study (with tasks twice per day, for a week). To participate, send us an email.
+We recently developed a new kind of password manager called [Cue-pin-Select](/publication/blanchard-2020-cuepinselect/) that works using only your brain, but only requires you to remember one short sentence. After initial tests on a limited group of subjects, we are looking for two dozen users who would be ready to do a longer study (with tasks twice per day, for a week). To participate, send us an email.
 
 
 *Crowd-sourcing semi-public data to detect nazi propaganda*. 
