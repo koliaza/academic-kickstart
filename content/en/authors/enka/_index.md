@@ -97,6 +97,6 @@ I'm currently in the process of publishing a [book](http://koliaza.com/old/book.
 
 I have recently recruited Mehdi Bouhamidi as a PhD student on eye biometrics  (without following the usual methodologies, we're not trying to remake minority report). This  project is detailed [here](http://koliaza.com/biometrics-thesis-en.pdf). 
 
-I have reviewed papers for a variety of journals and conferences (NPSS, EspacesTemps, RoCHI, E-Vote-ID) and generally have time to review more papers, as long as the venues are diamond open access or equivalent, being one of the first signatories of  [nofreeviewnoreview.org/](nofreeviewnoreview.org/).
+I have reviewed papers for a variety of journals and conferences (NPSS, EspacesTemps, RoCHI, E-Vote-ID) and generally have time to review more papers, as long as the venues are diamond open access or equivalent, being one of the first signatories of  [nofreeviewnoreview.org/](https://nofreeviewnoreview.org/).
 
 [Click here]({{< ref "/post/personal/" >}}) if you want to know a bit more about me, non-professionally.
