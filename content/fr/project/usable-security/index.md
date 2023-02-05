@@ -43,7 +43,7 @@ Nos travaux (la plupart étant en anglais) ont portés sur des sujets comme :
 
 - La correction de fautes de frappe dans les mots de passe, [en théorie]({{< ref "publication/blanchard-2019-passwordtypocorrection/" >}}) et  [en pratique]({{< ref "publication/blanchard-2020-typocorrection/" >}}). [Court article]({{< ref "publication/blanchard-2019-commentcorrigerefficacement/" >}}) en français. [Article version journal]({{< ref "publication/blanchard-2020-clientsidehashing/" >}})  résumant ces travaux et ceux de l'article précédent.
 
-- [Une nouvelle primitive de sécurité basée sur la reconnaissance visuelle]({{< ref "publication/blanchard-2021-visualsecrets" >}}), avec une application au vote.
+- [Une nouvelle primitive de sécurité basée sur la reconnaissance visuelle]({{< ref "publication/blanchard-2022-visualsecrets" >}}), avec une application au vote.
 
 
 - [Des idées pour un système de sondage minimaliste faisant de la privacy by default]({{< ref "publication/blanchard-2022-qvt" >}}), lié à un logiciel en cours de développement pour l'UPHF.
