@@ -1,5 +1,5 @@
 ---
-title: "Trans\*crip"
+title: "Trans-crip"
 date: 2024-01-17
 publishDate: 2024-03-18T22:00:24.656518Z
 authors: ["Emma Bigé", "Enka Blanchard"]
