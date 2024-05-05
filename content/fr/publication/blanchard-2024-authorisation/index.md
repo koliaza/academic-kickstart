@@ -5,7 +5,7 @@ publishDate: 2024-04-17T22:00:24.656518Z
 authors: ["Enka Blanchard","Mehdi Bouhamidi", "Jörg Pohle"]
 publication_types: ["2"]
 categories: ["publication"]
-publication: "*Preprint of a chapter of "L’identité numérique en construction. Quels enjeux et quels modèles ?" (eds. J. Eynard and G. Macilotti), Larcier Intersentia *"
+publication: "*Preprint of a chapter of L'identité numérique en construction. Quels enjeux et quels modèles ? (eds. J. Eynard and G. Macilotti), Larcier Intersentia *"
 abstract: "Whether online or offline, questions of identities and identification have been a topic of ongoing discussion and debate in society for many years. In many Western societies, the last decades have seen an ever-growing emphasis placed upon the malleability and flux of identities. This is in contrast to the perceived stability of human identities in the past, often characterised by “stable relationships” in society, family or lifelong employment. 
 The celebration of the relative historical novelty of these aspects of identity often overshadows the importance of social categorisation, i.e. the categorisation of others, in shaping an individual's experiences in society . Self or group identification, i.e. how individuals or groups identify themselves, is but one mode of identification. The fundamental process of identifying involves specifying what something or someone is and what it is not, including its or their properties or characteristics. Humans regularly engage in dialectic processes of identification with internal and external moments, involving how they identify themselves, how others identify them, and the ongoing interplay of these processes in social identification. Those others may not only be humans but also institutions.
 
